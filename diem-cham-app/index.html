@@ -263,6 +263,29 @@ main{padding-block:var(--s-10);}
 @media(max-width:520px){.news__actions .go{border-right:0;padding-right:0;}}
 .empty{text-align:center;color:var(--dim);padding:40px 0;border:1px dashed var(--line);border-radius:var(--r);}
 
+/* ===== PHÂN TRANG ===== */
+.pager{display:flex;flex-direction:column;align-items:center;gap:14px;margin-top:26px;}
+.pager:empty{display:none;}
+.pager__dem{font-size:13.5px;color:var(--dim);}
+.pager__dem b{color:var(--muted);font-weight:700;}
+.them{cursor:pointer;font-family:inherit;font-weight:700;font-size:14.5px;color:var(--accent-2);
+  background:var(--accent-soft);border:1px solid var(--accent-line);border-radius:var(--pill);
+  padding:11px 26px;display:inline-flex;align-items:center;gap:8px;transition:.15s;}
+.them:hover{background:#dbe9ec;gap:11px;}
+.them .icon{color:var(--accent);}
+.pager__so{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;}
+.pg{cursor:pointer;font-family:inherit;font-size:14px;font-weight:600;min-width:38px;height:38px;
+  padding:0 11px;border:1px solid var(--line);background:#fff;color:var(--muted);border-radius:9px;transition:.15s;}
+.pg:hover{border-color:var(--ink);color:var(--ink);}
+.pg[aria-current="true"]{background:var(--ink);border-color:var(--ink);color:#fff;}
+.pg[disabled]{opacity:.4;cursor:default;}
+.pg[disabled]:hover{border-color:var(--line);color:var(--muted);}
+.pg--nhay{border:0;background:none;cursor:default;min-width:20px;padding:0;color:var(--dim);}
+.pg--nhay:hover{color:var(--dim);}
+@media(max-width:520px){
+  .pg{min-width:34px;height:34px;padding:0 8px;font-size:13.5px;}
+}
+
 /* ===== BẢN ĐỒ CHỦ ĐỀ ===== */
 .theme{border:1px solid var(--line);border-radius:12px;background:#fff;overflow:hidden;transition:.16s;margin-bottom:10px;}
 .theme:hover{border-color:#cfd6d9;}
@@ -450,6 +473,7 @@ main{padding-block:var(--s-10);}
 <article class="news"><div class="news__meta"><span class="d">11/08/2026</span><span>Shep Hyken · Customer Service Blog</span><span class="dot dot--vua">Đáng chú ý</span></div><h3><a href="https://hyken.com/customer-experience/top-5-customer-service-cx-articles-august-10-2026/" target="_blank" rel="noopener">Top 5 Customer Service &amp; CX Articles for Week of August 10, 2026</a></h3><p>Every week, I read dozens of articles on customer service and customer experience from a wide range of sources. Below are my top five picks from last week, along with my takeaways. I’d love to hear your thoughts as well. How Do Customers Really Feel About Using AI? by Megan Jones (Call Centre Helper) Customer […]</p><div class="why"><b>Tóm tắt tiếng Việt</b><p>Bài tổng hợp 5 bài viết đáng chú ý tuần này về customer service (dịch vụ khách hàng) và CX, trong đó có khảo sát cảm nhận thực sự của khách hàng khi dùng AI trong tương tác dịch vụ.</p><p class="yk"><span>Góc nhìn ứng dụng</span> Ít nhất một chỉ số về cảm nhận AI của khách nên được đo định kỳ để tránh triển khai chatbot theo cảm tính mà bỏ qua trải nghiệm thật.</p></div><a class="go" href="https://hyken.com/customer-experience/top-5-customer-service-cx-articles-august-10-2026/" target="_blank" rel="noopener">Đọc bản gốc</a></article>
 <article class="news"><div class="news__meta"><span class="d">11/08/2026</span><span>CMSWire</span><span class="dot dot--vua">Đáng chú ý</span></div><h3><a href="https://www.cmswire.com/customer-experience/the-ai-doers-vs-the-ai-theorists-in-customer-experience/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">The AI Doers vs. The AI Theorists in Customer Experience</a></h3><p>AI thought leadership exploded faster than successful AI deployments. Here&#39;s how to tell practitioners from theorists. Continue reading...</p><div class="why"><b>Tóm tắt tiếng Việt</b><p>Bài chỉ ra khoảng cách giữa số người nói về AI trong CX và số người thực sự triển khai thành công, đồng thời gợi ý cách phân biệt người làm thật với người chỉ lý thuyết suông.</p><p class="yk"><span>Góc nhìn ứng dụng</span> Cái khó không nằm ở chọn công cụ AI mà ở đo lường xem nó có thực sự cải thiện điểm chạm khách hàng hay chỉ làm đẹp báo cáo nội bộ.</p></div><a class="go" href="https://www.cmswire.com/customer-experience/the-ai-doers-vs-the-ai-theorists-in-customer-experience/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">Đọc bản gốc</a></article>
 <!--TIN-SSR-END--></div>
+    <div class="pager" id="pg-case"></div>
   </div>
 </section>
 
@@ -469,6 +493,7 @@ main{padding-block:var(--s-10);}
       <button class="chip" data-g="hocthuat" aria-pressed="false">Nghiên cứu</button>
     </div>
     <div class="list" id="tinlist"><div class="empty">Đang tải tin…</div></div>
+    <div class="pager" id="pg-tin"></div>
   </div>
 </section>
 
@@ -487,6 +512,7 @@ main{padding-block:var(--s-10);}
       <button class="chip" data-s="hn" aria-pressed="false">Hacker News</button>
     </div>
     <div class="list" id="tllist"><div class="empty">Đang tải thảo luận…</div></div>
+    <div class="pager" id="pg-tl"></div>
   </div>
 </section>
 
@@ -633,10 +659,111 @@ function theBai(n){
       </div>
     </article>`;
 }
-function veDanhSach(hopId, ds, trong){
-  const box=$(hopId); if(!box) return;
-  box.innerHTML = ds.length ? ds.map(theBai).join("") : `<div class="empty">${trong}</div>`;
+/* ===== PHÂN TRANG =====
+ * Mỗi tab có tới trăm rưỡi bài, đổ hết ra một trang thì cuộn mỏi tay mà vẫn chưa hết.
+ * Hai cách đi tới bài cũ, cùng tồn tại:
+ *   - Nút "Xem thêm": nối thêm một trang vào ngay dưới, giữ nguyên chỗ đang đọc.
+ *     Hợp với người đọc lướt liên tục.
+ *   - Dãy số trang: nhảy hẳn tới trang đó và chỉ hiện trang đó, rồi cuộn lên đầu danh sách.
+ *     Hợp với người muốn lùi về mốc thời gian xa.
+ * Vì vậy mỗi tab nhớ hai con số: đang bắt đầu từ trang nào, và đã nối thêm bao nhiêu trang.
+ */
+const MOI_TRANG = 15;
+const trangTab = {
+  case: { trang: 1, daNoi: 1 },
+  tin:  { trang: 1, daNoi: 1 },
+  tl:   { trang: 1, daNoi: 1 },
+};
+/* Đổi bộ lọc hay gõ tìm kiếm thì phải về trang đầu, không thì đang ở trang 7
+   mà kết quả mới chỉ có 2 trang là màn hình trống trơn. */
+function veTrangDau(khoa){ trangTab[khoa].trang = 1; trangTab[khoa].daNoi = 1; }
+
+/* Dãy số trang có rút gọn: luôn hiện trang đầu, trang cuối, cả khoảng đang xem, và
+   hai trang đệm mỗi bên. Nhận CẢ KHOẢNG chứ không chỉ một trang, vì bấm "Xem thêm"
+   nhiều lần thì màn hình đang hiện liền mấy trang một lúc.
+   Đệm để hai chứ không phải một: ở trang 1 của 10 mà chỉ đệm một thì dãy ra "1 2 … 10",
+   người đọc muốn tới trang 4 phải bấm nhiều lần mới tới. */
+const DEM_TRANG = 2;
+function daySoTrang(tuTrang, denTrang, tong){
+  const ra = [];
+  const them = n => { if (n >= 1 && n <= tong && !ra.includes(n)) ra.push(n); };
+  them(1);
+  for (let i = tuTrang - DEM_TRANG; i <= denTrang + DEM_TRANG; i++) them(i);
+  them(tong);
+  ra.sort((a, b) => a - b);
+  const co = [];
+  for (let i = 0; i < ra.length; i++){
+    if (i && ra[i] - ra[i-1] > 1) co.push("…");
+    co.push(ra[i]);
+  }
+  return co;
 }
+
+function vePhanTrang(khoa, hopPager, tongBai, dau, cuoi){
+  const box = $(hopPager); if(!box) return;
+  const st = trangTab[khoa];
+  const tongTrang = Math.max(1, Math.ceil(tongBai / MOI_TRANG));
+  if (tongBai <= MOI_TRANG){ box.innerHTML = ""; return; }
+
+  const conLai = tongBai - cuoi;
+  const nutThem = conLai > 0
+    ? `<button class="them" type="button" data-them="1">Xem thêm ${Math.min(conLai, MOI_TRANG)} bài
+         <svg class="icon icon--sm" viewBox="0 0 24 24"><path d="M12 5v14M6 13l6 6 6-6"/></svg></button>`
+    : "";
+
+  // Bấm "Xem thêm" nhiều lần thì đang xem liền một khoảng trang, tô đậm cả khoảng đó.
+  const trangCuoi = Math.min(tongTrang, st.trang + st.daNoi - 1);
+  const so = daySoTrang(st.trang, trangCuoi, tongTrang).map(x =>
+    x === "…"
+      ? `<span class="pg pg--nhay">…</span>`
+      : `<button class="pg" type="button" data-trang="${x}"${(x>=st.trang&&x<=trangCuoi)?' aria-current="true"':''}>${x}</button>`
+  ).join("");
+
+  box.innerHTML =
+    `<p class="pager__dem">Đang xem <b>${dau+1}</b> tới <b>${cuoi}</b> trong <b>${tongBai}</b> bài</p>`
+    + nutThem
+    + `<div class="pager__so">`
+    +   `<button class="pg" type="button" data-trang="${st.trang-1}"${st.trang<=1?" disabled":""} aria-label="Trang trước">‹</button>`
+    +   so
+    +   `<button class="pg" type="button" data-trang="${trangCuoi+1}"${trangCuoi>=tongTrang?" disabled":""} aria-label="Trang sau">›</button>`
+    + `</div>`;
+}
+
+function veDanhSach(khoa, hopId, hopPager, ds, trong){
+  const box=$(hopId); if(!box) return;
+  const st = trangTab[khoa];
+  const tongTrang = Math.max(1, Math.ceil(ds.length / MOI_TRANG));
+  if (st.trang > tongTrang) veTrangDau(khoa);
+
+  const dau = (st.trang - 1) * MOI_TRANG;
+  const cuoi = Math.min(ds.length, dau + st.daNoi * MOI_TRANG);
+  const phan = ds.slice(dau, cuoi);
+
+  box.innerHTML = phan.length ? phan.map(theBai).join("") : `<div class="empty">${trong}</div>`;
+  vePhanTrang(khoa, hopPager, ds.length, dau, cuoi);
+}
+
+/* Bấm số trang hoặc nút Xem thêm. Gắn một lần cho cả ba tab. */
+function noiPhanTrang(khoa, hopPager, hopId, veLai){
+  const box = $(hopPager); if(!box) return;
+  box.addEventListener("click", e => {
+    const st = trangTab[khoa];
+    const bThem = e.target.closest("[data-them]");
+    if (bThem){
+      // Nối thêm một trang. KHÔNG cuộn: phần đang đọc nằm nguyên chỗ cũ, bài mới hiện ở dưới.
+      st.daNoi++;
+      veLai();
+      return;
+    }
+    const bTrang = e.target.closest("[data-trang]");
+    if (!bTrang || bTrang.disabled) return;
+    st.trang = Math.max(1, Number(bTrang.dataset.trang) || 1);
+    st.daNoi = 1;
+    veLai();
+    scrollTo($(hopId), "start");
+  });
+}
+
 const khopTim=(n,q)=>!q||(n.t+" "+(n.s||"")+" "+(n.w||"")+" "+(n.y||"")+" "+(n.src||"")).toLowerCase().includes(q);
 const moiTruoc=(a,b)=>String(b.d).localeCompare(String(a.d));
 
@@ -645,13 +772,14 @@ let fCase="all";
 function renderCase(){
   const q=$("#q-case").value.trim().toLowerCase();
   const ds=CASE.filter(n=>(fCase!=="cao"||n.imp==="cao")&&khopTim(n,q)).slice().sort(moiTruoc);
-  veDanhSach("#caselist",ds,"Không có bài nào khớp. Thử bỏ bớt từ khóa.");
+  veDanhSach("case","#caselist","#pg-case",ds,"Không có bài nào khớp. Thử bỏ bớt từ khóa.");
 }
 $$('#p-case .chips [data-f]').forEach(c=>c.addEventListener("click",()=>{
   $$('#p-case .chips [data-f]').forEach(x=>x.setAttribute("aria-pressed","false"));
-  c.setAttribute("aria-pressed","true"); fCase=c.dataset.f; renderCase();
+  c.setAttribute("aria-pressed","true"); fCase=c.dataset.f; veTrangDau("case"); renderCase();
 }));
-$("#q-case").addEventListener("input",renderCase);
+$("#q-case").addEventListener("input",()=>{ veTrangDau("case"); renderCase(); });
+noiPhanTrang("case","#pg-case","#caselist",renderCase);
 
 /* ---- tab 2: tin tức & nghiên cứu ---- */
 let fTin="all";
@@ -663,13 +791,14 @@ function nhomTin(n){
 function renderTin(){
   const q=$("#q-tin").value.trim().toLowerCase();
   const ds=TIN.filter(n=>(fTin==="all"||nhomTin(n)===fTin)&&khopTim(n,q)).slice().sort(moiTruoc);
-  veDanhSach("#tinlist",ds,"Chưa có tin ở nhóm này. Chờ bộ thu thập chạy lúc 7h sáng.");
+  veDanhSach("tin","#tinlist","#pg-tin",ds,"Chưa có tin ở nhóm này. Chờ bộ thu thập chạy lúc 7h sáng.");
 }
 $$('#p-tin .chips [data-g]').forEach(c=>c.addEventListener("click",()=>{
   $$('#p-tin .chips [data-g]').forEach(x=>x.setAttribute("aria-pressed","false"));
-  c.setAttribute("aria-pressed","true"); fTin=c.dataset.g; renderTin();
+  c.setAttribute("aria-pressed","true"); fTin=c.dataset.g; veTrangDau("tin"); renderTin();
 }));
-$("#q-tin").addEventListener("input",renderTin);
+$("#q-tin").addEventListener("input",()=>{ veTrangDau("tin"); renderTin(); });
+noiPhanTrang("tin","#pg-tin","#tinlist",renderTin);
 
 /* ---- tab 3: thảo luận cộng đồng ---- */
 let fTL="all";
@@ -684,13 +813,14 @@ function renderTL(){
     const c=moiTruoc(a,b);
     return c!==0?c:(b.diem||0)-(a.diem||0);
   });
-  veDanhSach("#tllist",ds,"Chưa có bài thảo luận nào. Chờ bộ thu thập chạy lúc 7h sáng.");
+  veDanhSach("tl","#tllist","#pg-tl",ds,"Chưa có bài thảo luận nào. Chờ bộ thu thập chạy lúc 7h sáng.");
 }
 $$('#p-tl .chips [data-s]').forEach(c=>c.addEventListener("click",()=>{
   $$('#p-tl .chips [data-s]').forEach(x=>x.setAttribute("aria-pressed","false"));
-  c.setAttribute("aria-pressed","true"); fTL=c.dataset.s; renderTL();
+  c.setAttribute("aria-pressed","true"); fTL=c.dataset.s; veTrangDau("tl"); renderTL();
 }));
-$("#q-tl").addEventListener("input",renderTL);
+$("#q-tl").addEventListener("input",()=>{ veTrangDau("tl"); renderTL(); });
+noiPhanTrang("tl","#pg-tl","#tllist",renderTL);
 
 /* bấm "Hỏi trợ lý về bài này" ở bất kỳ tab nào */
 ["#caselist","#tinlist","#tllist"].forEach(sel=>{
@@ -947,7 +1077,7 @@ function capNhatNoiBat(){
 /* bấm cột chủ đề -> lọc danh sách case study theo từ khóa đó */
 $("#kwChart").addEventListener("click",e=>{
   const b=e.target.closest(".kwbar"); if(!b)return;
-  $("#q-case").value=b.dataset.k; fCase="all";
+  $("#q-case").value=b.dataset.k; fCase="all"; veTrangDau("case");
   $$('#p-case .chips [data-f]').forEach(x=>x.setAttribute("aria-pressed",String(x.dataset.f==="all")));
   renderCase(); scrollTo($("#caselist"),"start");
 });

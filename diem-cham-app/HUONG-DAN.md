@@ -89,6 +89,16 @@ Mỗi nguồn trong `cau-hinh.json` có trường `nhom` quyết định nó hi�
 Mỗi nhóm có trần số bài riêng (`soTinCase`, `soTinTin`, `soTinThaoLuan`) để nhóm đăng dày
 không lấn chỗ nhóm đăng thưa.
 
+**Phân trang.** Mỗi tab hiện 15 bài một trang, có hai cách đi tới bài cũ:
+
+- Nút **Xem thêm** nối thêm một trang vào ngay dưới, giữ nguyên chỗ đang đọc. Hợp với người
+  đọc lướt liên tục. Bấm nhiều lần thì dãy số tô đậm cả khoảng trang đang hiện.
+- **Dãy số trang** nhảy hẳn tới trang đó và chỉ hiện trang đó, rồi cuộn lên đầu danh sách.
+  Hợp với người muốn lùi về mốc thời gian xa.
+
+Đổi bộ lọc hoặc gõ tìm kiếm là tự về trang đầu. Muốn đổi số bài mỗi trang thì sửa hằng số
+`MOI_TRANG` trong `index.html`.
+
 ---
 
 ## 3. Những chỗ đã trả giá, đừng sửa lại cho "gọn"
