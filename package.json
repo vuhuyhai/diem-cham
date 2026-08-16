@@ -1,0 +1,14 @@
+{
+  "name": "diem-cham-functions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hàm nền cho app ĐIỂM CHẠM (Netlify Functions). @netlify/blobs dùng cho Hỏi nhanh chạy nền.",
+  "scripts": {
+    "quet": "node diem-cham-app/thu-thap.js",
+    "xem": "node diem-cham-app/may-chu.js",
+    "kiem-nguon": "node diem-cham-app/kiem-tra-nguon.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.0"
+  }
+}

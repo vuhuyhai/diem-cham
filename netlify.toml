@@ -1,0 +1,9 @@
+# Netlify: publish trang tĩnh trong diem-cham-app, không build.
+# Hàm nền (Hỏi nhanh + Góc nhìn ứng dụng) nằm ở netlify/functions.
+
+[build]
+  publish = "diem-cham-app"
+  functions = "netlify/functions"
+
+[functions]
+  directory = "netlify/functions"

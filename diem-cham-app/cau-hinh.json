@@ -1,0 +1,120 @@
+{
+  "gioChay": "07:00",
+  "muiGio": "Asia/Ho_Chi_Minh",
+  "soTinCase": 90,
+  "soTinTin": 150,
+  "soTinThaoLuan": 90,
+  "soNgayGiuLichSu": 180,
+
+  "_ghiChuNguon": "nhom = tab hien thi: 'case' (Case study noi bat), 'tin' (Tin tuc & Nghien cuu), 'thaoluan' (Thao luan cong dong). trangThai: 'bat' = dang dung, 'tat' = da viet san nhung chua dung. Chay 'node kiem-tra-nguon.js' de thu tung nguon. loai: bo trong = RSS/Atom; 'reddit' = Atom cua Reddit co ghi thu hang; 'hn' = API Algolia cua Hacker News (JSON, co diem upvote that); 'json' = cau noi JSON chung.",
+
+  "_ghiChuChan": "MOT SO TRANG CHAN BOT (HBR, MarketingProfs, CXL, CX Today) tra 403 hoac rot ket noi khi goi thang feed. Cach vong: doc qua Google News voi truy van site:ten-mien. Bai van ve du, chi mat phan mo ta.",
+
+  "nguon": [
+
+    { "_nhomCase": "TAB 1 — CASE STUDY NOI BAT. Nguon curated, bien tap that, uu tien bai co so lieu va tinh huong doanh nghiep. 'giuTatCa' bat cho cac trang chuyen de CX (moi bai deu dung chu de, khong can loc tu khoa).",
+      "ten": "CustomerThink", "hang": "Chuyên trang", "nhom": "case", "giuTatCa": true, "url": "https://customerthink.com/feed/", "trangThai": "bat" },
+    { "ten": "Shep Hyken · Customer Service Blog", "hang": "Chuyên trang", "nhom": "case", "giuTatCa": true, "url": "https://hyken.com/feed/", "trangThai": "bat" },
+    { "ten": "Service Design Show", "hang": "Chuyên trang", "nhom": "case", "giuTatCa": true, "url": "https://servicedesignshow.com/feed/", "trangThai": "bat" },
+    { "ten": "CMSWire", "hang": "Chuyên trang", "nhom": "case", "url": "https://feeds.feedburner.com/CMSWire", "trangThai": "bat", "ghiChu": "Feed goc cmswire.com/rss/... tra ve HTML. Ban feedburner nay moi la XML that." },
+    { "ten": "McKinsey Insights", "hang": "Tư vấn chiến lược", "nhom": "case", "url": "https://www.mckinsey.com/insights/rss", "trangThai": "bat", "ghiChu": "Feed rong (moi nganh), phai loc tu khoa moi giu duoc bai ve dich vu." },
+    { "ten": "UX Collective", "hang": "Thiết kế dịch vụ", "nhom": "case", "url": "https://uxdesign.cc/feed", "trangThai": "bat" },
+    { "ten": "Harvard Business Review", "hang": "Chuyên trang", "nhom": "case", "url": "https://news.google.com/rss/search?q=site:hbr.org%20(customer%20OR%20service%20OR%20loyalty)&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat", "ghiChu": "feeds.hbr.org rot ket noi (chan TLS/IP). Doc vong qua Google News." },
+    { "ten": "MarketingProfs", "hang": "Chuyên trang", "nhom": "case", "url": "https://news.google.com/rss/search?q=site:marketingprofs.com&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat", "ghiChu": "Feed goc tra 403 (chan bot toan site). Doc vong qua Google News." },
+    { "ten": "CXL", "hang": "Chuyên trang", "nhom": "case", "url": "https://news.google.com/rss/search?q=site:cxl.com&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat", "ghiChu": "Feed goc tra 403. Doc vong qua Google News." },
+    { "ten": "CX Today", "hang": "Chuyên trang", "nhom": "case", "url": "https://news.google.com/rss/search?q=site:cxtoday.com&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+
+    { "_nhomTin": "TAB 2 — TIN TUC & NGHIEN CUU. Xuong song la Google News tieng Anh theo tung truy van chu de: mot truy van gom tin tu hang chuc bao cung luc, on dinh, khong can khoa.",
+      "ten": "Google News · service marketing", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22service%20marketing%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · customer experience", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22customer%20experience%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · customer success", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22customer%20success%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · customer journey", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22customer%20journey%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · service design", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22service%20design%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat", "ghiChu": "Truy van nay lan nhieu tin thiet ke noi that, kien truc. Bo tu khoa loai tru da chan san." },
+    { "ten": "Google News · service recovery · service failure", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22service%20recovery%22%20OR%20%22service%20failure%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · customer delight · loyalty", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22customer%20delight%22%20OR%20%22customer%20loyalty%22&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat" },
+    { "ten": "Google News · servitization", "hang": "Tổng hợp", "nhom": "tin", "url": "https://news.google.com/rss/search?q=servitization&hl=en-US&gl=US&ceid=US:en", "trangThai": "bat", "ghiChu": "Chu de hep, cap nhat cham. Vai tin moi tuan la binh thuong." },
+
+    { "_nhomNghienCuu": "NGHIEN CUU — NN/g la nghien cuu ung dung, moi bai deu dung chu de nen giuTatCa. arXiv la hoc thuat that, van phai loc tu khoa vi truy van arXiv keo ve nhieu bai AI khong lien quan.",
+      "ten": "Nielsen Norman Group", "hang": "Nghiên cứu", "nhom": "tin", "giuTatCa": true, "url": "https://www.nngroup.com/feed/rss/", "trangThai": "bat" },
+    { "ten": "arXiv · customer experience", "hang": "Học thuật", "nhom": "tin", "url": "http://export.arxiv.org/api/query?search_query=all:%22customer%20experience%22&sortBy=submittedDate&sortOrder=descending&max_results=20", "trangThai": "bat" },
+    { "ten": "arXiv · service design · customer service", "hang": "Học thuật", "nhom": "tin", "url": "http://export.arxiv.org/api/query?search_query=all:%22service%20design%22%20OR%20all:%22customer%20service%22&sortBy=submittedDate&sortOrder=descending&max_results=20", "trangThai": "bat" },
+
+    { "_nhomVN": "TIN VIET NAM — de doi chieu boi canh trong nuoc. Tin tieng Viet nen khong can dich, nhung van cho AI viet Goc nhin ung dung cho thong nhat ca trang.",
+      "ten": "Google News VN · trải nghiệm khách hàng", "hang": "Việt Nam", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22tr%E1%BA%A3i%20nghi%E1%BB%87m%20kh%C3%A1ch%20h%C3%A0ng%22&hl=vi&gl=VN&ceid=VN:vi", "trangThai": "bat" },
+    { "ten": "Google News VN · chăm sóc & dịch vụ khách hàng", "hang": "Việt Nam", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22ch%C4%83m%20s%C3%B3c%20kh%C3%A1ch%20h%C3%A0ng%22%20OR%20%22d%E1%BB%8Bch%20v%E1%BB%A5%20kh%C3%A1ch%20h%C3%A0ng%22&hl=vi&gl=VN&ceid=VN:vi", "trangThai": "bat" },
+    { "ten": "Google News VN · giữ chân khách hàng", "hang": "Việt Nam", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22gi%E1%BB%AF%20ch%C3%A2n%20kh%C3%A1ch%20h%C3%A0ng%22%20OR%20%22kh%C3%A1ch%20h%C3%A0ng%20trung%20th%C3%A0nh%22&hl=vi&gl=VN&ceid=VN:vi", "trangThai": "bat" },
+    { "ten": "Google News VN · chất lượng dịch vụ", "hang": "Việt Nam", "nhom": "tin", "url": "https://news.google.com/rss/search?q=%22ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20d%E1%BB%8Bch%20v%E1%BB%A5%22%20OR%20%22h%C3%A0i%20l%C3%B2ng%20kh%C3%A1ch%20h%C3%A0ng%22&hl=vi&gl=VN&ceid=VN:vi", "trangThai": "bat" },
+
+    { "_nhomThaoLuan": "TAB 3 — THAO LUAN CONG DONG. Reddit CO RSS that (/top/.rss?t=week), nhung KHONG kem so upvote va chan toc do rat gat (goi lien tay la 429). Bo quet da nghi giua moi lan goi Reddit va thu lai co lui thoi gian. Duong dan /top/?t=week da la bo loc upvote san: Reddit xep bai nhieu upvote nhat tuan len truoc, nen 'soBaiDau' chinh la lay N bai top tuan. Quora khong co RSS mo nen khong dua vao.",
+      "ten": "Reddit · r/CustomerExperience", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "giuTatCa": true, "soBaiDau": 12, "url": "https://www.reddit.com/r/CustomerExperience/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/CustomerSuccess", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "giuTatCa": true, "soBaiDau": 12, "url": "https://www.reddit.com/r/CustomerSuccess/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/CustomerService", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "giuTatCa": true, "soBaiDau": 10, "url": "https://www.reddit.com/r/CustomerService/top/.rss?t=week", "trangThai": "tat", "lyDo": "Da thu thuc te: sub nay gan nhu toan bai nhan vien tuyen dau than ca truc (khach quat, dong cua som, ghet viec). That long nhung khong rut ra duoc bai hoc van hanh cho nguoi doc cua app. Bat len neu muon nghe tieng noi tuyen dau." },
+    { "ten": "Reddit · r/marketing", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 10, "url": "https://www.reddit.com/r/marketing/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/SaaS", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 10, "url": "https://www.reddit.com/r/SaaS/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/smallbusiness", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 10, "url": "https://www.reddit.com/r/smallbusiness/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/Entrepreneur", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 8, "url": "https://www.reddit.com/r/Entrepreneur/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/ProductManagement", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 8, "url": "https://www.reddit.com/r/ProductManagement/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/UXDesign", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "soBaiDau": 8, "url": "https://www.reddit.com/r/UXDesign/top/.rss?t=week", "trangThai": "bat" },
+    { "ten": "Reddit · r/servicedesign", "hang": "Reddit", "nhom": "thaoluan", "loai": "reddit", "giuTatCa": true, "soBaiDau": 8, "url": "https://www.reddit.com/r/servicedesign/top/.rss?t=week", "trangThai": "tat", "lyDo": "Sub co that nhung rat vang, chi khoang 1 bai moi tuan. Bat len neu muon quet het." },
+
+    { "_nhomHN": "HACKER NEWS — nguon DUY NHAT trong app co so upvote THAT (points) va so binh luan. API Algolia, khong can khoa. BA DIEU DA THU VA CHOT: (1) Ban 'search_by_date' keo ve bai vua dang, chua kip co diem, nen loc theo upvote la trang bang. Phai dung ban 'search' co gioi han thoi gian bang created_at_i, tuc lay bai TRONG CUA SO GAN DAY VA DA DU DIEM. (2) ${TS_180NGAY} la moc Unix 180 ngay truoc, bo quet tu tinh moi lan chay. Cua so phai rong vi HN ban ve chu de nay rat thua, 30 ngay thi ra 0 bai. (3) Algolia khop ca phan than bai nen bai ra mat san pham kieu 'Launch HN:' va 'Show HN:' lot vao chi vi mo ta co nhac customer service. Bo quet chan rieng hai tien to nay o dau tieu de.",
+      "ten": "Hacker News · customer service", "hang": "Hacker News", "nhom": "thaoluan", "loai": "hn", "diemToiThieu": 10, "url": "https://hn.algolia.com/api/v1/search?query=%22customer%20service%22&tags=story&numericFilters=created_at_i%3E${TS_180NGAY},points%3E10&hitsPerPage=30", "trangThai": "bat" },
+    { "ten": "Hacker News · customer support", "hang": "Hacker News", "nhom": "thaoluan", "loai": "hn", "diemToiThieu": 10, "url": "https://hn.algolia.com/api/v1/search?query=%22customer%20support%22&tags=story&numericFilters=created_at_i%3E${TS_180NGAY},points%3E10&hitsPerPage=30", "trangThai": "bat" },
+    { "ten": "Hacker News · customer experience", "hang": "Hacker News", "nhom": "thaoluan", "loai": "hn", "diemToiThieu": 10, "url": "https://hn.algolia.com/api/v1/search?query=%22customer%20experience%22%20OR%20%22customer%20success%22&tags=story&numericFilters=created_at_i%3E${TS_180NGAY},points%3E10&hitsPerPage=30", "trangThai": "bat" },
+    { "ten": "Hacker News · churn · retention · refund", "hang": "Hacker News", "nhom": "thaoluan", "loai": "hn", "diemToiThieu": 10, "url": "https://hn.algolia.com/api/v1/search?query=%22customer%20retention%22%20OR%20%22churn%22%20OR%20%22refund%20policy%22&tags=story&numericFilters=created_at_i%3E${TS_180NGAY},points%3E10&hitsPerPage=30", "trangThai": "bat" },
+
+    { "_nhomDaChet": "NGUON DA THU VA HONG, giu lai de khong thu lai lan nua. CMI bo RSS (tra ve HTML). Think with Google doi ten mien, khong con feed. Journal of Service Research (SAGE) chan o tang mang. Emerald JOSM khong co RSS. SSRN va Google Scholar chi phat qua email. Reddit ban .json tra 403 (phai OAuth).",
+      "ten": "Content Marketing Institute", "hang": "Chuyên trang", "nhom": "case", "url": "https://contentmarketinginstitute.com/feed/", "trangThai": "tat", "lyDo": "Feed tra ve HTML, khong con la RSS." },
+    { "ten": "Journal of Service Research (SAGE)", "hang": "Học thuật", "nhom": "tin", "giuTatCa": true, "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jsra&type=etoc&feed=rss", "trangThai": "tat", "lyDo": "SAGE tu choi ket noi (ECONNREFUSED). Neu sau nay mo lai thi bat len." }
+  ],
+
+  "_ghiChuTuKhoa": "Mot bai duoc giu lai khi co IT NHAT 1 tu khoa chu de. Nguon co 'giuTatCa' thi bo qua buoc nay vi ban than nguon da la bo loc chu de. So khop co ranh gioi tu, nen 'cx' khong bat nham vao giua tu khac.",
+
+  "_ghiChuManh": "CHI dat o day nhung dau hieu BANG CHUNG: case study, nghien cuu, so lieu, framework. Chung quyet dinh muc 'Nen doc'. Tranh tu don chung chung de khong bat nham.",
+
+  "tuKhoaManh": [
+    "case study", "case studies", "research", "study", "studies", "survey",
+    "report", "benchmark", "framework", "playbook", "teardown", "experiment",
+    "findings", "white paper", "deep dive", "analysis", "data shows",
+    "lessons", "roi", "results"
+  ],
+
+  "tuKhoaNganh": [
+    "service marketing", "customer experience", "customer service", "customer success",
+    "customer support", "service design", "customer journey", "customer delight",
+    "service recovery", "service failure", "customer satisfaction", "customer loyalty",
+    "customer retention", "client experience", "user experience", "service quality",
+    "service excellence", "service operations", "service blueprint", "servitization",
+    "voice of customer", "customer feedback", "customer centric", "customer-centric",
+    "touchpoint", "touchpoints", "churn", "retention", "loyalty program",
+    "nps", "csat", "ces", "cx", "onboarding", "help desk", "helpdesk",
+    "contact center", "call center", "frontline", "front line", "after-sales",
+    "complaint", "complaints", "hospitality", "guest experience", "patient experience",
+    "employee experience", "self-service", "omnichannel", "journey mapping",
+    "trải nghiệm khách hàng", "chăm sóc khách hàng", "dịch vụ khách hàng",
+    "giữ chân khách hàng", "hài lòng khách hàng", "hành trình khách hàng",
+    "khách hàng trung thành", "chất lượng dịch vụ", "điểm chạm", "khiếu nại",
+    "phàn nàn", "tổng đài", "hậu mãi", "khách hàng thân thiết"
+  ],
+
+  "tuKhoaChuDe": [
+    "loyalty", "retention", "personalization", "personalisation", "automation",
+    "chatbot", "ai agent", "generative ai", "metrics", "measurement", "feedback",
+    "pricing", "subscription", "saas", "b2b", "b2c", "retail", "banking",
+    "healthcare", "telecom", "insurance", "restaurant", "hotel", "airline",
+    "ecommerce", "e-commerce", "brand", "trust", "empathy", "culture", "training",
+    "operations", "process", "design thinking", "quality", "revenue", "growth",
+    "doanh thu", "quy trình", "đào tạo", "thương hiệu", "chuyển đổi số",
+    "vận hành", "nhân sự", "công nghệ", "tự động hóa"
+  ],
+
+  "tuKhoaLoaiTru": [
+    "interior design", "interior designer", "landscape design", "kitchen design",
+    "bathroom design", "home decor", "furniture design", "architectural design",
+    "fashion design", "nail design", "tattoo design",
+    "crypto", "bitcoin", "ethereum", "nft", "casino", "betting", "lottery",
+    "horoscope", "celebrity gossip", "premier league", "world cup",
+    "weight loss pill", "giveaway", "black friday deal", "coupon code",
+    "bóng đá", "xổ số", "tử vi", "showbiz", "hoa hậu"
+  ]
+}
