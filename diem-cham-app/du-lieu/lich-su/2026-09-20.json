@@ -1,0 +1,331 @@
+{
+ "capNhatLuc": "2026-09-20T04:25:02.970Z",
+ "tin": [
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Five Questions Before You Call Your AI “Production-Ready”",
+   "s": "What does \"production-ready\" really mean, and how can we determine that state in a more scientific way?",
+   "w": "Bài đặt ra năm câu hỏi giúp xác định khi nào một hệ thống AI thực sự sẵn sàng đưa vào vận hành thực tế, thay vì chỉ dựa vào cảm tính hay demo suôn sẻ.",
+   "u": "https://customerthink.com/five-questions-before-you-call-your-ai-production-ready/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Rà lại chatbot hay AI hỗ trợ khách hàng bằng dữ liệu tình huống thật trước khi triển khai đại trà, đừng vội tin demo mượt mà trên sân khấu.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Quantum Metric Launches Voice of Customer to Close the Gap Between Listening and Action",
+   "s": "New solution unifies feedback and behavioral data in a single system, helping enterprises understand, quantify, act on, and measure customer signals in real time",
+   "w": "Quantum Metric ra mắt công cụ Voice of Customer hợp nhất dữ liệu phản hồi và hành vi khách hàng vào một hệ thống, giúp doanh nghiệp hiểu, đo lường và hành động theo tín hiệu khách hàng theo thời gian thực.",
+   "u": "https://customerthink.com/quantum-metric-launches-voice-of-customer-to-close-the-gap-between-listening-and-action/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "voice of customer",
+    "feedback"
+   ],
+   "y": "Doanh nghiệp mình đã bao giờ đối chiếu lời khách phàn nàn với dữ liệu hành vi thực tế chưa, vì nghe mà không ráp dữ liệu thì góp ý mãi nằm im trong báo cáo.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Demandbase Launches Mojo, the B2B Marketing Agent that Learns from Every Campaign",
+   "s": "Mojo turns a strategy into a live campaign across channels, adapts to an organization’s marketing behavior and continually improves performance",
+   "w": "Demandbase ra mắt Mojo, một AI agent marketing B2B tự triển khai chiến dịch đa kênh, học hỏi hành vi tổ chức và tự cải thiện hiệu suất qua từng lần chạy.",
+   "u": "https://customerthink.com/demandbase-launches-mojo-the-b2b-marketing-agent-that-learns-from-every-campaign/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "b2b"
+   ],
+   "y": "Trước khi giao chiến dịch cho AI vận hành, doanh nghiệp dịch vụ cần chuẩn hóa dữ liệu khách hàng và quy tắc thương hiệu để công cụ học đúng, tránh sai lệch trải nghiệm hàng loạt.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Smart Communications Posts Record Growth as Businesses Prioritize Modern Customer Engagement",
+   "s": "Record bookings growth, strong customer retention, industry recognition, and strategic leadership appointments underscore growing demand across regulated industries",
+   "w": "Smart Communications ghi nhận tăng trưởng doanh thu kỷ lục nhờ khách hàng ngành có quản lý chặt (bảo hiểm, tài chính, y tế) đầu tư mạnh vào nền tảng giao tiếp khách hàng hiện đại, kèm bổ nhiệm lãnh đạo chiến lược mới.",
+   "u": "https://customerthink.com/smart-communications-posts-record-growth-as-businesses-prioritize-modern-customer-engagement/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer retention",
+    "retention",
+    "growth"
+   ],
+   "y": "Ở phòng khám hay tổng đài, khách hàng chờ tin nhắn nhắc lịch, xác nhận kết quả rõ ràng thay vì gọi điện chờ đợi, nên đầu tư hệ thống nhắn tin tự động tuân thủ quy định ngành càng sớm càng có lợi thế cạnh tranh.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Kustomer Launches Partner Certification Program to Expand Implementation Quality Across Its Growing Partner Ecosystem",
+   "s": "New certification requires partners to pass Kustomer-graded assessments before delivering platform and AI implementations, giving customers a verified signal of delivery quality.",
+   "w": "Kustomer ra mắt chương trình chứng nhận đối tác, yêu cầu vượt bài đánh giá trước khi triển khai nền tảng và AI cho khách hàng, nhằm đảm bảo chất lượng triển khai đồng đều trong hệ sinh thái đối tác.",
+   "u": "https://customerthink.com/kustomer-launches-partner-certification-program-to-expand-implementation-quality-across-its-growing-partner-ecosystem/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "quality"
+   ],
+   "y": "Một tiêu chí xác thực năng lực đối tác trước triển khai giúp doanh nghiệp dịch vụ Việt tránh mất chi phí sửa lỗi và trải nghiệm khách hàng bị ảnh hưởng do đối tác thiếu kinh nghiệm thực chiến.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Paytronix Brings Messaging to Access Evo to Help Brands Measure and Act on What Brings Guests Back",
+   "s": "New self-service experience connects cross-channel campaign execution with loyalty and guest data, experimentation, and reporting tied to visits, redemptions, and spend",
+   "w": "Paytronix tích hợp tính năng nhắn tin vào nền tảng Access Evo, giúp thương hiệu F&B tự vận hành chiến dịch đa kênh, gắn với dữ liệu loyalty, thử nghiệm và báo cáo theo lượt ghé, đổi thưởng, chi tiêu thực tế.",
+   "u": "https://customerthink.com/paytronix-brings-messaging-to-access-evo-to-help-brands-measure-and-act-on-what-brings-guests-back/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "self-service",
+    "loyalty"
+   ],
+   "y": "Cái khó không nằm ở việc gửi tin nhắn mà ở chỗ nối được dữ liệu loyalty với hành vi quay lại thực tế, nên đo lường theo doanh thu và tần suất ghé chứ không chỉ số tin đã gửi.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Medallia Named the Only Leader in Newest Customer Feedback Management and Analytics Evaluation",
+   "s": "Medallia also received the highest scores among the vendors evaluated in both the Current Offering and Strategy categories",
+   "w": "Medallia được vinh danh là Leader duy nhất trong đánh giá mới về nền tảng quản lý và phân tích phản hồi khách hàng, dẫn đầu cả về sản phẩm hiện tại lẫn chiến lược.",
+   "u": "https://customerthink.com/medallia-named-the-only-leader-in-newest-customer-feedback-management-and-analytics-evaluation/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer feedback",
+    "feedback"
+   ],
+   "y": "Rà lại công cụ thu thập phản hồi khách hàng hiện có xem có phân tích được cảm xúc theo thời gian thực hay chỉ dừng ở khảo sát rồi báo cáo tĩnh.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-20",
+   "src": "nationthailand.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "Bangkok Native trend offers lessons in customer loyalty",
+   "s": "",
+   "w": "Xu hướng 'Bangkok Native' tại Thái Lan cho thấy khách hàng gắn bó với thương hiệu am hiểu văn hóa bản địa và tạo cảm giác thân thuộc như người quen chứ không chỉ nhà cung cấp dịch vụ.",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmZWlyYVJ0dzRkRGE5dW5kSi1tY3pPa29welVLM25zSzVNT3ltTHNmMHB4bWkzZDV1UVVLQ2IzTTFPSGN3NlIyT2VYbEJ1c3l6Y1lHbjdYVnZvd1kybTFVT1Eyc0dGNGM?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "lessons",
+    "customer loyalty",
+    "loyalty"
+   ],
+   "y": "Thương hiệu của bạn có đang nói đúng ngôn ngữ và thói quen của khách địa phương hay vẫn rập khuôn kịch bản dịch vụ ngoại nhập?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "FinancialContent",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "2MAD Agency Strengthens Its Position as a Leading Full-Service Marketing Agency in Los Angeles",
+   "s": "",
+   "w": "2MAD Agency củng cố vị thế công ty marketing trọn gói hàng đầu tại Los Angeles, mở rộng dịch vụ để phục vụ khách hàng đa ngành toàn diện hơn.",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPemJmcXJfblY1Tl84NWp5cVFDY19pRGRFNFFVYUZXQlhpM2xHZm15Z05scllBd29Rc3lTLVRWTGwxYjUyTlNURVZGS25oM2dyVDI1cFNDS0FybkNYc0RIakNPbktJODh1THlOWnNpSHVRN2tyS3lPNS15QldWOFNobnZtUU9KaFJpcFhRdnU3alZmNDZqcmoyb3V6M0o2YWRMVlRObWJ0TTJGLTVoamxicklWNE1GaDloa0JPdmJFMmEyYm5HazItUlZoOUtwLTVCQXRudkYtM0k3QkJEOFVpWFF0bzdZbHhsV3ZGZQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "service marketing"
+   ],
+   "y": "Trước khi mở rộng dịch vụ trọn gói, doanh nghiệp cần rà soát năng lực tuyến đầu và quy trình bàn giao giữa các phòng ban để tránh đứt gãy trải nghiệm khách hàng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "CustomerThink",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Medallia Named the Only Leader in Newest Customer Feedback Management and Analytics Evaluation",
+   "s": "",
+   "w": "Medallia được đánh giá là Leader duy nhất trong báo cáo mới về nền tảng quản lý và phân tích phản hồi khách hàng (Customer Feedback Management), khẳng định vị thế dẫn đầu công nghệ CX.",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2EwbE9vdzdEelF1WVdXcG9ZOW5NQUVXR09tVjZIUVI1cVdTNThyZVhiSmhWY0dkdkJyRE00Nk9NYkhmc0pOMzBFTzEyQ0VfLUYtTE8tbWhKcjB1eVdPVndOUWxEZE5SR0xJdE15Q0VTSFNQRkM1a2F0NjdIYjNWLXAtR2NzU3N3b3daT2k2TkNxYkQ1NXA0Rl92WHh2bVF2bUx5dF91U0xLdlNfYUszVFcyOXVKYXhqa3JLcFN3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer feedback",
+    "feedback"
+   ],
+   "y": "Ở một phòng khám tư, thay vì phát phiếu khảo sát giấy rồi bỏ ngăn kéo, hãy dùng công cụ phân tích phản hồi tự động để phát hiện ngay điểm nghẽn dịch vụ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "UA.NEWS",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "From Content to Conversion: How Marketing Today Shapes the Entire Customer Journey",
+   "s": "",
+   "w": "Bài nhấn mạnh marketing hiện đại không dừng ở quảng cáo mà xuyên suốt hành trình khách hàng, từ nội dung tiếp cận đến quyết định mua và giữ chân sau bán.",
+   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDQ3LV9fWXFTQlA5Yk1NM0ZOR3dwYWpCMVI4U1BIUHNVMl9nUXlBdVRRS3FWRHBzNF9JV2ExLXllTDM3YVhrNWZoSjJkSi1JTk00TUc2b1hxUEVVRkpzMTFUajNzd1hqTGpKdHo1bVBSZU53QjB0MGYzRGlvRmVfTXJrd25kbnRJNnVvanI0MW13ak1MUjV3dzN1Wm9jVm50?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer journey"
+   ],
+   "y": "70% quyết định mua đã hình thành trước khi khách liên hệ tuyến đầu nên đo lường trải nghiệm nội dung sớm ngang với đo tỷ lệ chốt đơn.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-19",
+   "src": "Lâm đồng trực tuyến",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Lâm Đồng triển khai đánh giá chất lượng dịch vụ hành chính công trên ứng dụng VNeID",
+   "s": "",
+   "w": "Lâm Đồng triển khai kênh đánh giá chất lượng dịch vụ hành chính công ngay trên ứng dụng VNeID, giúp người dân phản hồi trải nghiệm sau khi làm thủ tục hành chính.",
+   "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdjdRVnZUVjV2a3RoSlZTbnBJN1J0SWZpNi02ZmZvc2lvZFg1Z08wRmdjU29rVTl3Z2tob3VKMXVfOG5vSC1JX3NvT1JYdWw5cTFoTlp2MGg4bjJKck5yUDB4a1lDbDNvd25mQWlyQ0JKRUxyek04WHlXLUtveGhOR0V2dmF0bzRNUjlrdVJJZVNMclRrcnY1bUlNdWFFOU94b3YxZWV6Rko1U1h2VFNsN1lTNzlLdTFGM254QzBTNHc4V3BqTWNJbFdwd18zTWlBUEk5RVY4azlXWVI2WG9EOXlKX0c3bURUNXVKWFlTYlRtZThCUkZZWEhCbHhqUEJCZGdyd3NZVG5Kb0t0ZkpEZkVEWE13WDFrclhlN3B3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ],
+   "y": "Cái khó không nằm ở việc thu thập đánh giá mà ở chỗ có xử lý phản hồi tiêu cực và cải thiện quy trình thực chất hay chỉ để báo cáo con số đẹp.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-18",
+   "src": "Marketing Stockport",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Gardening competition raises awareness of Stockport Council’s Fostering Service",
+   "s": "",
+   "w": "Hội đồng Stockport tổ chức cuộc thi làm vườn nhằm tăng nhận diện cho dịch vụ nhận nuôi trẻ (Fostering Service), một cách truyền thông gián tiếp qua hoạt động cộng đồng thay vì quảng cáo trực tiếp.",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHNDSFQ5LXlWNVVfVzhtR3pRbWp6TWx2aXZwMVJIOFM0TjdvOG1RUTFIalBZS2NjQVNCakpKaTV5c01ic2Vyc2N2YnBXYnlvMEVtZkJHLWkyU2ZQZ0U2QzBlaXJKVWZXeWtWQ1JCRkY3dlFUSFRUSGlwMEk4bHpCZEtXZGdpcU9XYkNucS1fZ1BmSjdNVWxrSVAtVzdvOWdSMVg2Q2hRS09NUF8wM3hROFJjWHo5em93?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "service marketing"
+   ],
+   "y": "Ghi nhận các hoạt động cộng đồng nhỏ như một điểm chạm thương hiệu, đo lường mức tăng nhận biết dịch vụ sau mỗi sự kiện để nhân rộng cách làm hiệu quả.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-18",
+   "src": "Marketing Stockport",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Gardening competition raises awareness of Stockport Council’s Fostering Service",
+   "s": "",
+   "w": "Hội đồng Stockport tổ chức cuộc thi làm vườn để tăng nhận diện cho dịch vụ nhận nuôi trẻ em, kết hợp hoạt động cộng đồng với truyền thông xã hội để tiếp cận người dân địa phương.",
+   "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQRVNRSWEtMkJEQWFNVGo4MDhhUDdjNzhmMG1UZ09HSFJrenlGQWQ3ZURoYVVKOGNRYjl1ck5TWUctdHNoNE9iTUVwUWdzQUlFM3dsQW40eGxRbnVVdkhVNVdqUGczbDBlWXhCYVhQd0NPaWlVQUt4bF8zakNUWVVmXzJ4RlZvYTR3VUoxQXM0dGM1TXRZaDJIRzFhZ181X1ViWXdKenlQTW44YlU1cVREY1drVW1JLUt5U2dUX3hQelN2Y0d5bVVNUkY1RXVieGg4VmV2Slg0bkJyaWVlUTFiRGNPWG1LTE5HeC1kYkl5T0pnekgwU0JWdWhkYkhzTVlVNFRxemxCNE5ZZl9KUVVfYlBRSnpueTdkMWlDOEZqaGJzdw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "service marketing"
+   ],
+   "y": "Doanh nghiệp đã thử gắn dịch vụ mình với một hoạt động cộng đồng gần gũi để tăng độ nhận diện tự nhiên chưa, thay vì chỉ quảng cáo trực diện?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-18",
+   "src": "Yahoo Tech",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "How ‘Pacesetters’ are using AI to move the customer experience forward",
+   "s": "",
+   "w": "Bài nói về nhóm doanh nghiệp dẫn đầu (Pacesetters) đang dùng AI để cải thiện trải nghiệm khách hàng nhanh và hiệu quả hơn đối thủ.",
+   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUm14WkNDSUxRZi0wSzRobWt5Y29mS3FvOE95V21NUnI3NTFBYVZrcnlEeXUyeWV2WElSclFGRVRDWXJQd3VZazl2WmkwOVBPRTJRSUxzdEN0WVZuWXRsbFJGaldQR0pZRE9vajZ6amlhcmtkWTNhOUN0S0RFajhhU3MwRmpvamQ0YlNYeQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Trước khi triển khai AI vào CX, hãy chuẩn hóa dữ liệu khách hàng và quy trình tuyến đầu để công nghệ có nền tảng phát huy đúng chỗ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-17",
+   "src": "Ipsos",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Why AI Efficiency Alone Isn’t Enough for Great Customer Experience",
+   "s": "",
+   "w": "AI giúp doanh nghiệp xử lý yêu cầu nhanh và tiết kiệm chi phí, nhưng tốc độ thuần túy không đủ tạo trải nghiệm khách hàng thực sự tốt nếu thiếu sự thấu cảm và kết nối con người.",
+   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0syWTVkU3RSUDhtWjFJeEF0ckRObWJOa1BLbnhra3ZveHltVl84UkRUUmhJNkJPR1lPRE5YXzBBaVloWC1sR1A1SHYyR3dpX1BkVzdBeXFQaWxoN2pkTWlqSmpBemk2ckg3VHpUMnRod3RuMjB1cndjQ05QeDZKdEVOeWJJbnBHczRqeW9FQnVKMUk?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Tổng đài chăm sóc khách hàng trả lời trong 10 giây nhưng đọc kịch bản vô hồn thì khách vẫn bực, nên đầu tư đào tạo nhân viên lắng nghe cảm xúc thay vì chỉ chạy theo chỉ số tốc độ phản hồi.",
+   "wa": 1
+  }
+ ]
+}
