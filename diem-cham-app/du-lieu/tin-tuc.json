@@ -1,7 +1,7 @@
 {
- "capNhatLuc": "2026-10-01T05:16:54.452Z",
+ "capNhatLuc": "2026-10-02T05:06:23.101Z",
  "soTin": 330,
- "tinMoiLanNay": 52,
+ "tinMoiLanNay": 48,
  "theoNhom": {
   "case": 90,
   "tin": 150,
@@ -47,6 +47,229 @@
   "Hacker News · churn · retention · refund"
  ],
  "tin": [
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "Stravito and Langston Partner to Bring Research-Grounded AI Personas to Consumer Brands",
+   "s": "Partnership combines Stravito’s AI Personas with Langston’s Life Lenses segmentation to make consumer understanding more accessible, interactive and actionable for global brands",
+   "w": "Stravito kết hợp cùng Langston tích hợp AI Personas với mô hình phân khúc Life Lenses, giúp các thương hiệu tiêu dùng toàn cầu hiểu khách hàng dễ dàng, tương tác và hành động nhanh hơn.",
+   "u": "https://customerthink.com/stravito-and-langston-partner-to-bring-research-grounded-ai-personas-to-consumer-brands/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research"
+   ],
+   "y": "Rà lại dữ liệu khách hàng hiện có trước khi mua công cụ AI personas vì mô hình chỉ tốt khi insight nền đã chuẩn và liên tục cập nhật thực tế thị trường Việt Nam.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "Future Electronics Highlights DC Fuse Interruption Analysis with New Technical Whitepaper",
+   "s": "Whitepaper explores an often-overlooked factor in DC fuse performance: the circuit time constant (L/R) used during interrupting rating tests",
+   "w": "Future Electronics ra whitepaper kỹ thuật về cầu chì DC, phân tích yếu tố hằng số thời gian mạch (L/R) ít được chú ý khi kiểm tra khả năng ngắt mạch.",
+   "u": "https://customerthink.com/future-electronics-highlights-dc-fuse-interruption-analysis-with-new-technical-whitepaper/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "analysis"
+   ],
+   "y": "Doanh nghiệp đã kiểm tra thông số kỹ thuật ẩn trong tài liệu sản phẩm trước khi tư vấn khách hàng chưa, vì sai sót nhỏ ở đây có thể gây sự cố lớn cho trải nghiệm sau bán hàng?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "43% of Consumers Would Pay More for a Product that Guarantees Access to Human Support, According to Alchemer AI Customer Experience Report",
+   "s": "Survey reveals consumers’ views on benefits and drawbacks of AI in customer experience",
+   "w": "Khảo sát của Alchemer cho thấy 43% người tiêu dùng sẵn sàng trả thêm tiền để được đảm bảo tiếp cận nhân viên hỗ trợ thật, không chỉ AI. Báo cáo phản ánh cả lợi ích lẫn hạn chế của AI trong trải nghiệm khách hàng.",
+   "u": "https://customerthink.com/43-of-consumers-would-pay-more-for-a-product-that-guarantees-access-to-human-support-according-to-alchemer-ai-customer-experience-report/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "survey",
+    "report",
+    "customer experience"
+   ],
+   "y": "Trước khi đẩy mạnh chatbot để cắt chi phí, doanh nghiệp nên giữ lối thoát nhanh gặp người thật cho các tình huống phức tạp hoặc khách hàng bức xúc.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Progress Software Launches ShareFile Enterprise, Offering a New Standard in Governance Controls for Enterprise Document Collaboration",
+   "s": "Helps organizations scale collaboration without scaling manual administration and security work through enterprise identity management, native data loss prevention and AI-driven threat detection",
+   "w": "Progress Software ra mắt ShareFile Enterprise, bổ sung quản lý định danh, chống rò rỉ dữ liệu và phát hiện đe dọa bằng AI giúp doanh nghiệp mở rộng cộng tác tài liệu mà không tăng gánh nặng quản trị thủ công.",
+   "u": "https://customerthink.com/progress-software-launches-sharefile-enterprise-offering-a-new-standard-in-governance-controls-for-enterprise-document-collaboration/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Phòng khám lưu hồ sơ bệnh nhân qua Zalo hay email cá nhân rất dễ lộ dữ liệu nên cần chọn nền tảng chia sẻ tài liệu có phân quyền rõ ràng và cảnh báo rủi ro tự động.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Addison Group Announces India Global Excellence Center, Expanding Services Internationally",
+   "s": "The Global Excellence Center in Noida, India, will help serve businesses around the world with acceleration and transformation",
+   "w": "Addison Group mở trung tâm Global Excellence tại Noida, Ấn Độ để hỗ trợ khách hàng toàn cầu về tăng tốc vận hành và chuyển đổi dịch vụ.",
+   "u": "https://customerthink.com/addison-group-announces-india-global-excellence-center-expanding-services-internationally/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "24 giờ là thời gian tối đa khách hàng quốc tế chấp nhận chờ phản hồi khi làm việc qua trung tâm ở múi giờ khác nên cần quy trình bàn giao ca rõ ràng giữa các văn phòng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "Conjointly Study Finds Ray-Ban Meta Glasses Purchase Intent Unmoved By 2026 Privacy Backlash",
+   "s": "Consumer purchase intent for Ray-Ban Meta smart glasses has remained virtually unchanged since 2024, despite months of intense media controversy",
+   "w": "Nghiên cứu Conjointly cho thấy ý định mua kính thông minh Ray-Ban Meta gần như không đổi từ 2024 đến nay, bất chấp làn sóng chỉ trích về quyền riêng tư kéo dài nhiều tháng.",
+   "u": "https://customerthink.com/conjointly-study-finds-ray-ban-meta-glasses-purchase-intent-unmoved-by-2026-privacy-backlash/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "study"
+   ],
+   "y": "Cái khó không nằm ở việc khủng hoảng truyền thông có nổ ra hay không mà ở chỗ sản phẩm có giải quyết đúng nhu cầu thật để khách hàng bỏ qua lo ngại đó.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "MoEngage Launches Agentic Customer Engagement Platform for Shopify: Revolutionizing User Experience with Real-Time Integration",
+   "s": "Native integration that unifies a merchant’s Shopify data across email, SMS, app, web push, WhatsApp, and on-site personalization, in real time",
+   "w": "MoEngage ra mắt nền tảng chăm sóc khách hàng dạng agentic tích hợp sẵn với Shopify, đồng bộ dữ liệu người mua theo thời gian thực qua email, SMS, app, web push, WhatsApp và cá nhân hóa tại chỗ.",
+   "u": "https://customerthink.com/moengage-launches-agentic-customer-engagement-platform-for-shopify-revolutionizing-user-experience-with-real-time-integration/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "user experience",
+    "personalization"
+   ],
+   "y": "Rà lại dữ liệu khách hàng đang nằm rời rạc ở từng kênh trước khi đầu tư công cụ tích hợp đa kênh như thế này.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Metcash and Coveo Expand Strategic Partnership to Power Next Generation AI-Enabled Experiences for B2B Retail Customers",
+   "s": "brings next-generation AI-powered search and conversational experiences in retailer communications",
+   "w": "Metcash mở rộng hợp tác với Coveo để tích hợp AI vào tìm kiếm và giao tiếp trên nền tảng B2B, giúp khách hàng bán lẻ tra cứu sản phẩm và đặt hàng nhanh hơn qua trải nghiệm hội thoại thông minh.",
+   "u": "https://customerthink.com/metcash-and-coveo-expand-strategic-partnership-to-power-next-generation-ai-enabled-experiences-for-b2b-retail-customers/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "b2b",
+    "retail"
+   ],
+   "y": "Hệ thống tìm kiếm nội bộ của bạn đã đủ thông minh để khách B2B tự tìm ra đúng sản phẩm họ cần chưa, nếu chưa thì đầu tư AI tìm kiếm nên ưu tiên trước cả việc chạy quảng cáo thu hút khách mới.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "“Trust but Verify” in AI-Powered Customer Feedback: Inside Scoop with Ryan Tamminga",
+   "s": "Alchemer Chief Customer Officer Ryan Tamminga on AI-powered customer feedback, customer-led product strategy, and why trust, verification, and action matter more than dashboards.",
+   "w": "Ryan Tamminga (Alchemer) bàn về dùng AI xử lý phản hồi khách hàng nhưng nhấn mạnh nguyên tắc tin tưởng và kiểm chứng, lấy khách hàng dẫn dắt chiến lược sản phẩm thay vì chỉ nhìn dashboard.",
+   "u": "https://customerthink.com/trust-but-verify-in-ai-powered-customer-feedback-inside-scoop-with-ryan-tamminga/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer feedback",
+    "feedback",
+    "trust"
+   ],
+   "y": "Trước khi tin kết quả AI phân tích feedback, hãy cho nhân viên tuyến đầu đối chiếu mẫu thực tế rồi mới quyết định hành động cụ thể.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Close the Product-Service Gap Before Customers Quietly Walk Away",
+   "s": "Disconnected product and service systems hide early churn signals. A shared data layer and governed automation surface them before customers decide to leave. Continue reading...",
+   "w": "Hệ thống sản phẩm và dịch vụ tách rời khiến tín hiệu rời bỏ sớm của khách hàng bị che khuất. Một lớp dữ liệu dùng chung cùng tự động hóa có kiểm soát giúp phát hiện sớm trước khi khách âm thầm rời đi.",
+   "u": "https://www.cmswire.com/customer-experience/close-the-product-service-gap-before-customers-quietly-walk-away/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "churn",
+    "automation"
+   ],
+   "y": "Khách ở phòng tập ngừng đặt lịch dần mà không than phiền câu nào, nếu dữ liệu đặt lịch và chăm sóc không liên thông thì chẳng ai nhận ra cho đến khi họ biến mất hẳn.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Why Is Bad Customer Service Still Driving Customers to Tears?",
+   "s": "Repeated questions, endless transfers, bots that don't understand. The same service failures keep pushing customers over the edge. Continue reading...",
+   "w": "Bài chỉ ra khách hàng vẫn liên tục bị hỏi lại thông tin, chuyển máy nhiều lần, chatbot trả lời sai trọng tâm, khiến trải nghiệm dịch vụ tệ kéo dài chưa được khắc phục triệt để.",
+   "u": "https://www.cmswire.com/customer-experience/why-is-bad-customer-service-still-driving-customers-to-tears/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service"
+   ],
+   "y": "Đo tỷ lệ phải lặp lại thông tin và số lần chuyển máy trên mỗi ca xử lý để tìm đúng điểm nghẽn trước khi đổ tiền vào thêm chatbot.",
+   "wa": 1
+  },
   {
    "d": "2026-10-01",
    "src": "CMSWire",
@@ -115,33 +338,6 @@
    "hang": "Thiết kế dịch vụ",
    "g": "case",
    "imp": "cao",
-   "t": "Federal pressure may force design education to rethink its identity",
-   "s": "Why an earnings test raises uncomfortable questions about art, professional practice, and the value of a degree. Image source: Adobe Stock The Price of a Degree The federal government has decided to ask a question higher education has long avoided. What is a degree worth? Under the U.S. Department of Education’s new earnings-accountability framework , undergraduate programs will be judged partly by whether their g…",
-   "w": "Chính phủ Mỹ sắp đánh giá giá trị bằng cấp đại học dựa trên thu nhập sau tốt nghiệp, buộc ngành giáo dục thiết kế phải nhìn lại giá trị thực tiễn của chương trình đào tạo.",
-   "u": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research",
-    "report",
-    "benchmark",
-    "framework",
-    "user experience",
-    "retention",
-    "insurance",
-    "trust"
-   ],
-   "y": "Một phòng khám đào tạo nhân viên tân tuyến đầu ba tháng nhưng không đo được tay nghề tạo ra doanh thu thật sự thì chứng chỉ chỉ là tờ giấy treo tường.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "UX Collective",
-   "hang": "Thiết kế dịch vụ",
-   "g": "case",
-   "imp": "cao",
    "t": "Headless AI will make every product a platform. Here’s what to consider when designing for this.",
    "s": "The mockups get the design review. The agents are in the logs, never seeing a screen. AI Assisted. Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product. The first wave of AI in products was chat, a box where a person typed and read the reply, and teams staffed for it right down to arguing about where the stop button should sit. DataDome’s AI T…",
    "w": "Làn sóng AI mới chuyển từ giao diện chat sang agent chạy ngầm không hiển thị màn hình, khiến thiết kế sản phẩm phải tập trung vào lớp hợp đồng API và log phía sau thay vì mockup trực quan.",
@@ -188,6 +384,33 @@
     "trust"
    ],
    "y": "Chỗ dễ nhầm là tưởng chatbot AI có thể thay thế sự thấu cảm thật của nhân viên nên đừng để máy trả lời thay con người ở những tình huống khách hàng cần được lắng nghe thật sự.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "UX Collective",
+   "hang": "Thiết kế dịch vụ",
+   "g": "case",
+   "imp": "cao",
+   "t": "Federal pressure may force design education to rethink its identity",
+   "s": "Why an earnings test raises uncomfortable questions about art, professional practice, and the value of a degree. Image source: Adobe Stock The Price of a Degree The federal government has decided to ask a question higher education has long avoided. What is a degree worth? Under the U.S. Department of Education’s new earnings-accountability framework , undergraduate programs will be judged partly by whether their g…",
+   "w": "Chính phủ Mỹ sắp đánh giá giá trị bằng cấp đại học dựa trên thu nhập sau tốt nghiệp, buộc ngành giáo dục thiết kế phải nhìn lại giá trị thực tiễn của chương trình đào tạo.",
+   "u": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research",
+    "report",
+    "benchmark",
+    "framework",
+    "user experience",
+    "retention",
+    "insurance",
+    "trust"
+   ],
+   "y": "Một phòng khám đào tạo nhân viên tân tuyến đầu ba tháng nhưng không đo được tay nghề tạo ra doanh thu thật sự thì chứng chỉ chỉ là tờ giấy treo tường.",
    "wa": 1
   },
   {
@@ -1711,241 +1934,56 @@
    "wa": 1
   },
   {
-   "d": "2026-09-17",
-   "src": "CMSWire",
-   "hang": "Chuyên trang",
-   "g": "case",
+   "d": "2026-10-02",
+   "src": "CustomerThink",
+   "hang": "Tổng hợp",
+   "g": "tin",
    "imp": "cao",
-   "t": "Measuring the ROI of AI Customer Service Strategy",
-   "s": "Businesses are measuring CX outcomes wrong. Here’s how to gauge the success of your AI customer service strategy. Continue reading...",
-   "w": "Nhiều doanh nghiệp đo sai kết quả CX khi triển khai AI trong dịch vụ khách hàng, thường chỉ nhìn chi phí tiết kiệm mà bỏ qua chất lượng trải nghiệm thực tế của khách hàng.",
-   "u": "https://www.cmswire.com/customer-experience/measuring-the-roi-of-ai-customer-service-strategy/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "t": "43% of Consumers Would Pay More for a Product that Guarantees Access to Human Support, According to Alchemer AI Customer Experience Report",
+   "s": "",
+   "w": "Khảo sát của Alchemer cho thấy 43% người tiêu dùng sẵn sàng trả thêm tiền nếu sản phẩm đảm bảo được hỗ trợ bởi con người thay vì chỉ AI tự động.",
+   "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDV6RUZReXVVZk04dVdKSzZlemc0VDFXOGxlaVNieEFnSXVUMk5peDNUQTBBRE9rNzdpdnVKckZ3MllmN05yZHlxcmVPUUhNbGRXQ2M4TWt3UEpxOEtHYU9jSk5ZVmwwSXlITlVYSHdMRTQ1M1FxQVRiaUxfeEN3NjNQLWZQZnY2dG02RHNWXzVBOTN0emtiT0x2ZDlZWnNjdG5CaTJFRWZnSHl5eU1aTDV2bEtnOGJaeGZwZDlGbEpib2xvd1gzelJoR1p4d3pNdnFLZkZQd0pXMGlMSVkyS1IteDRmbURRMUNBT1Rib1lyMUM4d2c?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "roi",
-    "customer service",
-    "cx"
-   ],
-   "y": "Tách riêng chỉ số chi phí vận hành và chỉ số hài lòng khách hàng khi đánh giá AI, tránh lấy tiết kiệm chi phí che lấp trải nghiệm tệ đi.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-17",
-   "src": "CMSWire",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "CX Shouldn't Run AI Governance. It Still Needs a Seat.",
-   "s": "An AI agent approves a claim that was never real. Gartner says 60% of AI projects fail on bad data — and most CX leaders still aren't in the room. Continue reading...",
-   "w": "Một AI agent duyệt nhầm yêu cầu bồi thường không có thật, phơi bày lỗ hổng dữ liệu. Gartner cảnh báo 60% dự án AI thất bại vì dữ liệu kém, trong khi lãnh đạo CX thường vắng mặt khi quyết định triển khai.",
-   "u": "https://www.cmswire.com/customer-experience/cx-shouldnt-run-ai-governance-it-still-needs-a-seat/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "ai agent"
-   ],
-   "y": "Doanh nghiệp đã cho ai kiểm tra chất lượng dữ liệu trước khi giao AI tự động duyệt yêu cầu khách hàng chưa, hay chỉ nghiệm thu sau khi sự cố xảy ra?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-17",
-   "src": "CMSWire",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Why Customer Feedback Management Keeps Stalling on Data, Not AI",
-   "s": "The sexy headline: Forrester's new Wave crowns Medallia the lone leader. The real issue: your priority is customer data and governance, not AI. Continue reading...",
-   "w": "Forrester xếp Medallia dẫn đầu Wave về quản lý phản hồi khách hàng, nhưng vấn đề thực sự không nằm ở AI mà ở dữ liệu và cách quản trị dữ liệu khách hàng.",
-   "u": "https://www.cmswire.com/customer-experience/customer-feedback-management-keeps-stalling-on-data-not-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer feedback",
-    "feedback"
-   ],
-   "y": "Rà lại nền tảng dữ liệu khách hàng và quy trình quản trị trước khi đổ tiền vào AI phân tích feedback vì công cụ hay đến mấy cũng vô nghĩa nếu dữ liệu rời rạc.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "Shep Hyken · Customer Service Blog",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Is Old-Fashioned Human Customer Service Becoming a Competitive Advantage?",
-   "s": "This article answers the question: Do customers want AI or human customer service? Answer: As AI and automation make human support harder to reach, companies that give customers easy access to knowledgeable, friendly people can turn human customer service into a competitive advantage. How many times have I heard from our subscribers complaining that the […]",
-   "w": "Khi AI và tự động hoá làm khách hàng ngày càng khó tiếp cận con người thật, dịch vụ khách hàng bằng người am hiểu và thân thiện lại trở thành lợi thế cạnh tranh khác biệt.",
-   "u": "https://hyken.com/customer-service-strategies/is-old-fashioned-human-customer-service-competitive-advantage/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service",
-    "automation"
-   ],
-   "y": "Khách hàng của bạn mất bao lâu để gặp được một người thật khi cần giúp đỡ gấp, nếu quá ba bước hãy thiết kế lại luồng thoại và chat ngay.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Knak Expands Its AI Production Layer to Mobile as RCS Business Use Grows",
-   "s": "Enterprise demand for marketing production increases as brands look to add more channels and strengthen marketing performance",
-   "w": "Knak mở rộng nền tảng sản xuất nội dung marketing dùng AI sang kênh mobile, đón đầu xu hướng doanh nghiệp dùng RCS (tin nhắn thương hiệu tương tác) ngày càng nhiều.",
-   "u": "https://customerthink.com/knak-expands-its-ai-production-layer-to-mobile-as-rcs-business-use-grows/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Rà lại kịch bản chăm sóc khách hàng qua tin nhắn trước khi mở rộng kênh RCS vì nội dung tự động hóa dễ sai lệch giọng điệu thương hiệu nếu không kiểm soát chặt.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "The Resume Still Looks Great. The Sales Hire Still Fails.",
-   "s": "I am saving an embarrassing amount of time and money by using Grok (xAI) the way I used to use interns and consultants, except this one doesn’t need a parking space. As I write this, Decky, one of my GrokBot agents, is updating all of the Baseline Selling slide decks to my spec. Another agent, […]",
-   "w": "Tác giả dùng AI (Grok) như trợ lý thay vì thực tập sinh, giao việc cập nhật tài liệu bán hàng, đồng thời chỉ ra hồ sơ đẹp không đảm bảo tuyển đúng nhân viên sales giỏi.",
-   "u": "https://customerthink.com/the-resume-still-looks-great-the-sales-hire-still-fails/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Quy trình phỏng vấn tuyến đầu của bạn có đang đánh giá đúng kỹ năng xử lý tình huống thực tế hay chỉ dựa vào hồ sơ đẹp và phần trả lời thuộc lòng?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Why contact deflection creates quiet loyalty erosion – Interview with Pasquale DeMaio, VP of Amazon Connect Customer",
-   "s": "Podcast Today’s episode of the Punk CX podcast features a chat I had with Pasquale DeMaio, Vice President and General Manager of Amazon Connect Customer, Amazon Web Services’ AI-powered customer experience platform, which supports more than 20 million customer interactions daily across 42 countries. We talk about how every customer now expects concierge-level treatment, regardless of […]",
-   "w": "Phỏng vấn VP Amazon Connect về việc chặn liên hệ (contact deflection) để giảm chi phí đang âm thầm bào mòn lòng trung thành khách hàng, khi ai cũng kỳ vọng được phục vụ như khách VIP.",
-   "u": "https://customerthink.com/why-contact-deflection-creates-quiet-loyalty-erosion-interview-with-pasquale-demaio-vp-of-amazon-connect-customer/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "cx",
-    "loyalty"
-   ],
-   "y": "Trước khi thêm chatbot hay FAQ để giảm cuộc gọi, hãy đo xem khách có thực sự giải quyết được vấn đề hay chỉ bỏ cuộc trong im lặng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "Voice AI and Agentic Commerce: Your Personal Agent Rents Its Home From the Other Side of the Force",
-   "s": "Every wave of customer-facing technology arrives with the same promise: this time the balance of power shifts toward the customer. As we discussed in our recent CRMKonvo with Dan Miller, founder and analyst emeritus of Opus Research, voice AI is making that promise again, and this time both sides of the counter are armed. The more interesting questions are […]",
-   "w": "Bài phân tích voice AI trong agentic commerce, cho rằng công nghệ mới không hẳn nghiêng quyền lực về phía khách hàng vì doanh nghiệp cũng trang bị AI tương tự để đối phó.",
-   "u": "https://customerthink.com/voice-ai-and-agentic-commerce-your-personal-agent-rents-its-home-from-the-other-side-of-the-force/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research"
-   ],
-   "y": "Tại một tổng đài đặt lịch spa, nếu AI khách hàng mặc cả giá còn AI tổng đài chỉ biết đọc kịch bản, doanh nghiệp cần nâng cấp AI tuyến đầu đồng thời để tránh mất thế chủ động.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "Integrate and Demand Metric Study Finds AI Readiness Is Closely Linked to Marketing Data Governance and Revenue Growth",
-   "s": "High-growth B2B organizations more than twice as likely to report AI-ready data and nearly three times as likely to have formal AI governance frameworks",
-   "w": "Nghiên cứu của Integrate và Demand Metric cho thấy các doanh nghiệp B2B tăng trưởng cao thường có dữ liệu marketing sẵn sàng cho AI và khung quản trị dữ liệu chính thức nhiều gấp đôi, gấp ba so với nhóm còn lại.",
-   "u": "https://customerthink.com/integrate-and-demand-metric-study-finds-ai-readiness-is-closely-linked-to-marketing-data-governance-and-revenue-growth/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "study",
     "report",
-    "b2b",
-    "revenue",
-    "growth"
+    "customer experience"
    ],
-   "y": "Gần 3 lần khác biệt về khung quản trị dữ liệu là con số đáng để soi lại quy trình thu thập và chuẩn hóa dữ liệu khách hàng trước khi vội áp AI vào chăm sóc hay bán hàng.",
+   "y": "Cái khó không nằm ở việc có chatbot hay không mà ở chỗ luôn để sẵn lối thoát gặp người thật khi khách hàng thực sự cần.",
    "wa": 1
   },
   {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "FTZ Selects Zilliant After Real-Time Benchmark Confirms Superior Pricing Performance at Scale",
-   "s": "Denmark’s leading automotive supplier to use Zilliant Price Manager, Real-Time Pricing Engine and Visual Analytics to automate pricing, strengthen governance and deliver customer-specific prices across high-volume digital channels",
-   "w": "FTZ, nhà cung cấp phụ tùng ô tô hàng đầu Đan Mạch, chọn giải pháp Zilliant sau khi kiểm chứng thời gian thực cho thấy hiệu suất định giá vượt trội ở quy mô lớn, nhằm tự động hóa và cá nhân hóa giá trên kênh số.",
-   "u": "https://customerthink.com/ftz-selects-zilliant-after-real-time-benchmark-confirms-superior-pricing-performance-at-scale/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "benchmark",
-    "pricing"
-   ],
-   "y": "Cái khó không nằm ở công nghệ định giá mà ở việc đảm bảo giá cá nhân hóa vẫn nhất quán và minh bạch trên mọi điểm chạm khách hàng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Shoppers are cautious about AI, but confident when it has a job to do",
-   "s": "Among 2,501 consumers across eight markets, only 43% think AI will make their holiday shopping easier this year, down from 48% in 2025",
-   "w": "Khảo sát 2.501 người mua sắm tại 8 thị trường cho thấy chỉ 43% tin AI giúp mua sắm mùa lễ dễ dàng hơn, giảm so với 48% năm 2025, dù họ vẫn tin dùng AI khi có nhiệm vụ rõ ràng.",
-   "u": "https://customerthink.com/shoppers-are-cautious-about-ai-but-confident-when-it-has-a-job-to-do/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Tách rõ những điểm chạm nên giao cho AI xử lý và những điểm chạm cần con người, đừng để chatbot ôm đồm toàn bộ hành trình mua sắm dịp lễ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "lifehealth.com",
+   "d": "2026-10-02",
+   "src": "CX Dive",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "thap",
-   "t": "The Hidden Customer Experience Advantage",
+   "t": "DoorDash customers can now discover and order via text",
    "s": "",
-   "w": "Bài gợi ý có một lợi thế cạnh tranh ẩn trong trải nghiệm khách hàng mà nhiều doanh nghiệp bỏ qua, thường nằm ở chi tiết nhỏ ít được đo lường.",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fckt4Z0E5OU4yeWVrR1ZvU2RzbXI1VzkyWEptMFdhVDRQY1ZjMXJhZWJ0QjZyNUZPNE5iZ1VRQjRsc1lVNHBDcDhvMTdQcU9naHoxOEdoN2hoSlE2djI2TFhvTC1QU2pGalExNDVvYVllYnRUSEww?oc=5",
+   "w": "DoorDash cho phép khách hàng tìm kiếm và đặt món ăn trực tiếp qua tin nhắn văn bản, thay vì phải mở ứng dụng, giúp giảm bước trong hành trình đặt hàng.",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjZCVThjbEpCS1NwV2xJblI4OTBEcVdHcWQxUW51ZEFmVl9EY0tmdWtQektuQ1FJVmhhUWF4RmJoWWJlYnpTWFRoRkVDb3JmRUJ1RWRHMVlVblVmOU9rR0lyRUh4UVN2M0QyanRvVE5iYTFnWmsyZ2FDNTVFSWJINkhRc2JUUlVEYmV4aF9VMzh6emt0TklReTV3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Rà lại từng bước trong hành trình đặt hàng xem kênh nào khách bỏ cuộc nhiều nhất rồi ưu tiên rút gọn ngay kênh đó trước khi chạy theo công nghệ mới.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "Asian Business Review",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Mashreq wins at Asian Experience Awards 2026 for customer experience transformation",
+   "s": "",
+   "w": "Ngân hàng Mashreq được vinh danh tại Asian Experience Awards 2026 nhờ nỗ lực chuyển đổi trải nghiệm khách hàng toàn diện, cho thấy đầu tư vào CX mang lại công nhận ngành.",
+   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVJZWldSVGVFekU5bDV3QVRaSXdSanhqaG0yR0d6T2FRQUtzbmhPUGpOR214bUw0TmlVUDdvbkxlQXZFVDZGVjVWWnVPUm83WVF3RE1aUmwxaDY3YUxtWW9CU29DTmNlRFlBZ19XWDdfZUgwVm5SWk9taVUyMjh3VWY3NDVxbkZ0QWxqLVdZQmowWnFTa2dqWmJIY2VpN0NBVUJWdWtubURpV2lHX21LZjhhQk1fc181OTZ1cEt4RGFRaVpzVnRmZmV1YmQzV28yYjhNZQ?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -1953,7 +1991,252 @@
    "khoa": [
     "customer experience"
    ],
-   "y": "Rà lại từng điểm chạm ít được chú ý như hóa đơn, lời cảm ơn, xử lý khiếu nại để tìm lợi thế cạnh tranh mà đối thủ chưa khai thác.",
+   "y": "Doanh nghiệp mình đã đo lường trải nghiệm khách hàng bằng số liệu cụ thể hay mới chỉ dừng ở cảm nhận chủ quan của lãnh đạo?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "Asian Business Review",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Singlife wins at Asian Experience Awards 2026 for customer experience transformation",
+   "s": "",
+   "w": "Singlife thắng giải chuyển đổi trải nghiệm khách hàng tại Asian Experience Awards 2026, cho thấy nỗ lực tái thiết kế hành trình khách hàng trong ngành bảo hiểm được công nhận.",
+   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEpaSlItdG5QeGFubVd3blpuT0d4ckdNTG9oWHZ1LUxXT2hxX3hkSHluU09MOW1iSjBsTk94dXZrc1FaN0dJTW1oRFp5RmhfOVVxM3ZCTXBHR296SmRCVFFHWmRpb3oxWERvSGhiUFhvOVNONHM4LWxMV3R6X0V2Nzd1MnpaUExUbjl5SWNEcFZMcndqS2V1RURqLUxxQVNfV3c5bWxzSm0zdUlMekZZU3o0VDJWTVByRkVnLWROd1RKbWRiNGxQemcyTUpPNDBkWVlFa0pB?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Trước khi theo đuổi giải thưởng trải nghiệm khách hàng, doanh nghiệp bảo hiểm Việt nên rà soát lại điểm chạm đòi bồi thường vì đó là lúc khách hàng thực sự đánh giá lòng tin.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Are You Buying CX Tools Instead of Fixing Orchestration?",
+   "s": "",
+   "w": "Bài đặt vấn đề nhiều doanh nghiệp mua thêm công cụ CX mới nhưng gốc rễ vấn đề là thiếu orchestration tức điều phối đồng bộ dữ liệu và quy trình giữa các điểm chạm khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2dCbmR5TGtPSUZkUXEwd1hBTWNCNUpNVzBwU3VCbjVrY21XOWJ0SnR0OE5wT2lJV3IzUm9DUTlxWTVMeFZIM2FKRllZYkI1WDhPN3VtZEhRRFppdVRaVnZzX2JOSU5rMTN1dTh6Mlo1em1aZmpNNkVGWlhPci1Sck5oTQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Tổng đài spa trả lời khác thông tin app đặt lịch đưa ra vì hai hệ thống không nói chuyện với nhau, nên trước khi mua thêm phần mềm hãy rà soát xem dữ liệu khách hàng có đang chảy thông suốt giữa các bộ phận hay không.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "Evotek JSC",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Why Banks Must Personalize the Customer Journey Before Making an Offer",
+   "s": "",
+   "w": "Bài nhấn mạnh ngân hàng cần cá nhân hóa hành trình khách hàng, hiểu nhu cầu và bối cảnh từng người, trước khi đưa ra bất kỳ đề nghị hay sản phẩm nào.",
+   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmFaMk50U2xhMTROWDR1dUtkTXBnNm9pcURPWFFGNVNNd1dydUZjRzZ2RmYzQm5hN1E1cExMREQyMW5tV2twQWFDdk5BSWdWR0NOYjZUZ3I1RzdXY0ZSU3hua09UQW1OTDB1Z1Q3Yy1iTm54WUlvbWZTNUxxSVp3T0E3Um41VXBLYUVCbTBtYnJiZWxLNEhj?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer journey"
+   ],
+   "y": "Tỷ lệ chuyển đổi offer theo từng phân khúc khách hàng nên được đo riêng, tránh gửi cùng một ưu đãi cho mọi đối tượng chưa phân tích hành vi.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-02",
+   "src": "Evotek JSC",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Vì sao ngân hàng phải cá nhân hóa hành trình khách hàng trước khi đưa ra đề nghị",
+   "s": "",
+   "w": "Bài nhấn mạnh ngân hàng cần hiểu rõ hành trình và bối cảnh từng khách hàng trước khi gửi đề nghị sản phẩm, thay vì áp dụng ưu đãi hàng loạt thiếu cá nhân hóa.",
+   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXBlY0p6ODROU3AwcWRia09SVVdmb0RyV19QeThzT2RadFlpaF9kNzVsZ3NWYjgwOW0tTkM1eW1Oek1VLWJrUkNlVkpWOEJnMWF5c0t5WTU4UkZoZE5DSkFodUgxTUdYc1YzNlRsbVFKR3dDMnBVOGJWX3VEWlE4ZnZyQXFBWFd3N1FmVlFpVUxMb000SmpZajl2N3R5ZXJt?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "hành trình khách hàng"
+   ],
+   "y": "Chỗ dễ nhầm là tưởng cá nhân hóa chỉ cần chèn tên khách vào email trong khi gốc rễ nằm ở hiểu đúng thời điểm và nhu cầu thật của họ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Cincinnati Enquirer",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Kroger cracks customer experience top 50 but topped by key competitor",
+   "s": "",
+   "w": "Kroger lọt top 50 bảng xếp hạng trải nghiệm khách hàng ngành bán lẻ nhưng vẫn thua đối thủ cạnh tranh chính về thứ hạng, cho thấy khoảng cách cải thiện CX.",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaktjdnN3ZzJxMjBRTnJyODJrYm90M2RSUmZOa09iNEpoTU11ZG1Sc0FFZlRydmJfeTRoV3l1VlkwcFJuWk1hcEp3TEhDckZ6b0otbkstUXhsZTltU3JYTS1jN0ZvQllmT2JUcjdMX0p5MHdTQ0ZwWXItY2RmX3MyWjBZMEV6Rndrb21TUHBLNmpwdnpUSXUtbC10N0JlbUNiZWtFVGdoNlJOdnVDNWdMY3p3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Rà lại từng điểm chạm so với đối thủ dẫn đầu để tìm đúng khâu khách hàng đang chấm điểm thấp hơn và ưu tiên sửa trước.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Hospitality Net",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Who Gives a Crap: What Toilet Paper Can Teach Us About Customer Experience",
+   "s": "",
+   "w": "Bài dùng thương hiệu giấy vệ sinh Who Gives a Crap làm ví dụ cho thấy sản phẩm tầm thường vẫn tạo trải nghiệm khách hàng nổi bật nhờ bao bì, thông điệp và sứ mệnh rõ ràng.",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxyd2pEdGFqTXJqa3RVbjNESUVTUS1VejFwdmFBem5aSXFMcDZhdVJUdmhwQXBfZTd6RWkxeTlZaVdlNlpGV1phLXhmWW5PRUVYd0Jhc05yZ0hQdTVmUVRCYTFTNWRjNGp3NjZZa0hfOFZRVGZWNGoxelJFRkVNRmxtZnVoYkswbzV2aXdyMmJXUlV3clpidXMyR0JXQW5ZQjFlQmVsbXBJX0dNSDM0Y0RQVDdrNnVoS280dA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "hospitality"
+   ],
+   "y": "Dịch vụ của bạn có đang bị xem là thứ nhàm chán không ai muốn nhắc tới, hãy thử kể câu chuyện và gắn giá trị xã hội vào từng điểm chạm để khách hàng thấy đáng nói tới.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Permira",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "AI & Customer Experience | Kleinanzeigen",
+   "s": "",
+   "w": "Bài đề cập ứng dụng AI vào trải nghiệm khách hàng tại nền tảng rao vặt Kleinanzeigen, tập trung cá nhân hóa và hỗ trợ tự động cho người dùng.",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcy1NQWFEY1FZVFpHLUZ3QzBGbDhmbHBrQ2tNaFNRcThHa0pxYXl2dFRVaU5iZEdtZDkzY25pNXMyT2R5b01OVUdyTGJNbGdpdE9XTUxJeUM3ZkRqZzgxMjItZzFucmRzaUlWVjdodFRXdHdkekxaTlNSU2FpR1BodmRaMVpRRG1xeHB0MzJGdmR4dw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Trước khi triển khai chatbot AI, cần thiết kế lộ trình chuyển giao mượt sang nhân viên thật khi khách hỏi vấn đề phức tạp hoặc bức xúc.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Home Depot debuts holiday sweater in holiday décor collection",
+   "s": "",
+   "w": "Home Depot ra mắt mẫu áo len Giáng sinh trong bộ sưu tập trang trí mùa lễ hội, tận dụng xu hướng sản phẩm theo mùa để tăng tương tác khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHU4M281aTBMXzhfRmVlMWFHX3NlTG9EZjVzdVV6bVM0eGhUS1U0NmdYeU5GQXVFR3lIdXFkNXZCMXotc1dMeW1CQUY0Mno2N3c0YzllZEhwYll0bUhSWFZRMER2N3dnOHpmWGFpVnVnNHA3UTNXOFBBOUh2d1pTVThzdWpxQ2I0a3FxRzBLcUNlR3BKbG1PTlIxT29uYXExeThSbmYtV184U2pr?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Tại một cửa hàng thời trang, treo thêm góc sản phẩm theo mùa lễ hội ngay lối vào giúp khách dừng chân lâu hơn và tăng cơ hội mua kèm.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Yahoo! Finance Canada",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Kinetic’s Global Partnerships Accelerate Fiber Expansion, Reduce Costs, Enhance Customer Experience via ‘QuickConnect’ technology",
+   "s": "",
+   "w": "Kinetic hợp tác toàn cầu áp dụng công nghệ 'QuickConnect' để mở rộng mạng cáp quang nhanh hơn, giảm chi phí lắp đặt và cải thiện trải nghiệm khách hàng khi đấu nối dịch vụ.",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUNSNGY3S0diU01LQ2Q1R1VwbUNHR3laTGI5UzZtd1pFWGZ1akZjQWExeGctVkdlS3Q5SXhnSVVGMmVBZFpvMVNIWThrM1VJNTdqQjN3M09Sc1Q4eG5XMXFGblB2UkxteVdfVEhrQzBwZUlCN1NVZUJiSHQyeG4yblFjVDVzTnlBSnhaOXZrMnRJYS1yckp0VA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "70% khách hàng đánh giá dịch vụ qua tốc độ lắp đặt ban đầu nên đo thời gian đấu nối thực tế từng khu vực để tối ưu quy trình, không chỉ quảng cáo tốc độ mạng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "3 numbers on what customers want from holiday CX this year",
+   "s": "",
+   "w": "Bài đưa ra 3 con số thống kê phản ánh kỳ vọng của khách hàng về trải nghiệm dịch vụ mùa lễ hội năm nay, tập trung vào tốc độ phản hồi, cá nhân hóa và kênh hỗ trợ.",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWZrOFJFUTA3ZEVabHdVRlNUcTBEZmFTTldGYjUxSTQ3QlNVT1UxZG5jeFdycU1uaUs1amlJSGhwSFE2bXJZMl9TcHZXdkNVVUJxYTRCQTN1MzFlOGVtdVRHUHJDM3JyaDllTGlSNkZjeFdMbmdodlpXcjVpUkhaUUJZUlFRZmNOekszZURBb1QtbnhWdDI3R3dWMmVULXI2YWx4Nm5qcEtHYkU?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Chỗ dễ nhầm là tưởng khách hàng mùa cao điểm chỉ cần giao hàng nhanh, thực ra họ cần tuyến đầu phản hồi kịp và nhất quán trên mọi kênh.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "AI emerging as a shopping channel",
+   "s": "",
+   "w": "AI đang nổi lên như một kênh mua sắm mới, khách hàng dùng chatbot và trợ lý ảo để tìm kiếm, so sánh và quyết định mua sản phẩm dịch vụ.",
+   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWlsR0FackdpUmFBRDIwaGEyNE94eWlKbEU2dlU0RTlmVzJNbG9tSjRrbUloS21CUUhXb0R6SnpHMExlbms4VDVES09obW1fbUVmRDEyLWU1Yk5CLUJjNXVGeTZFN3JoVTgtUFhqMUpjV1FkMjBOcEVrbWkwNnRLYXlyVWtwQjg?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Rà lại cách thương hiệu của mình hiển thị khi khách hỏi AI, vì đây sẽ là điểm chạm đầu tiên quyết định khách có chọn mình hay không.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Evolving loss prevention into a CX function",
+   "s": "",
+   "w": "Bài đề xuất chuyển đổi bộ phận phòng chống thất thoát (loss prevention) từ vai trò giám sát, bắt lỗi sang vai trò đóng góp vào trải nghiệm khách hàng tích cực.",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVRVTVU1Q1pkQlBUVUIyOWlZbVhfWFI1S3FrUzFob0x6cllxSVoxNHpkdnNCUU1WNHRLblNUbkJwbE5hX3puTWZ4dGNEQjRYOXlQTFBDWVNiX2pwX0UwNTRmV2Eydng4T0pWeDdNUFhBVE9XSTgtNjI1UzAwdWFXQlppczBxcmRKRGg4alR3MWE5amtoSHc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "cx",
+    "retail"
+   ],
+   "y": "Nhân viên an ninh cửa hàng đang khiến khách thấy bị nghi ngờ hay thấy an tâm mua sắm, câu trả lời quyết định họ là chi phí hay tài sản CX?",
    "wa": 1
   },
   {
@@ -1979,6 +2262,47 @@
   },
   {
    "d": "2026-10-01",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Online retail holiday sales to cross $275B milestone",
+   "s": "",
+   "w": "Doanh số bán lẻ trực tuyến mùa lễ hội dự kiến vượt mốc 275 tỷ đô la, cho thấy xu hướng mua sắm online tiếp tục tăng mạnh dịp cao điểm.",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZk1udi1CeV9NUGc0dG5ha0dkcjNYQUt2cnh2ODZrY08xWW1sR0gzMXVOMWlBUW9Kd0J5MHdDamVGTDdkQk82MHJxeGVIMXVTaHFhSFJNZV9zWERwLXpQZUJFZEJsWmEtcERRTnh2V0FYNEg5U2ZmaF9qX2QxTDJVX2ZqYVZGbzV4enFaYnlNZmMzOXJiTlloaEpUSDk3dVE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Trước mùa cao điểm, cần rà soát năng lực tổng đài, giao hàng và đổi trả để tránh trải nghiệm tệ khi lượng đơn tăng đột biến.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "WebexOne 2026: Cisco Brings AI Collaboration to Austin",
+   "s": "",
+   "w": "Cisco công bố sự kiện WebexOne 2026 tổ chức tại Austin, tập trung vào việc tích hợp AI vào nền tảng cộng tác Webex nhằm cải thiện giao tiếp và làm việc nhóm từ xa.",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWtvQXNFTWRKV0NZNWtwc0NVSFl3RHFXQ2ZPV2ZvcVBaeGRINDZTUVNFb1lSempXV0NtanJDcEkzTjE3X2JVRV9VSVFJbjVTcU5YdVdENWE4eDN2SExEQmVmVmNoTGNMdGVuaEdLQmIxelhpUFRoTXhiLXJvZktUQmpwWHFWbk5sQVF6Y2V6ZkxQelZhVjJxWmtn?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Tại một phòng khám đa khoa, nhân viên lễ tân dùng trợ lý AI trong họp từ xa với bác sĩ chuyên khoa để tư vấn ca khó, doanh nghiệp dịch vụ nội địa nên thử nghiệm công cụ tương tự để rút ngắn thời gian phản hồi khách hàng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
    "src": "CMSWire",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -1996,6 +2320,46 @@
     "cx"
    ],
    "y": "Trước khi vẽ bản đồ hành trình khách hàng, hãy xác định rõ những điểm dễ khiến khách lạc lối hoặc bỏ cuộc để bố trí người hỗ trợ kịp thời.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "CMSWire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Why American Airlines' Rising NPS Doesn't Mean Customers Are Loyal",
+   "s": "",
+   "w": "American Airlines ghi nhận NPS tăng nhưng điều đó không đồng nghĩa khách hàng thực sự trung thành, vì điểm số cao có thể che giấu hành vi chuyển đổi hãng khi có lựa chọn khác tốt hơn.",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3NUYWxvNHdyTzJCZ0NQRUVrMFptc3NsSGNIZ3ZHclNfYXpodm1aQ2hoUUpGNmdHMlNfRjQ5a0tkYzQ5XzI3VmpyOFp5bVcyNWFIYzBHOXl4Z3U0MnE3dUxZN204a29Wb1JKVU9faG5oUk1aeHp0Yk9qTTROOUFERi1CczRObmRlN0thenlzSnNpWVhnZFJNbUV4MmxmWlF0TE9mRTZjTWdPam12TWc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "nps"
+   ],
+   "y": "NPS chỉ là một chỉ số, nên đối chiếu thêm tỷ lệ quay lại thực tế và tần suất khách chọn đối thủ để tránh ảo tưởng về lòng trung thành.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "MediaNews4U",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Hyundai takes its customer experience beyond dealerships with ‘Hyundai Always Around’",
+   "s": "",
+   "w": "Hyundai mở rộng trải nghiệm khách hàng ra ngoài phạm vi đại lý qua chiến dịch 'Hyundai Always Around', xây dựng điểm chạm dịch vụ xuyên suốt đời sống khách hàng chứ không chỉ lúc mua hay bảo dưỡng xe.",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRm1oS3E5TGFKbFFUV2NTaGRjMnI2a3hYa0IzV1l5U29KbUlCOVVtQ0F3d2hkbU02bFJLdENoSVo4RXFwT2xzNy1mdkp2NzcwcUFLdjFUT012ekIwVU14anZsVnNuOEVmRF9TMUZwZFZDOU0zWnhYNUZ4XzBYcGw2Qkk0QVZiWDNVSkNGRTF0V1pjWXdJdWk5SFdwdjFBb2NFVm1PTHVnZEQyWmIyMVYwQVRR?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Cái khó không nằm ở quảng cáo rầm rộ mà ở việc duy trì chất lượng hỗ trợ đồng nhất tại mọi điểm chạm ngoài cửa hàng, kể cả lúc khách không mua gì.",
    "wa": 1
   },
   {
@@ -2020,7 +2384,128 @@
   },
   {
    "d": "2026-10-01",
-   "src": "biz.chosun.com",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "HMRC Selects Salesforce for £2.4BN CRM Program as Overhaul Takes Shape",
+   "s": "",
+   "w": "Cơ quan thuế Anh HMRC chọn Salesforce làm nền tảng CRM trị giá 2,4 tỷ bảng để cải tổ toàn bộ hệ thống quản lý quan hệ với người nộp thuế.",
+   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUMwbEhqUGdONkdTdmMyanBJekpDcnp1eEoxa3FKZXFRWU5jc1ZEZDBjMk12eHBEOWZRTXZldVJRR0pWZl9MMjRXZmk4eTlpM05XcVVhd3VOcnBzWmtQTzg5c0t4ZndyX2pyMHo0WFB5ZlFkR0xubjl1UGZadUVKRHhZZ25GSDlzTVdHT0dvRnQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Rà lại dữ liệu khách hàng rời rạc giữa các phòng ban trước khi đổ tiền vào CRM mới vì công nghệ chỉ phát huy khi dữ liệu và quy trình nội bộ đã thống nhất.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "BW People",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Bajaj Life Elevates Vivek Gupta As Chief Operations And Customer Experience Officer",
+   "s": "",
+   "w": "Bajaj Life bổ nhiệm Vivek Gupta làm Giám đốc Vận hành và Trải nghiệm khách hàng, gộp hai mảng vận hành và CX vào một vị trí lãnh đạo duy nhất.",
+   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN3Nwa0t4UjdWZ0ZjYnlTbnhWX0tXNEtqeHo4cUxhenA1NHFSd0JpNGtaZlNZbVpoVDYtLUtreVo3LWl0WG9ObTJpdnF1eUh2VmhIa2x0eV85aHhES19JV0FSbUhEWDdKVmk4RWoxSV95SHF3bmxQZWRWaFBaeFVVMXZjdnBCODFFeUdtTmg4WnhWSzVpYW5vTlNhNXh3RkJTNWs1RkloUVIwVUFmbmRMOS1ubmozejJXS3lsN2VETQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "operations"
+   ],
+   "y": "Công ty bạn đã có ai chịu trách nhiệm xuyên suốt cả vận hành lẫn trải nghiệm khách hàng, hay hai mảng này vẫn tách rời và đổ lỗi qua lại khi có sự cố?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Bizcommunity",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "More than a score: How mystery shopping reveals what really drives customer experience",
+   "s": "",
+   "w": "Bài nghiên cứu cho rằng mystery shopping (khách hàng bí mật) không chỉ chấm điểm tuân thủ quy trình mà còn hé lộ những yếu tố cảm xúc, hành vi thực sự quyết định trải nghiệm khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVVjQTVwMUJ5SUJROWpCWlh4M3FYZ0xHQlZrMTJWd0R5Y1d0ZW1pazk3bUtNZzgxd0pINl9fMW5PUkRUTUtPUFBiZVlLd0owZXEtTTByMUs2RDN6NzhGODZQLS1wZVRiWlhGUVVITmIyRGR1WmJ4eFVKMUpLalkxb3ZyVEdoNkppNlNjMEhaLXQ3RUt3UmszX3dRV3ZYZkxQWFZIMUtfNnI2NTFyVGFjdUpoRVFacG9iLWhiWXFZbHZ3T3JjSk4wV1BB?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Trước khi thiết kế bộ tiêu chí chấm điểm mystery shopping, cần hỏi xem chỉ số đó có phản ánh cảm xúc thật của khách hay chỉ đo sự tuân thủ quy trình.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "EIN News",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Sendzie Arms Lenders With a New Level of Engagement Across the Entire Customer Journey",
+   "s": "",
+   "w": "Sendzie ra mắt nền tảng tương tác khách hàng cho các đơn vị cho vay, bao quát toàn bộ hành trình từ tiếp cận, xử lý hồ sơ đến chăm sóc sau vay.",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXI3bGM3WjFvUC1uVG5fcFBfWXBCeDlZWEE4Z1JoR2Y3YmJOc2RZZERHTldxQ2xtWmp0amtoQ2U4S0dEdE5paGVqS0VQeDAyOGU3MndDdDB0aUppNmpXRGF3YjkwQkczVHFPQ2FIMUFuWk5QOUV2Z2NaTTNIbXVYUjAxRGtQcTNVandpYzQ3T1RZUHUzWF9WdVRLZ0VxeGJxaUtqcFMtb0tIQndMdmNLNTFaUVRpeG8zVS1ER25zclBzM25JUTg4?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer journey"
+   ],
+   "y": "Ở phòng khám nha khoa, khách chờ duyệt bảo hiểm mà không ai cập nhật tiến độ thì họ bỏ đi, nên mọi dịch vụ có quy trình dài cần hệ thống nhắc nhở tự động theo từng mốc.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Directors Club News -",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Coforge Launches CXNova, an Agentic CX Orchestration Platform That Delivers Intelligent, Real-Time Customer Experiences",
+   "s": "",
+   "w": "Coforge ra mắt CXNova, nền tảng điều phối trải nghiệm khách hàng dùng AI agentic để xử lý tương tác theo thời gian thực trên nhiều điểm chạm.",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMVZCM0hncEdkTHVZcVY5OGhLeUQ2OUxrbTBpaUtTMTZGdEJ1Vm9FeGtKS2pFRGVBWmF0ci1HOWJoWGVNQ0c0OE5IMFNzNWc1TmlmR0NLNzlxYk5TaXJGYklBdDVNb0puUUFNVDJ2dDVoYkd1NHRfcDAtcXZVYTQwN0REWGY1dnpWQ0NScF9ZbUEzaHRlQ1BTSHI5UjJfamxPWUpueWIyVlJIS05tMXI4UDFPNTc2RXZHY3RHMmVOcWNrdjZmVVNLVDZOeW1mdTVpOUphZ0R1SC1QajZSTW5BOGwyMl9xTVVvRk1SeA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Ba chỉ số cần theo dõi khi thử AI agentic là thời gian phản hồi, tỷ lệ chuyển tiếp lên người thật và độ hài lòng sau xử lý sự cố.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Choose the Right Journey Orchestration Platform in 2026, or Risk Fragmented CX",
+   "s": "",
+   "w": "Bài cảnh báo doanh nghiệp cần chọn đúng nền tảng điều phối hành trình khách hàng (journey orchestration) năm 2026, nếu không trải nghiệm khách hàng sẽ bị rời rạc giữa các điểm chạm và kênh.",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PU1lhek1pUzk3cHBuVElqZlBGemJ6TEN0YmJIbEVDQUFpWFZYUnBGR2J1N2R2RS1HMjBNWjNid3FFMlNsR21aTjFpTktvLXdyaUZqUlF0X0xpeGxLT25WSFhINkJOUWtrTnVlY3hiWQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Cái khó không nằm ở công nghệ mà ở việc dữ liệu khách hàng bị phân tán nhiều hệ thống, nên trước khi mua nền tảng mới hãy dọn sạch và hợp nhất dữ liệu nội bộ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "Chosunbiz",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
@@ -2040,15 +2525,55 @@
    "wa": 1
   },
   {
-   "d": "2026-09-30",
-   "src": "Fast Company",
+   "d": "2026-10-01",
+   "src": "Vietnam.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Điện lực Vĩnh Long tuyên truyền, hướng dẫn sử dụng dịch vụ chăm sóc khách hàng",
+   "s": "",
+   "w": "Điện lực Vĩnh Long đẩy mạnh tuyên truyền, hướng dẫn khách hàng sử dụng các kênh chăm sóc khách hàng như tổng đài, app, website để tra cứu và xử lý yêu cầu nhanh hơn.",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbk9aSl9JVVh5ck94VU01S0dGdVJtYVNXZndHaXE3M1JhLVVwdjdMdWZ5Tnp0S2htVlQtR3R3XzJDOFRCTVhEdUpjM3hPSlotTUxvZU1mMHoyRXd0Vm5NVUhWUWtfNEdYM0tOb1V3OE1BRG92eUhfRVl5ZC1jZzI1d1dBMjczOFhpcmhnUzVxOU9LWF9TdHlxdmE4VUJNWm4xb0E?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chăm sóc khách hàng"
+   ],
+   "y": "Rà lại từng kênh chăm sóc khách hàng xem hướng dẫn có dễ hiểu với người lớn tuổi hay ít rành công nghệ không trước khi tuyên truyền rộng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "baothanhhoa.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Nâng cao chất lượng dịch vụ công trực tuyến về bảo hiểm xã hội",
+   "s": "",
+   "w": "Bài đề cập giải pháp cải thiện chất lượng dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội, hướng tới trải nghiệm người dân tốt hơn khi làm thủ tục online.",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG5kZXB4MXR2UkFScVRjVFB5SmJfczFlcGpOZzdBcVU3UFZEOTItdy0wTm1Scl9QYzhEazF6czlsdGlaWThGYkhtWHdvdzhVVFl1R0d4dW5mckhBZHRMN2NEMGJLQjdsTU85Y1dra3VEUGZCdFlnWldVN3VVOTVPaVVrZnhFbUhTSGlQNmZ1Tkh6MmlBMDRhVnY4UW1UbzVOVVZtZQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ],
+   "y": "Người dân thao tác xong thủ tục bảo hiểm xã hội online có thực sự hiểu kết quả hay vẫn phải gọi hỏi lại tổng đài vì giao diện và thông báo quá khó hiểu?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-01",
+   "src": "lifehealth.com",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "thap",
-   "t": "Reinventing the Customer Experience with AI",
+   "t": "The Hidden Customer Experience Advantage",
    "s": "",
-   "w": "Bài bàn về cách AI đang định hình lại trải nghiệm khách hàng, từ cá nhân hóa đến tự động hóa điểm chạm trong hành trình khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVl4c19pN3RhR29uSXpQRlNnOHlqSmpBUTU0UW4teFI5ZVBOZmk4RkczakMxNGVwOFVFMUw1NXA4Y3dqUFJHUGlXcXg4aXZuTWFmVkxGdzFxRjNIbVlYVm1ZTWlrOHZUbjFyN2xKaTlDU2VLeElDSlpsenBYSkhGeEFXNGFwNHQ5Mmc?oc=5",
+   "w": "Bài gợi ý có một lợi thế cạnh tranh ẩn trong trải nghiệm khách hàng mà nhiều doanh nghiệp bỏ qua, thường nằm ở chi tiết nhỏ ít được đo lường.",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fckt4Z0E5OU4yeWVrR1ZvU2RzbXI1VzkyWEptMFdhVDRQY1ZjMXJhZWJ0QjZyNUZPNE5iZ1VRQjRsc1lVNHBDcDhvMTdQcU9naHoxOEdoN2hoSlE2djI2TFhvTC1QU2pGalExNDVvYVllYnRUSEww?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -2056,48 +2581,7 @@
    "khoa": [
     "customer experience"
    ],
-   "y": "Cái khó không nằm ở công nghệ AI mà ở việc huấn luyện nhân viên tuyến đầu hiểu dữ liệu để xử lý tình huống AI không lường trước.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
-   "src": "QSR Magazine",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Why Customer Experience Starts Behind the Scenes",
-   "s": "",
-   "w": "Bài nhấn mạnh trải nghiệm khách hàng tốt bắt nguồn từ vận hành nội bộ: quy trình, công cụ, văn hóa nhân viên tuyến sau chứ không chỉ điểm chạm trực tiếp với khách.",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGJzd1VGUUtTUWdpeUFzdFNlcHhqYno1d09zdUc1cVdXWUY4MU9fS1FfWFZBemNqSEtzUHBnWW1IVU80aElqdHpLSDJrMk8xZTJ4eTZiNTFPMGJVcEctbzg3cDdzQnh5M0N6YVMwRWpZdjBhS2czY1JKT185WkpERkViU1ZTTDhQYmlNa2d2LXhzNkV3ODM1RmdlZw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Rà lại quy trình nội bộ và công cụ hỗ trợ nhân viên trước khi đổ tiền vào quảng cáo hình ảnh trải nghiệm khách hàng hào nhoáng bên ngoài.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Will AI be the end of the touchscreen?",
-   "s": "",
-   "w": "Bài đặt câu hỏi liệu AI hội thoại có thay thế màn hình cảm ứng trong các điểm chạm dịch vụ như kiosk, tự phục vụ hay thiết bị trong xe, cửa hàng.",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFZYWF9tOVJHWTQ2RDRFc2NNQi1IaG1Pc0xWUXBFU1A0SS1EYW1tOF9neHRhZy1ydXp5U0hMZmY2WVotWWNZcTRPeUc4VnRhN1JPTktzYnlORml1M004a3BEajJhN1d5SkpyQm1ySjhkVUdIMElMdnVwel9SenY3cWI0cFVjWG1NdTluQVdDTnVuZw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ],
-   "y": "Quán hay cửa hàng của bạn đã thử để khách ra lệnh bằng giọng nói thay vì chạm màn hình chưa, nếu chưa nên thử nghiệm nhỏ trước khi đầu tư lớn?",
+   "y": "Rà lại từng điểm chạm ít được chú ý như hóa đơn, lời cảm ơn, xử lý khiếu nại để tìm lợi thế cạnh tranh mà đối thủ chưa khai thác.",
    "wa": 1
   },
   {
@@ -2147,10 +2631,10 @@
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "Walmart: We price the product, not the person",
+   "t": "Will AI be the end of the touchscreen?",
    "s": "",
-   "w": "Walmart khẳng định chính sách định giá theo sản phẩm, không cá nhân hóa giá dựa trên dữ liệu từng khách hàng, nhằm tránh nghi ngại về phân biệt giá và giữ niềm tin người mua.",
-   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhSYUw2TFZUSGc1STg2cDBCbzljN1dtWXdjLXpmaS1nN0dLaGZfNzVscGtWVnBoVUEtM251QTIwYmdmVV9VS05wU3RVTGU4Y3pMcEtfMDdDLXE1bk5xcVlXdVM0Q25aU2FZaWxfbkh0SjNoclpKeTRGVFRJNUFHU2d5RWc3czBSaV9XSGpNYXY0X2hH?oc=5",
+   "w": "Bài đặt câu hỏi liệu AI hội thoại có thay thế màn hình cảm ứng trong các điểm chạm dịch vụ như kiosk, tự phục vụ hay thiết bị trong xe, cửa hàng.",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFZYWF9tOVJHWTQ2RDRFc2NNQi1IaG1Pc0xWUXBFU1A0SS1EYW1tOF9neHRhZy1ydXp5U0hMZmY2WVotWWNZcTRPeUc4VnRhN1JPTktzYnlORml1M004a3BEajJhN1d5SkpyQm1ySjhkVUdIMElMdnVwel9SenY3cWI0cFVjWG1NdTluQVdDTnVuZw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -2159,7 +2643,49 @@
     "customer experience",
     "retail"
    ],
-   "y": "0 đồng chênh lệch giá cho cùng một sản phẩm là mức doanh nghiệp dịch vụ Việt nên công khai cam kết để tránh khách hàng nghi ngờ bị phân biệt đối xử.",
+   "y": "Quán hay cửa hàng của bạn đã thử để khách ra lệnh bằng giọng nói thay vì chạm màn hình chưa, nếu chưa nên thử nghiệm nhỏ trước khi đầu tư lớn?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Customer engagement strategies driving digital signage market growth",
+   "s": "",
+   "w": "Thị trường màn hình số (digital signage) tăng trưởng nhờ các chiến lược tương tác khách hàng, giúp doanh nghiệp truyền thông tại điểm bán và cải thiện trải nghiệm trực tiếp.",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObEVFQTdLbVZJUmdhZFhjMU8yZXE3UmdSSVJxY1ZKanI4SHNwVC1lQ2lRTHl3Yk9ySEx1enlJNXd3dlo2OGdvTTgyUVpQeEFqYTFyU1p3STFuSmRXMW1iYk9fR0ppUG5XRFlXc2I0eG5aM0RTSDJJQnprNUNsNHRKZUpPYWNFVmN3SUI1UkJmV2JocFZlNUFTZWQzakFkNWlBb05vZ201aG1nRFBEMHRybEpKaHhoQQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail",
+    "growth"
+   ],
+   "y": "Trước khi lắp màn hình số tại cửa hàng, hãy xác định rõ nội dung phục vụ hành trình nào của khách để tránh biến nó thành vật trang trí vô nghĩa.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "QSR Magazine",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Why Customer Experience Starts Behind the Scenes",
+   "s": "",
+   "w": "Bài nhấn mạnh trải nghiệm khách hàng tốt bắt nguồn từ vận hành nội bộ: quy trình, công cụ, văn hóa nhân viên tuyến sau chứ không chỉ điểm chạm trực tiếp với khách.",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGJzd1VGUUtTUWdpeUFzdFNlcHhqYno1d09zdUc1cVdXWUY4MU9fS1FfWFZBemNqSEtzUHBnWW1IVU80aElqdHpLSDJrMk8xZTJ4eTZiNTFPMGJVcEctbzg3cDdzQnh5M0N6YVMwRWpZdjBhS2czY1JKT185WkpERkViU1ZTTDhQYmlNa2d2LXhzNkV3ODM1RmdlZw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Rà lại quy trình nội bộ và công cụ hỗ trợ nhân viên trước khi đổ tiền vào quảng cáo hình ảnh trải nghiệm khách hàng hào nhoáng bên ngoài.",
    "wa": 1
   },
   {
@@ -2186,23 +2712,63 @@
   },
   {
    "d": "2026-09-30",
-   "src": "CX Dive",
+   "src": "Retail Customer Experience",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "Alaska Air will let loyalty members decide how their points accrue",
+   "t": "Walmart: We price the product, not the person",
    "s": "",
-   "w": "Alaska Air cho phép hội viên chương trình khách hàng thân thiết tự chọn cách tích điểm, thay vì áp dụng một công thức cố định cho tất cả thành viên.",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZKNDJmc0t2NEdZNDlDNk1ZZUhxZVh6RGE0RE03UG9NR3NOUEh3UVNjU2kxOVctUWMzOWJpLWV0OUxBbHBxdF9IYk5sLThNc1h4RDlzQWh1bU02WDFYN3NNQ0tTbzhCRUhwY2ZMTXJoM0VubkJOb3JwaTNaYzhlSzFzXzRMMGYyWG9KQlFUNTVpeVRsaGtpT1JlVkFHLW8xaHliXzBldEN5U2I2Y3Q4cmJiSjZ2dEIzTkE?oc=5",
+   "w": "Walmart khẳng định chính sách định giá theo sản phẩm, không cá nhân hóa giá dựa trên dữ liệu từng khách hàng, nhằm tránh nghi ngại về phân biệt giá và giữ niềm tin người mua.",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGhSYUw2TFZUSGc1STg2cDBCbzljN1dtWXdjLXpmaS1nN0dLaGZfNzVscGtWVnBoVUEtM251QTIwYmdmVV9VS05wU3RVTGU4Y3pMcEtfMDdDLXE1bk5xcVlXdVM0Q25aU2FZaWxfbkh0SjNoclpKeTRGVFRJNUFHU2d5RWc3czBSaV9XSGpNYXY0X2hH?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "cx",
-    "loyalty"
+    "customer experience",
+    "retail"
    ],
-   "y": "Hỏi khách hàng thân thiết họ muốn tích điểm theo chi tiêu hay theo chuyến bay trước khi thiết kế lại chương trình loyalty tại Việt Nam.",
+   "y": "0 đồng chênh lệch giá cho cùng một sản phẩm là mức doanh nghiệp dịch vụ Việt nên công khai cam kết để tránh khách hàng nghi ngờ bị phân biệt đối xử.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "CMSWire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "The Watermelon Effect: When Green CX Dashboards Hide Red-Faced Customers",
+   "s": "",
+   "w": "Bài chỉ ra hiện tượng 'hiệu ứng dưa hấu': các chỉ số CX trên dashboard hiển thị xanh tốt nhưng thực tế khách hàng vẫn bực bội, vì chỉ số đo sai hoặc bị thao túng.",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjBqUUFUM0FCQVg4UkhOd0FjOGtickozRjc0MWUzSTZ5MndFb0o1Z0wtVzYyY08yYWNOWEhnNFpPVUZzZm5QT2FFbW9GSHpGbHdkc1dFc0tWaUR0Sk1PTS1zUjNiejlVeUFPMndZeHhHcU5MWWl2X2lUN19uLTNTeW44Rk1ZV1ZHNEVFUzk0VWt2UEw3OG9xVURuMHdsdnZXUlAzVmNUdXNJRGVUWEEyUGlRWWZOMzQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Tổng đài chăm sóc khách hàng báo tỷ lệ hài lòng 95% nhưng khách vẫn gọi lại ba lần vì chưa giải quyết xong vấn đề, nên đối chiếu số liệu với phản hồi thật và ghi âm cuộc gọi thường xuyên.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "What To Expect at CCW Nashville 2026: AI, CX, and More",
+   "s": "",
+   "w": "Bài giới thiệu sự kiện CCW Nashville 2026, nơi quy tụ xu hướng mới về AI và trải nghiệm khách hàng (CX) trong ngành contact center.",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBROWpLbnRGZW5MVmtFTGZVaWtMYWx3UndZMlRLWDBYeTFOY3FtWDNLTGVaSzBwX1ZYQjVlLURVRXRIZ2xnUUJvRjBjaVNXMGtFX3RKbXVRSmN5RnJfR0wyWlJjSmVkd3FvcUI5OHhoQ1FpR0RuWEViX3RnTQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "80% quyết định ứng dụng AI vào CSKH nên dựa trên dữ liệu thực tế từ hội thảo chứ không chạy theo trào lưu công nghệ nhất thời.",
    "wa": 1
   },
   {
@@ -2227,48 +2793,6 @@
   },
   {
    "d": "2026-09-30",
-   "src": "Retail Technology Innovation Hub",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Amy Traves leaves Marks & Spencer and takes on Customer Experience Transformation role at Sainsbury’s",
-   "s": "",
-   "w": "Amy Traves rời Marks & Spencer để đảm nhận vai trò Chuyển đổi Trải nghiệm khách hàng tại Sainsbury's, đánh dấu bước chuyển nhân sự cấp cao trong ngành bán lẻ Anh.",
-   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXk1U0Ryb1Z0aGxlTmtmaGxrZHhPZzBlVWZEQTAzNy10aUtiWVlPdzZUUG9QVXRZM0lvZllQMnFBZEZ6US04M29zMzdvU3FHN05GaHhwTEtrU3d5WDBGTnpiRG56cEhJMjVkU1hCMmE3Q1JHVW9ETXppeGtRdHgyYnRlb3ZHdlV5RjItSGRleDBDLWlkSTBpV3ozcmUyaTY0MUxReWpFYmVWOWdFQzMzTnNQQVdlcUFIcXA1S3ZZNlc3M1JWMTV2RFRDMzAwbEdGU1BxYXZoNG9NQkc5ZGpCdkw1X19QOEhi?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ],
-   "y": "Rà lại đội ngũ CX hiện tại xem đã có người đủ tầm dẫn dắt chuyển đổi trải nghiệm khách hàng xuyên suốt các phòng ban chưa, đừng để thiếu vai trò then chốt này.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
-   "src": "The Manila Times",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "SOTI Achieves 94 NPS, Extending Five-Year Streak of World-Class Customer Service",
-   "s": "",
-   "w": "SOTI đạt điểm NPS 94, duy trì danh hiệu dịch vụ khách hàng đẳng cấp thế giới suốt năm năm liên tiếp nhờ đầu tư bền bỉ vào trải nghiệm hậu mãi.",
-   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNE9hTlV3c1hTTjJQM1FTNjFhdXZsLVZzbFYtazA3YXJFZXRudG1qTVdPVzFVcXRBQjdwczVzMTRFTFRqWm9kUkJqT19RWVBRalpXdmZTRDQ5NmFhcE84Si11bEwzYWFKdUh0cHFGOFNXd1dxYTE0UGZjN3JaVUtOSDIzTmk2dFlHU2w0aldVTXhObE1zTE1QN1FUaXduSXR0SWctT2I2enBiak5zb3FjS0F1WGlmVkt6dVA3NjJYdkp1SzlCZW85b0V5ZzBjdGticXZNdXloZm1EVS1xUHBVWEdUTnFtSEtJ0gHuAUFVX3lxTFBQVkV5a1d1Y2pjM0xDVHpmR2p5ZjhsZUU4Yjk1ZVRiSW45SWpBd2t2a0tYSHF5b2wtVXJSOUMzVmNGLUFFcDJOY2M4Q081Z1pEazI1SmV6UUpkQUliWWFDbTJaaTNEVUZrd0pIR2hZcWJqeTl0Vmw5aDRLeEtsb1didE9JWk9PRjlrWTNvYXVVdHVrbkVydzlMUWI5d0NEdzNxOC1DVkxtRFpuTW0xc1ZVSVVkdnVUVGdvUUxOYk5wbFF5U1oxaGF6NGdyTzRYaHVOWVZVUjB4VlUtVk5GQlI5UW9XZ2tYYi1aRnFHN0E?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service",
-    "nps"
-   ],
-   "y": "Trước khi mơ đến điểm NPS cao, hãy đo lường định kỳ từng điểm chạm và công khai mục tiêu cải thiện cho cả đội tuyến đầu cùng theo dõi.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
    "src": "citybiz",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2289,7 +2813,7 @@
   },
   {
    "d": "2026-09-30",
-   "src": "Business Reporter",
+   "src": "business-reporter.co.uk",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
@@ -2306,26 +2830,6 @@
     "automation"
    ],
    "y": "80% khách hàng có dấu hiệu rời bỏ trước khi hủy dịch vụ nên đầu tư AI cảnh báo sớm thay vì chỉ xử lý khiếu nại khi khách đã quyết định rời đi.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
-   "src": "safariindia.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Altek AI Appoints New Head of Customer Success",
-   "s": "",
-   "w": "Altek AI bổ nhiệm trưởng bộ phận Customer Success mới, cho thấy công ty đang đầu tư mạnh hơn vào việc giữ chân và phát triển khách hàng hiện có.",
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVVRXaXU1eVRmQmg1eWtaY09DYTJzZk5jcEQzT0prOVl3NlU4WUR5NTdzb2JsRVZlamVwelFwWEtSMWdoejJyc0k2eWlNR3FVZE9XNWk2cE4zeEprckdQSHFxWDFGUnFLWUJtTkN0YU9Ra3JEMmNib2pEOA?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer success"
-   ],
-   "y": "Chỗ dễ nhầm là tưởng tuyển người giỏi là xong, trong khi cái khó nằm ở xây quy trình đo lường sức khỏe khách hàng và cảnh báo rủi ro rời bỏ ngay từ đầu.",
    "wa": 1
   },
   {
@@ -2432,27 +2936,6 @@
   },
   {
    "d": "2026-09-30",
-   "src": "Salesforce",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "dusk unlocks the next tier of customer loyalty with Salesforce.",
-   "s": "",
-   "w": "Thương hiệu nội thất Dusk nâng cấp chương trình khách hàng thân thiết bằng Salesforce, tích hợp dữ liệu để cá nhân hóa ưu đãi và chăm sóc khách hàng đa kênh hiệu quả hơn.",
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80VzRRRFY2c2EyV1BjczhZYUJ0ZURHZmhmcjZxX0I1WGRvdTNMLWw1X1EtclR5clJGeDQ4NzFnMDVGWnlwNEJkOW5ONnV1UnBad0UzZVc0Y0RiaHVuVXpzNVR3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer loyalty",
-    "loyalty"
-   ],
-   "y": "Tỷ lệ khách quay lại mua lần hai nên được đo riêng theo từng kênh để biết dữ liệu hợp nhất có thực sự kéo khách cũ quay lại hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
    "src": "CafeBiz",
    "hang": "Việt Nam",
    "g": "tin",
@@ -2473,27 +2956,7 @@
   },
   {
    "d": "2026-09-30",
-   "src": "Báo và Phát thanh Truyền hình Hà Nội",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Người dân trực tiếp 'chấm điểm' chất lượng dịch vụ đất đai",
-   "s": "",
-   "w": "Người dân được trực tiếp đánh giá chất lượng dịch vụ hành chính đất đai, nhằm tăng tính minh bạch và trách nhiệm giải trình của cơ quan nhà nước.",
-   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzRmTkVsMGpnLVAyMDlscVJrdDR4aG04TkZ4ZTl3MnN6T0dHOEVKM0ExdUdZazlfM0p1UzdzeFRBSGozRU1SRFp2WnhELWFxWHNhQXVlb2czSzFDRzdGc1A1Z3VqeF9ZVlZwZ3ZrR1ZBdVFuZzJueUN5bkxvOE43bGFnX0dBT2tuOV91bER5RjhfWmdJ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Cái khó không nằm ở thu thập điểm đánh giá mà ở việc công khai kết quả và có hành động cải thiện cụ thể cho từng điểm chạm yếu kém.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
-   "src": "thoibaonganhang.vn",
+   "src": "Thời Báo Ngân Hàng",
    "hang": "Việt Nam",
    "g": "tin",
    "imp": "thap",
@@ -2509,6 +2972,26 @@
     "chất lượng dịch vụ"
    ],
    "y": "Rà lại dữ liệu AI thu được tại từng điểm chạm và giao cho nhân viên tuyến đầu quyền dùng ngay, tránh để insight nằm chết trong báo cáo nội bộ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Báo Tiền Phong",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Người dân Hà Nội trực tiếp 'chấm điểm' chất lượng dịch vụ Y tế, Giáo dục, Đất đai",
+   "s": "",
+   "w": "Hà Nội triển khai khảo sát để người dân trực tiếp đánh giá chất lượng dịch vụ công ở các lĩnh vực Y tế, Giáo dục, Đất đai, nhằm đo lường trải nghiệm thực tế thay vì chỉ dựa báo cáo nội bộ.",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUtYa2NXTFZoTmljV3ZTQk01cVVsNXVPallsUGhwUjZCZ0xaVUlkU2w0ZURFS1F3dmxFNkpXRlBKWTN2TmhrZE1rWDhaTXJya3VRa0VfZW51ZTY1bnZPV2NBSFc2eGVXUXN5ZzB5RGdpR3lxTGhIZ0dhMzZYaEVRSkwtZVFjS2Nma1RrTXhvWDZCdktTVkthRXZhQnF4S2pxNzBRckdaRThUMkI2bWZZaExva0g?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ],
+   "y": "Một phòng khám tư chỉ cần đặt bảng hỏi ba câu ngay quầy ra về là thu được dữ liệu trải nghiệm thật, thay vì đợi khảo sát định kỳ xa rời thực tế.",
    "wa": 1
   },
   {
@@ -2553,26 +3036,6 @@
   },
   {
    "d": "2026-09-30",
-   "src": "Báo Tiền Phong",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Người dân Hà Nội trực tiếp 'chấm điểm' chất lượng dịch vụ Y tế, Giáo dục, Đất đai",
-   "s": "",
-   "w": "Hà Nội triển khai khảo sát để người dân trực tiếp đánh giá chất lượng dịch vụ công ở các lĩnh vực Y tế, Giáo dục, Đất đai, nhằm đo lường trải nghiệm thực tế thay vì chỉ dựa báo cáo nội bộ.",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUtYa2NXTFZoTmljV3ZTQk01cVVsNXVPallsUGhwUjZCZ0xaVUlkU2w0ZURFS1F3dmxFNkpXRlBKWTN2TmhrZE1rWDhaTXJya3VRa0VfZW51ZTY1bnZPV2NBSFc2eGVXUXN5ZzB5RGdpR3lxTGhIZ0dhMzZYaEVRSkwtZVFjS2Nma1RrTXhvWDZCdktTVkthRXZhQnF4S2pxNzBRckdaRThUMkI2bWZZaExva0g?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Một phòng khám tư chỉ cần đặt bảng hỏi ba câu ngay quầy ra về là thu được dữ liệu trải nghiệm thật, thay vì đợi khảo sát định kỳ xa rời thực tế.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-30",
    "src": "Báo Bắc Ninh",
    "hang": "Việt Nam",
    "g": "tin",
@@ -2589,6 +3052,150 @@
     "chất lượng dịch vụ"
    ],
    "y": "Tỷ lệ phản hồi và điểm hài lòng theo từng điểm chạm là chỉ số sống còn, doanh nghiệp dịch vụ nên học cách gắn khảo sát ngay sau giao dịch thay vì chờ cuối tháng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Fast Company",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Reinventing the Customer Experience with AI",
+   "s": "",
+   "w": "Bài bàn về cách AI đang định hình lại trải nghiệm khách hàng, từ cá nhân hóa đến tự động hóa điểm chạm trong hành trình khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVl4c19pN3RhR29uSXpQRlNnOHlqSmpBUTU0UW4teFI5ZVBOZmk4RkczakMxNGVwOFVFMUw1NXA4Y3dqUFJHUGlXcXg4aXZuTWFmVkxGdzFxRjNIbVlYVm1ZTWlrOHZUbjFyN2xKaTlDU2VLeElDSlpsenBYSkhGeEFXNGFwNHQ5Mmc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Cái khó không nằm ở công nghệ AI mà ở việc huấn luyện nhân viên tuyến đầu hiểu dữ liệu để xử lý tình huống AI không lường trước.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Alaska Air will let loyalty members decide how their points accrue",
+   "s": "",
+   "w": "Alaska Air cho phép hội viên chương trình khách hàng thân thiết tự chọn cách tích điểm, thay vì áp dụng một công thức cố định cho tất cả thành viên.",
+   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZKNDJmc0t2NEdZNDlDNk1ZZUhxZVh6RGE0RE03UG9NR3NOUEh3UVNjU2kxOVctUWMzOWJpLWV0OUxBbHBxdF9IYk5sLThNc1h4RDlzQWh1bU02WDFYN3NNQ0tTbzhCRUhwY2ZMTXJoM0VubkJOb3JwaTNaYzhlSzFzXzRMMGYyWG9KQlFUNTVpeVRsaGtpT1JlVkFHLW8xaHliXzBldEN5U2I2Y3Q4cmJiSjZ2dEIzTkE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "loyalty"
+   ],
+   "y": "Hỏi khách hàng thân thiết họ muốn tích điểm theo chi tiêu hay theo chuyến bay trước khi thiết kế lại chương trình loyalty tại Việt Nam.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Retail Technology Innovation Hub",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Amy Traves leaves Marks & Spencer and takes on Customer Experience Transformation role at Sainsbury’s",
+   "s": "",
+   "w": "Amy Traves rời Marks & Spencer để đảm nhận vai trò Chuyển đổi Trải nghiệm khách hàng tại Sainsbury's, đánh dấu bước chuyển nhân sự cấp cao trong ngành bán lẻ Anh.",
+   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXk1U0Ryb1Z0aGxlTmtmaGxrZHhPZzBlVWZEQTAzNy10aUtiWVlPdzZUUG9QVXRZM0lvZllQMnFBZEZ6US04M29zMzdvU3FHN05GaHhwTEtrU3d5WDBGTnpiRG56cEhJMjVkU1hCMmE3Q1JHVW9ETXppeGtRdHgyYnRlb3ZHdlV5RjItSGRleDBDLWlkSTBpV3ozcmUyaTY0MUxReWpFYmVWOWdFQzMzTnNQQVdlcUFIcXA1S3ZZNlc3M1JWMTV2RFRDMzAwbEdGU1BxYXZoNG9NQkc5ZGpCdkw1X19QOEhi?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Rà lại đội ngũ CX hiện tại xem đã có người đủ tầm dẫn dắt chuyển đổi trải nghiệm khách hàng xuyên suốt các phòng ban chưa, đừng để thiếu vai trò then chốt này.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "The Manila Times",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "SOTI Achieves 94 NPS, Extending Five-Year Streak of World-Class Customer Service",
+   "s": "",
+   "w": "SOTI đạt điểm NPS 94, duy trì danh hiệu dịch vụ khách hàng đẳng cấp thế giới suốt năm năm liên tiếp nhờ đầu tư bền bỉ vào trải nghiệm hậu mãi.",
+   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNE9hTlV3c1hTTjJQM1FTNjFhdXZsLVZzbFYtazA3YXJFZXRudG1qTVdPVzFVcXRBQjdwczVzMTRFTFRqWm9kUkJqT19RWVBRalpXdmZTRDQ5NmFhcE84Si11bEwzYWFKdUh0cHFGOFNXd1dxYTE0UGZjN3JaVUtOSDIzTmk2dFlHU2w0aldVTXhObE1zTE1QN1FUaXduSXR0SWctT2I2enBiak5zb3FjS0F1WGlmVkt6dVA3NjJYdkp1SzlCZW85b0V5ZzBjdGticXZNdXloZm1EVS1xUHBVWEdUTnFtSEtJ0gHuAUFVX3lxTFBQVkV5a1d1Y2pjM0xDVHpmR2p5ZjhsZUU4Yjk1ZVRiSW45SWpBd2t2a0tYSHF5b2wtVXJSOUMzVmNGLUFFcDJOY2M4Q081Z1pEazI1SmV6UUpkQUliWWFDbTJaaTNEVUZrd0pIR2hZcWJqeTl0Vmw5aDRLeEtsb1didE9JWk9PRjlrWTNvYXVVdHVrbkVydzlMUWI5d0NEdzNxOC1DVkxtRFpuTW0xc1ZVSVVkdnVUVGdvUUxOYk5wbFF5U1oxaGF6NGdyTzRYaHVOWVZVUjB4VlUtVk5GQlI5UW9XZ2tYYi1aRnFHN0E?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service",
+    "nps"
+   ],
+   "y": "Trước khi mơ đến điểm NPS cao, hãy đo lường định kỳ từng điểm chạm và công khai mục tiêu cải thiện cho cả đội tuyến đầu cùng theo dõi.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "safariindia.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Altek AI Appoints New Head of Customer Success",
+   "s": "",
+   "w": "Altek AI bổ nhiệm trưởng bộ phận Customer Success mới, cho thấy công ty đang đầu tư mạnh hơn vào việc giữ chân và phát triển khách hàng hiện có.",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVVRXaXU1eVRmQmg1eWtaY09DYTJzZk5jcEQzT0prOVl3NlU4WUR5NTdzb2JsRVZlamVwelFwWEtSMWdoejJyc0k2eWlNR3FVZE9XNWk2cE4zeEprckdQSHFxWDFGUnFLWUJtTkN0YU9Ra3JEMmNib2pEOA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer success"
+   ],
+   "y": "Chỗ dễ nhầm là tưởng tuyển người giỏi là xong, trong khi cái khó nằm ở xây quy trình đo lường sức khỏe khách hàng và cảnh báo rủi ro rời bỏ ngay từ đầu.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Salesforce",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "dusk unlocks the next tier of customer loyalty with Salesforce.",
+   "s": "",
+   "w": "Thương hiệu nội thất Dusk nâng cấp chương trình khách hàng thân thiết bằng Salesforce, tích hợp dữ liệu để cá nhân hóa ưu đãi và chăm sóc khách hàng đa kênh hiệu quả hơn.",
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80VzRRRFY2c2EyV1BjczhZYUJ0ZURHZmhmcjZxX0I1WGRvdTNMLWw1X1EtclR5clJGeDQ4NzFnMDVGWnlwNEJkOW5ONnV1UnBad0UzZVc0Y0RiaHVuVXpzNVR3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty"
+   ],
+   "y": "Tỷ lệ khách quay lại mua lần hai nên được đo riêng theo từng kênh để biết dữ liệu hợp nhất có thực sự kéo khách cũ quay lại hay không.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Báo và Phát thanh Truyền hình Hà Nội",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Người dân trực tiếp 'chấm điểm' chất lượng dịch vụ đất đai",
+   "s": "",
+   "w": "Người dân được trực tiếp đánh giá chất lượng dịch vụ hành chính đất đai, nhằm tăng tính minh bạch và trách nhiệm giải trình của cơ quan nhà nước.",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzRmTkVsMGpnLVAyMDlscVJrdDR4aG04TkZ4ZTl3MnN6T0dHOEVKM0ExdUdZazlfM0p1UzdzeFRBSGozRU1SRFp2WnhELWFxWHNhQXVlb2czSzFDRzdGc1A1Z3VqeF9ZVlZwZ3ZrR1ZBdVFuZzJueUN5bkxvOE43bGFnX0dBT2tuOV91bER5RjhfWmdJ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ],
+   "y": "Cái khó không nằm ở thu thập điểm đánh giá mà ở việc công khai kết quả và có hành động cải thiện cụ thể cho từng điểm chạm yếu kém.",
    "wa": 1
   },
   {
@@ -2733,14 +3340,14 @@
   },
   {
    "d": "2026-09-29",
-   "src": "Business Wire",
+   "src": "CarMax",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
    "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
    "s": "",
-   "w": "CarMax bổ nhiệm nhân sự lãnh đạo mới nhằm thống nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối hành trình mua bán xe, hỗ trợ chiến lược tăng trưởng dài hạn của công ty.",
-   "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWUZFLWNtVm5QVUl5QnpjdnR1MzNuRGdzYW05MjdJaVBlWjdfc29GMkxQNjd0RmVfSHJmZ2kwVXBmWnVNWUFMNEtIbmZKd0JGZThBMUIzYk5yS1NVZXFiWmtvQTh6LVdpMlNUamNnM2VXUWVxZGYwbEVrOVJjdF8ybHgzR0FuVzZ5NmtnM1J3UVRqT0w5endqd3paRFdjM0xkWk0xVWRfUXpDREZ5c3ZrN2xNNzI0VEVzMVFuX2ptZ05pRXpqNm9fLTNMSXVsNVFVSmFTNWM3R0t6ekVEYnVneDZ3ekhhQmc1V2NXclBrTWVjcTlHQWZ0MGtabmFiVVNBWUtn?oc=5",
+   "w": "CarMax bổ nhiệm dàn lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn.",
+   "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSlU1ZFROUTV0TC0xMDlKQ0YtcGFIa2s0bmdld2REYnVSMW5SWE16M1JDUWpGUWhTb3o3YnpRb0t3RHdJQWluaDhkUTBOSlNUQnV6TEhoMjhYVFI4UmdMYWZveTRTc0ZaLUQ2WmRfMGlJN3NYVy1TbkRnR1ZXOXRPWW5xN0phTzQtTzNEQ0ZnQzRhaVlxVkJQVnliUHFJU2czSlFjYW5EeFRGNlNvVlE2UmJCb2NqZzVtYkFIV0R1WDJ5WXF1NnRDVzZHLTVZUjVEN0FkLVBGTV93UjNudzZsbXRRUDRsTHVnUXp6T25LOTRYUGpsbVN2NG80dnlGUnY4NThBbnZvSFh0c05HSkdmNTZRSmVON1hJQU5IdlBUWE9tZkU?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -2749,27 +3356,7 @@
     "customer experience",
     "growth"
    ],
-   "y": "Cái khó không nằm ở chọn đúng người giỏi mà ở việc gộp các bộ phận rời rạc thành một chủ sở hữu hành trình khách hàng duy nhất, có quyền quyết cả online lẫn tại điểm bán.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Where do associates fit in an AI world?",
-   "s": "",
-   "w": "Bài đặt vấn đề vai trò của nhân viên tuyến giữa (associates) khi AI ngày càng đảm nhận nhiều tác vụ dịch vụ, cần định nghĩa lại giá trị con người mang lại.",
-   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Trước khi triển khai chatbot hay AI hỗ trợ, hãy xác định rõ việc nào máy làm, việc nào cần nhân viên xử lý để giữ sự tinh tế trong tương tác.",
+   "y": "Cái khó không nằm ở việc gom các phòng ban lại một mối mà ở chỗ đồng bộ dữ liệu khách hàng và tiêu chuẩn phục vụ giữa các điểm chạm thực tế.",
    "wa": 1
   },
   {
@@ -2791,50 +3378,6 @@
     "retail"
    ],
    "y": "Ở quầy lễ tân spa hay cửa hàng, khi khách cầm điện thoại so giá do AI gợi ý ngay tại chỗ, nhân viên cần được huấn luyện phản ứng nhanh và minh bạch chính sách giá.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Poor online brand search driving consumers to tap AI assistants",
-   "s": "",
-   "w": "Trải nghiệm tìm kiếm thương hiệu trên website và công cụ tìm kiếm truyền thống quá kém khiến người dùng chuyển sang hỏi trợ lý AI để tìm thông tin nhanh và chính xác hơn.",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU5qWHJIeGRlbEM3U1hITWt5VHZ3dFo5NmV4ekNlZ2xRTUR4RHh1cHR4TUtOanRXZExXRnpkenEzeTJSeXpfckJSTTZaLTFPeWVwcnpSUFc5YXE4UUJfRlY3SEl5Y2JGTXNBelI2MUJrUDQwRTZYNldrX2R6Z3hqNUpIY0ZrN0YxU0JTZDRFdUFEc1hhMk1VeHBqcUl1RVRLamZuRERuNzRNd1U2QXlZ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail",
-    "brand"
-   ],
-   "y": "Website và mục tìm kiếm nội bộ của bạn có đang khiến khách phải mở ChatGPT để tìm thông tin thay vì tự tìm được trên trang mình?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "The Financial Brand",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Why Strong CX Scores Don’t Always Translate into Growth",
-   "s": "",
-   "w": "Bài chỉ ra điểm CX (trải nghiệm khách hàng) cao không đồng nghĩa doanh thu tăng, vì đo lường hài lòng thường tách rời khỏi hành vi mua lặp lại và giới thiệu thực tế.",
-   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTI3WnZiNlpJNFVVdVc2R1ZSTE95dENHOHlfbjNQNmtzZjQzMXdKUlZpdlZhdnRlSkFhTWwwZFZVQjNST1ZsNWd0TEtJMDdMdEpBQ3BNa1JLbUZIQnUxWDhRYlJpYUprVVZ6ZkxqRUxlVXE1UXhfVGJGZXhBMzBzczF5TTJvSVQyeUJ3WWZKZGp0N1M1OUxsQnF5RFRuai03bkhkV3RFS1VSY2dTTkNsaUl0NFJqQmhtNGxaUDl1N3N0QQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "brand",
-    "growth"
-   ],
-   "y": "Điểm CX cao của bạn có thực sự đi kèm khách quay lại mua hay chỉ là con số đẹp trên báo cáo, nên đối chiếu khảo sát với dữ liệu doanh thu thật?",
    "wa": 1
   },
   {
@@ -2904,68 +3447,6 @@
   },
   {
    "d": "2026-09-29",
-   "src": "Business Wire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "cao",
-   "t": "43% of Consumers Would Pay More for a Product that Guarantees Access to Human Support, According to Alchemer AI Customer Experience Report",
-   "s": "",
-   "w": "Báo cáo của Alchemer AI cho thấy 43% người tiêu dùng sẵn sàng trả thêm tiền nếu sản phẩm cam kết cho họ tiếp cận nhân viên hỗ trợ thật, không chỉ chatbot AI.",
-   "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQ0NHbHFiYkxHX0ZhZmxyYVdJclJDMTM3el93Qk4zTW5LUmc3MllXSnVzaVhWMzNDMUtCRmhwSFpjT2NsN2VpUzdjazJuUjliY193aGdjdDdZZjl5c3VVYjNJdXBTeldoTTdwYVVMMzNvMGdYQXZaS0FDcmlsUkRZbHVLRGc3UUJ4ZVZGWDV1N0tCbXV5LUVJSlRjdGVoVDJrQ0xVSjUxUWhmOVRyUHRvem03STNNWEhOb2dwZk5WWkcwLS1YSkdNU3habHFSZ0JFampVbnNnN19DTHFibFhLOGJaNDd2SUh1VnNMUDlaam1ac19HN3dISUYtdGpMTFNETmExOGVDNm5qQ3hvRXcwTGNXV3VQbzNUYnRmYVl3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "report",
-    "customer experience"
-   ],
-   "y": "Rà lại quy trình chăm sóc khách hàng để luôn có lối thoát nhanh sang nhân viên thật khi chatbot không giải quyết được vấn đề phức tạp.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "TradingView",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Carmax Announces Leadership Appointments To Further Unify End-To-End Customer Experience, Advance Strategy For Growth",
-   "s": "",
-   "w": "CarMax bổ nhiệm nhân sự lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn.",
-   "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZjR5QTZsdWkwbWs3Z25wNkJCZ2hseFBoXzdUb19Sa29mS1ROT1RuZ0xuRmtKQzZ6a0N1X0h4SVFtVE92cUhrckJVUWtvcV9QMkV1dEduVExQZ3ducS1HOUE5MWtiZzJRSzZQNnlfSk5FZFExS1ZJNS04SHhKZEhZRzdmWjYxX3J3SFI5QkJxQ3ZBNVVyX3doWnJ2YmNZT2owWkxfNTJadnIxUjN6TUNzdzlfUzd5WTZPSXhBSGlUaVRNelhEekZrc1d3ZDBQbFFfVlFEU0JJVFpFTU1RNFk1X3ZYenpYMG03a1FmOWg4bXROS0xxOVFpQlZESVBKM3gwTEpLX3pqalBQZnNQTF9WM2d4cFY?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "growth"
-   ],
-   "y": "Trước khi tái cấu trúc bộ máy, cần vẽ rõ hành trình khách hàng để phân quyền lãnh đạo theo từng điểm chạm chứ không theo phòng ban riêng lẻ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "The Business Journals",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "CarMax names former Volkswagen executive to newly created customer experience role",
-   "s": "",
-   "w": "CarMax vừa lập vị trí lãnh đạo trải nghiệm khách hàng mới, bổ nhiệm một cựu giám đốc từ Volkswagen đảm nhận, cho thấy hãng muốn đầu tư bài bản vào CX như một mảng chiến lược riêng.",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONURlckRZRU9EYzJDUnEyemxMbzN0NE9icTF6Q3hodUdkcUdGMzZOLTJ6UllpNExSaU1CczZLTmkzWmFaMVZOQlh4QldLWVJKSmYtN3JCSmJzQ0RFVGRtSXppWlRXeUZBa0gxZ2QzOUVfNDdhaENMc0lwcXR3R2xGLVRFRS0xVTFReERyX2Rid2ozVkoyZVhLYmp5OW52LUlCVExWdQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Lập rõ một vị trí chủ quản trải nghiệm khách hàng với quyền quyết ngân sách và quy trình, tránh để CX trôi nổi giữa nhiều phòng ban không ai chịu trách nhiệm cuối cùng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
    "src": "citybiz",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3006,89 +3487,7 @@
   },
   {
    "d": "2026-09-29",
-   "src": "Business Wire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Verint Named a Leader Across Four 2026 ISG Buyers Guide Evaluations for CX Technology",
-   "s": "",
-   "w": "Verint được ISG xếp hạng Leader ở bốn hạng mục công nghệ CX (trải nghiệm khách hàng) trong báo cáo Buyers Guide 2026, khẳng định vị thế nền tảng phân tích và tự động hóa trải nghiệm khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEVSM0VjT2NxNFBuLV9wLWFRdVFKbDNOZUM5dy1vb0lmOWxZREFGMUlZZEV0VVktUjYzQ3ByRzlHU1U4ZEtzVVJ1V284cjZIUng3ZU5FZTJseDJ3STJaMjBibXJZTHpKaGVRYm9FXzB6YjZ1bUZuSnNTN3B0N2tZT0h5UjBHeVQ2MnA2WW04MFY5OTdpZTJra1dHV09URnBnTzBXaXNUT09tQVRmbHBYTi1HRno5RU9DZVlPeWtGQWM5MXcwdFRBcmpSZGEyNExxWWU5V2ZOQVNhQQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Cái khó không nằm ở chọn phần mềm CX đạt chuẩn quốc tế mà ở việc huấn luyện đội tuyến đầu dùng đúng dữ liệu để sửa quy trình thực tế hàng ngày.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "巴士的報",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
-   "s": "",
-   "w": "CarMax bổ nhiệm lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn của công ty.",
-   "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVlU0ckZYM2tlakplRS0zWkVEUWlEeXgyMWd5NUYxNjVtNUoxZzY5YkNDNEVteEgzMUl6b2hFcFhLQVVFcUhPX0dGWVFxcHlnTjE1Rmd3eHRKRFhNN3N4SmVxbGR2TnVCU1RZVHJ5R0pjR3FtbFZlS0w4NjJTLWlKM2hacUlJajhFUFE0cVZoRlZnMmhoZ2EwSlI3R29YeEo4S0ZBeUY2UnRPTnpBY3h6dkhIWlhMVmVja20ySFZoTjcwRFV0Mm5pZjRkLUZTaTNBaFVheVEwbFd0NFhTVF81SENfVzNqcTJsZm11UTl5ZlRSZnk2d0xDSkJsSFc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "growth"
-   ],
-   "y": "Cái khó không nằm ở chọn đúng người mà ở xóa ranh giới quyền lực giữa các phòng ban để hành trình khách hàng thực sự liền mạch.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "Enidnews.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
-   "s": "",
-   "w": "CarMax bổ nhiệm dàn lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn của công ty.",
-   "u": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVGpIUTdTZnhZVWI2WWNBRjdUVlR0WGNHY2dkejd0V2Y1OFlHbDBFX1lpVDg0TElycVRuREY5U0owMmJkbjNFOGp3QVYyam1PdEN6VUtvTzlGdm5WZHUxVnlSSHQ1ZmVXMXlqN2x3NWhCVmtSSjdyT0k0N0VVUVppUTNBRVhPMElsQjNtV09OeTZuLU5aUTc0YjhnM3ZsVWd0VG84YTFpc29LMGh6S0diODZSMG82dzhVbUJoUXcwaTBsQXZzMlFUREdfRF9HZzQzUVB5VldfSENZNFhjaF9XSmZKcXlzSXZaYk5aQ3V3TVNRU2I0a24zd3A3b2xsdVBoUWtLeE1Dbnc1a01QUG5ySmdENDNVQVVhV1lv?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "growth"
-   ],
-   "y": "Rà lại toàn bộ hành trình khách hàng xem điểm chạm nào đang do phòng ban khác nhau phụ trách rời rạc rồi gộp về một đầu mối chịu trách nhiệm chung.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "PC Tech Magazine",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "How Technology Can Improve Customer Experience",
-   "s": "",
-   "w": "Bài bàn về vai trò công nghệ trong việc cải thiện trải nghiệm khách hàng, từ tự động hóa điểm chạm đến cá nhân hóa dựa trên dữ liệu khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUxzS2dTZzVFbDZqSzRfOUZGX1hsa2xlR2FOLWk0VURnc2xMUG90QjJiR1ptel91QTVVZFItcnN5bDhhZXBUNzFoak51bTJ0a0FiTmF3Vjl3aVNrOVlHRFRiQzJJY0J6ZDF6OW1iSC1QWWkxek0zSkh6OWlCMnFBUlpaTQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Chỗ dễ nhầm là cứ đầu tư chatbot hay app hiện đại là khách hàng hài lòng, trong khi công nghệ chỉ nên hỗ trợ nhân viên xử lý nhanh và chính xác hơn, không thay thế cảm xúc con người lúc cần thiết.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "einpresswire.com",
+   "src": "EIN Presswire",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "cao",
@@ -3188,27 +3587,6 @@
     "cx"
    ],
    "y": "Khách hàng của bạn có phải lặp lại câu chuyện mỗi lần chuyển kênh không, nếu có thì đó chính là chỗ rò rỉ doanh thu cần vá ngay bằng hệ thống đồng bộ dữ liệu xuyên kênh.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Customer Journey Orchestration Is Getting Serious. Is NiCE Agentic AI Architecture Already Ahead?",
-   "s": "",
-   "w": "Bài bàn về xu hướng điều phối hành trình khách hàng (customer journey orchestration) bằng AI tác tử, đặt câu hỏi liệu kiến trúc Agentic AI của NiCE có đang dẫn đầu cuộc chơi này.",
-   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNVVFN3lfak1SNnJCQzlURHJaTjJVZU9FZVZSZm9rM3JSR2tfZTdjN1pmLXNIMkRTZ3l0NHJudnQ1X3FBakQxNVBrNFk0TG1ZbDYxX1FpOUg1ZWNWcDl0X1h0UnpoZw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey",
-    "cx"
-   ],
-   "y": "Doanh nghiệp đã thực sự nối liền dữ liệu các điểm chạm để AI hiểu đúng ngữ cảnh khách hàng chưa, hay vẫn chạy từng kênh rời rạc rồi kỳ vọng công nghệ tự vá lỗi?",
    "wa": 1
   },
   {
@@ -3335,7 +3713,7 @@
   },
   {
    "d": "2026-09-29",
-   "src": "moomoo.com",
+   "src": "Moomoo",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
@@ -3417,6 +3795,26 @@
   },
   {
    "d": "2026-09-29",
+   "src": "Evotek JSC",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Tại sao điểm CX cao không phải lúc nào cũng thúc đẩy tăng trưởng: Điều gì mà các ngân hàng và tổ chức tín dụng đang bỏ lỡ",
+   "s": "",
+   "w": "Nhiều ngân hàng đạt điểm CX (trải nghiệm khách hàng) cao nhưng doanh thu vẫn không tăng, vì điểm số chưa gắn với hành vi mua thêm, giữ chân hay giới thiệu thực tế.",
+   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlNXcVBUQ21yTl9JdlY0QXRSZTRjUmFvSzhucENxaHZ5eHoxaG5OYzYwQWpSYi1Ha2VIam0zMl9TaEVLZE12UGNzTkxCTVI0blQ2Um4taTA1QzJ1OVZQYmFTSWhvQ1pDWUFlSDFtWE1fNFdfd1k2OHhRWXVNUzNkMXh0dzNXWVpsOUc2YVpLMTZYUTZ4djdDVUV5aFJlOVc5Q01BMGN1R3hxcE9sb2lEamZuaE9hTXlsYnFDeUszX0NnUHl3NzVscU40SjVSanhhdVN6NDg0Mkg?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Tách riêng chỉ số hài lòng và chỉ số hành vi mua lại để tránh ảo tưởng điểm CX cao đồng nghĩa doanh thu tự tăng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
    "src": "Vietnam.vn",
    "hang": "Việt Nam",
    "g": "tin",
@@ -3433,6 +3831,256 @@
     "chất lượng dịch vụ"
    ],
    "y": "Rà lại quy trình dọn buồng và checklist kiểm tra chất lượng phòng theo từng ca, gắn trách nhiệm rõ ràng để tránh sai sót lặp lại gây mất điểm với khách lưu trú.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "Business Wire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
+   "s": "",
+   "w": "CarMax bổ nhiệm nhân sự lãnh đạo mới nhằm thống nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối hành trình mua bán xe, hỗ trợ chiến lược tăng trưởng dài hạn của công ty.",
+   "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWUZFLWNtVm5QVUl5QnpjdnR1MzNuRGdzYW05MjdJaVBlWjdfc29GMkxQNjd0RmVfSHJmZ2kwVXBmWnVNWUFMNEtIbmZKd0JGZThBMUIzYk5yS1NVZXFiWmtvQTh6LVdpMlNUamNnM2VXUWVxZGYwbEVrOVJjdF8ybHgzR0FuVzZ5NmtnM1J3UVRqT0w5endqd3paRFdjM0xkWk0xVWRfUXpDREZ5c3ZrN2xNNzI0VEVzMVFuX2ptZ05pRXpqNm9fLTNMSXVsNVFVSmFTNWM3R0t6ekVEYnVneDZ3ekhhQmc1V2NXclBrTWVjcTlHQWZ0MGtabmFiVVNBWUtn?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "growth"
+   ],
+   "y": "Cái khó không nằm ở chọn đúng người giỏi mà ở việc gộp các bộ phận rời rạc thành một chủ sở hữu hành trình khách hàng duy nhất, có quyền quyết cả online lẫn tại điểm bán.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Where do associates fit in an AI world?",
+   "s": "",
+   "w": "Bài đặt vấn đề vai trò của nhân viên tuyến giữa (associates) khi AI ngày càng đảm nhận nhiều tác vụ dịch vụ, cần định nghĩa lại giá trị con người mang lại.",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Trước khi triển khai chatbot hay AI hỗ trợ, hãy xác định rõ việc nào máy làm, việc nào cần nhân viên xử lý để giữ sự tinh tế trong tương tác.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Poor online brand search driving consumers to tap AI assistants",
+   "s": "",
+   "w": "Trải nghiệm tìm kiếm thương hiệu trên website và công cụ tìm kiếm truyền thống quá kém khiến người dùng chuyển sang hỏi trợ lý AI để tìm thông tin nhanh và chính xác hơn.",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU5qWHJIeGRlbEM3U1hITWt5VHZ3dFo5NmV4ekNlZ2xRTUR4RHh1cHR4TUtOanRXZExXRnpkenEzeTJSeXpfckJSTTZaLTFPeWVwcnpSUFc5YXE4UUJfRlY3SEl5Y2JGTXNBelI2MUJrUDQwRTZYNldrX2R6Z3hqNUpIY0ZrN0YxU0JTZDRFdUFEc1hhMk1VeHBqcUl1RVRLamZuRERuNzRNd1U2QXlZ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail",
+    "brand"
+   ],
+   "y": "Website và mục tìm kiếm nội bộ của bạn có đang khiến khách phải mở ChatGPT để tìm thông tin thay vì tự tìm được trên trang mình?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "The Financial Brand",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Why Strong CX Scores Don’t Always Translate into Growth",
+   "s": "",
+   "w": "Bài chỉ ra điểm CX (trải nghiệm khách hàng) cao không đồng nghĩa doanh thu tăng, vì đo lường hài lòng thường tách rời khỏi hành vi mua lặp lại và giới thiệu thực tế.",
+   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTI3WnZiNlpJNFVVdVc2R1ZSTE95dENHOHlfbjNQNmtzZjQzMXdKUlZpdlZhdnRlSkFhTWwwZFZVQjNST1ZsNWd0TEtJMDdMdEpBQ3BNa1JLbUZIQnUxWDhRYlJpYUprVVZ6ZkxqRUxlVXE1UXhfVGJGZXhBMzBzczF5TTJvSVQyeUJ3WWZKZGp0N1M1OUxsQnF5RFRuai03bkhkV3RFS1VSY2dTTkNsaUl0NFJqQmhtNGxaUDl1N3N0QQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "brand",
+    "growth"
+   ],
+   "y": "Điểm CX cao của bạn có thực sự đi kèm khách quay lại mua hay chỉ là con số đẹp trên báo cáo, nên đối chiếu khảo sát với dữ liệu doanh thu thật?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "Business Wire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "43% of Consumers Would Pay More for a Product that Guarantees Access to Human Support, According to Alchemer AI Customer Experience Report",
+   "s": "",
+   "w": "Báo cáo của Alchemer AI cho thấy 43% người tiêu dùng sẵn sàng trả thêm tiền nếu sản phẩm cam kết cho họ tiếp cận nhân viên hỗ trợ thật, không chỉ chatbot AI.",
+   "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQ0NHbHFiYkxHX0ZhZmxyYVdJclJDMTM3el93Qk4zTW5LUmc3MllXSnVzaVhWMzNDMUtCRmhwSFpjT2NsN2VpUzdjazJuUjliY193aGdjdDdZZjl5c3VVYjNJdXBTeldoTTdwYVVMMzNvMGdYQXZaS0FDcmlsUkRZbHVLRGc3UUJ4ZVZGWDV1N0tCbXV5LUVJSlRjdGVoVDJrQ0xVSjUxUWhmOVRyUHRvem03STNNWEhOb2dwZk5WWkcwLS1YSkdNU3habHFSZ0JFampVbnNnN19DTHFibFhLOGJaNDd2SUh1VnNMUDlaam1ac19HN3dISUYtdGpMTFNETmExOGVDNm5qQ3hvRXcwTGNXV3VQbzNUYnRmYVl3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "report",
+    "customer experience"
+   ],
+   "y": "Rà lại quy trình chăm sóc khách hàng để luôn có lối thoát nhanh sang nhân viên thật khi chatbot không giải quyết được vấn đề phức tạp.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "TradingView",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Carmax Announces Leadership Appointments To Further Unify End-To-End Customer Experience, Advance Strategy For Growth",
+   "s": "",
+   "w": "CarMax bổ nhiệm nhân sự lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn.",
+   "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZjR5QTZsdWkwbWs3Z25wNkJCZ2hseFBoXzdUb19Sa29mS1ROT1RuZ0xuRmtKQzZ6a0N1X0h4SVFtVE92cUhrckJVUWtvcV9QMkV1dEduVExQZ3ducS1HOUE5MWtiZzJRSzZQNnlfSk5FZFExS1ZJNS04SHhKZEhZRzdmWjYxX3J3SFI5QkJxQ3ZBNVVyX3doWnJ2YmNZT2owWkxfNTJadnIxUjN6TUNzdzlfUzd5WTZPSXhBSGlUaVRNelhEekZrc1d3ZDBQbFFfVlFEU0JJVFpFTU1RNFk1X3ZYenpYMG03a1FmOWg4bXROS0xxOVFpQlZESVBKM3gwTEpLX3pqalBQZnNQTF9WM2d4cFY?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "growth"
+   ],
+   "y": "Trước khi tái cấu trúc bộ máy, cần vẽ rõ hành trình khách hàng để phân quyền lãnh đạo theo từng điểm chạm chứ không theo phòng ban riêng lẻ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "The Business Journals",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "CarMax names former Volkswagen executive to newly created customer experience role",
+   "s": "",
+   "w": "CarMax vừa lập vị trí lãnh đạo trải nghiệm khách hàng mới, bổ nhiệm một cựu giám đốc từ Volkswagen đảm nhận, cho thấy hãng muốn đầu tư bài bản vào CX như một mảng chiến lược riêng.",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONURlckRZRU9EYzJDUnEyemxMbzN0NE9icTF6Q3hodUdkcUdGMzZOLTJ6UllpNExSaU1CczZLTmkzWmFaMVZOQlh4QldLWVJKSmYtN3JCSmJzQ0RFVGRtSXppWlRXeUZBa0gxZ2QzOUVfNDdhaENMc0lwcXR3R2xGLVRFRS0xVTFReERyX2Rid2ozVkoyZVhLYmp5OW52LUlCVExWdQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Lập rõ một vị trí chủ quản trải nghiệm khách hàng với quyền quyết ngân sách và quy trình, tránh để CX trôi nổi giữa nhiều phòng ban không ai chịu trách nhiệm cuối cùng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "Business Wire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Verint Named a Leader Across Four 2026 ISG Buyers Guide Evaluations for CX Technology",
+   "s": "",
+   "w": "Verint được ISG xếp hạng Leader ở bốn hạng mục công nghệ CX (trải nghiệm khách hàng) trong báo cáo Buyers Guide 2026, khẳng định vị thế nền tảng phân tích và tự động hóa trải nghiệm khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEVSM0VjT2NxNFBuLV9wLWFRdVFKbDNOZUM5dy1vb0lmOWxZREFGMUlZZEV0VVktUjYzQ3ByRzlHU1U4ZEtzVVJ1V284cjZIUng3ZU5FZTJseDJ3STJaMjBibXJZTHpKaGVRYm9FXzB6YjZ1bUZuSnNTN3B0N2tZT0h5UjBHeVQ2MnA2WW04MFY5OTdpZTJra1dHV09URnBnTzBXaXNUT09tQVRmbHBYTi1HRno5RU9DZVlPeWtGQWM5MXcwdFRBcmpSZGEyNExxWWU5V2ZOQVNhQQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Cái khó không nằm ở chọn phần mềm CX đạt chuẩn quốc tế mà ở việc huấn luyện đội tuyến đầu dùng đúng dữ liệu để sửa quy trình thực tế hàng ngày.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "巴士的報",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
+   "s": "",
+   "w": "CarMax bổ nhiệm lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn của công ty.",
+   "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVlU0ckZYM2tlakplRS0zWkVEUWlEeXgyMWd5NUYxNjVtNUoxZzY5YkNDNEVteEgzMUl6b2hFcFhLQVVFcUhPX0dGWVFxcHlnTjE1Rmd3eHRKRFhNN3N4SmVxbGR2TnVCU1RZVHJ5R0pjR3FtbFZlS0w4NjJTLWlKM2hacUlJajhFUFE0cVZoRlZnMmhoZ2EwSlI3R29YeEo4S0ZBeUY2UnRPTnpBY3h6dkhIWlhMVmVja20ySFZoTjcwRFV0Mm5pZjRkLUZTaTNBaFVheVEwbFd0NFhTVF81SENfVzNqcTJsZm11UTl5ZlRSZnk2d0xDSkJsSFc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "growth"
+   ],
+   "y": "Cái khó không nằm ở chọn đúng người mà ở xóa ranh giới quyền lực giữa các phòng ban để hành trình khách hàng thực sự liền mạch.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "Enidnews.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "CarMax Announces Leadership Appointments to Further Unify End-to-End Customer Experience, Advance Strategy for Growth",
+   "s": "",
+   "w": "CarMax bổ nhiệm dàn lãnh đạo mới nhằm hợp nhất trải nghiệm khách hàng xuyên suốt từ đầu đến cuối, phục vụ chiến lược tăng trưởng dài hạn của công ty.",
+   "u": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVGpIUTdTZnhZVWI2WWNBRjdUVlR0WGNHY2dkejd0V2Y1OFlHbDBFX1lpVDg0TElycVRuREY5U0owMmJkbjNFOGp3QVYyam1PdEN6VUtvTzlGdm5WZHUxVnlSSHQ1ZmVXMXlqN2x3NWhCVmtSSjdyT0k0N0VVUVppUTNBRVhPMElsQjNtV09OeTZuLU5aUTc0YjhnM3ZsVWd0VG84YTFpc29LMGh6S0diODZSMG82dzhVbUJoUXcwaTBsQXZzMlFUREdfRF9HZzQzUVB5VldfSENZNFhjaF9XSmZKcXlzSXZaYk5aQ3V3TVNRU2I0a24zd3A3b2xsdVBoUWtLeE1Dbnc1a01QUG5ySmdENDNVQVVhV1lv?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "growth"
+   ],
+   "y": "Rà lại toàn bộ hành trình khách hàng xem điểm chạm nào đang do phòng ban khác nhau phụ trách rời rạc rồi gộp về một đầu mối chịu trách nhiệm chung.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "PC Tech Magazine",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "How Technology Can Improve Customer Experience",
+   "s": "",
+   "w": "Bài bàn về vai trò công nghệ trong việc cải thiện trải nghiệm khách hàng, từ tự động hóa điểm chạm đến cá nhân hóa dựa trên dữ liệu khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUxzS2dTZzVFbDZqSzRfOUZGX1hsa2xlR2FOLWk0VURnc2xMUG90QjJiR1ptel91QTVVZFItcnN5bDhhZXBUNzFoak51bTJ0a0FiTmF3Vjl3aVNrOVlHRFRiQzJJY0J6ZDF6OW1iSC1QWWkxek0zSkh6OWlCMnFBUlpaTQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Chỗ dễ nhầm là cứ đầu tư chatbot hay app hiện đại là khách hàng hài lòng, trong khi công nghệ chỉ nên hỗ trợ nhân viên xử lý nhanh và chính xác hơn, không thay thế cảm xúc con người lúc cần thiết.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-29",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Customer Journey Orchestration Is Getting Serious. Is NiCE Agentic AI Architecture Already Ahead?",
+   "s": "",
+   "w": "Bài bàn về xu hướng điều phối hành trình khách hàng (customer journey orchestration) bằng AI tác tử, đặt câu hỏi liệu kiến trúc Agentic AI của NiCE có đang dẫn đầu cuộc chơi này.",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNVVFN3lfak1SNnJCQzlURHJaTjJVZU9FZVZSZm9rM3JSR2tfZTdjN1pmLXNIMkRTZ3l0NHJudnQ1X3FBakQxNVBrNFk0TG1ZbDYxX1FpOUg1ZWNWcDl0X1h0UnpoZw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer journey",
+    "cx"
+   ],
+   "y": "Doanh nghiệp đã thực sự nối liền dữ liệu các điểm chạm để AI hiểu đúng ngữ cảnh khách hàng chưa, hay vẫn chạy từng kênh rời rạc rồi kỳ vọng công nghệ tự vá lỗi?",
    "wa": 1
   },
   {
@@ -3553,26 +4201,6 @@
     "customer service"
    ],
    "y": "Trước khi gộp hai bộ phận về một người quản lý, cần rà soát quy trình bàn giao thông tin giữa khâu thẩm định và chăm sóc khách hàng để tránh khách phải lặp lại yêu cầu nhiều lần.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-29",
-   "src": "Evotek JSC",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Tại sao điểm CX cao không phải lúc nào cũng thúc đẩy tăng trưởng: Điều gì mà các ngân hàng và tổ chức tín dụng đang bỏ lỡ",
-   "s": "",
-   "w": "Nhiều ngân hàng đạt điểm CX (trải nghiệm khách hàng) cao nhưng doanh thu vẫn không tăng, vì điểm số chưa gắn với hành vi mua thêm, giữ chân hay giới thiệu thực tế.",
-   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlNXcVBUQ21yTl9JdlY0QXRSZTRjUmFvSzhucENxaHZ5eHoxaG5OYzYwQWpSYi1Ha2VIam0zMl9TaEVLZE12UGNzTkxCTVI0blQ2Um4taTA1QzJ1OVZQYmFTSWhvQ1pDWUFlSDFtWE1fNFdfd1k2OHhRWXVNUzNkMXh0dzNXWVpsOUc2YVpLMTZYUTZ4djdDVUV5aFJlOVc5Q01BMGN1R3hxcE9sb2lEamZuaE9hTXlsYnFDeUszX0NnUHl3NzVscU40SjVSanhhdVN6NDg0Mkg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Tách riêng chỉ số hài lòng và chỉ số hành vi mua lại để tránh ảo tưởng điểm CX cao đồng nghĩa doanh thu tự tăng.",
    "wa": 1
   },
   {
@@ -3698,112 +4326,6 @@
   },
   {
    "d": "2026-09-28",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "The CRM workflow gap holding back customer experience",
-   "s": "",
-   "w": "Bài chỉ ra khoảng trống trong quy trình vận hành CRM khiến dữ liệu khách hàng không chuyển hóa được thành trải nghiệm liền mạch tại các điểm chạm thực tế.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "cx"
-   ],
-   "y": "Trước khi mua thêm phần mềm CRM, hãy rà soát lại quy trình nội bộ xem nhân viên tuyến đầu có thực sự dùng dữ liệu đó để phục vụ khách hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Yesway opening 1st Allsup store in Arizona",
-   "s": "",
-   "w": "Yesway mở cửa hàng tiện lợi Allsup đầu tiên tại Arizona, đánh dấu bước mở rộng thương hiệu sang thị trường mới ngoài khu vực truyền thống.",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWxxcWZHLUJsZlowNW9vdWpuU0hJTEpEaDZYaVpwalVZc1ZvWmVEZkl3NWFTd3lZSE54aTBZeU1LUml5cGxaQnlBYWNya3ZVT2VRaFcyTWtlRC0yYkVHX1E2bmpHV3RUTVhSYlc5REJ1UmRVdGRjZnA3ak5kT2FuMG9tT2ZsemhSM25lTUFYdmdocW8?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ],
-   "y": "Cái khó không nằm ở mở điểm bán mới mà ở giữ đồng nhất trải nghiệm phục vụ khi thương hiệu bước vào thị trường xa lạ với thói quen khách địa phương.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "L.L.Bean teams with Dunkin' on fall merchandise",
-   "s": "",
-   "w": "L.L.Bean hợp tác với Dunkin' ra mắt bộ sưu tập sản phẩm mùa thu, kết hợp thương hiệu lifestyle ngoài trời và thương hiệu đồ uống quen thuộc để tạo trải nghiệm theo mùa cho khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTVKaEZsdHp1U21yN1UwWXpzcG9XMklHelFUWmxPcG9LMlRiZG5lOExJWG1MRTlIWFBFaTdOaXlsSURqRDhROTBtcjl3emN4MGp2OXhDeFJiMWN0YWVOb3gtUjJmVFEtS1VFVURPQWM4SDZBM0FISGU2WDN0VEdKdjlrWllRZUc1UzRPLWVpWU0wS3EtMnc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ],
-   "y": "Trước khi vội vàng bắt tay đối tác khác ngành, cần đảm bảo hai thương hiệu chia sẻ chung tệp khách và cùng cam kết chất lượng điểm chạm để tránh làm loãng hình ảnh dịch vụ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
-   "src": "CMSWire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "How 1 Company Earned an 11-Point NPS Jump by Bringing Frontline Teams Along",
-   "s": "",
-   "w": "Một công ty tăng 11 điểm NPS nhờ đưa đội ngũ tuyến đầu tham gia trực tiếp vào quá trình cải thiện trải nghiệm khách hàng, thay vì chỉ áp đặt thay đổi từ trên xuống.",
-   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDdQbzFyWnVraEJoY1RUT183ejkwRTQ1anFTRHJ0REdGMXJGTHBtRWNKOHMySXB5YUpiTHdhR0pDeUJmNXExRkRfNVdWNm13VU01U29OU1RQZVhNa0NUOFRzclYtc09HQ3RZTkYzTmxMOUdZVzNacTBheGQ5R3dYVHZwLU9iODdWU3Y3bHltMVJpdDQ0RTlCbE9kMEtKY25xRkQyQ1M4bWRWamZJVldSNzZleVh0WmctZm5hcw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "nps",
-    "frontline"
-   ],
-   "y": "Nhân viên tuyến đầu của bạn có đang được hỏi ý kiến trước khi quy trình mới ban hành hay chỉ nhận thông báo và tự xoay xở?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
-   "src": "PR Newswire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Forrester: Aligning Customer, Brand, And Employee Experience Emerges As The Critical Driver Of Growth For Banks In India",
-   "s": "",
-   "w": "Forrester chỉ ra ngân hàng Ấn Độ muốn tăng trưởng cần đồng bộ trải nghiệm khách hàng, thương hiệu và nhân viên thành một thể thống nhất thay vì tách rời từng mảng.",
-   "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWlUtWDJDcHdlRHlsdkx4bm1BbFFacUJjN04wYUhuTWU4S3ZTeGZ0X2hrS2JDam8zblNkYWRmRzRyQTRXTlhadVFDbEpsZ0ZVbDA0Y1duTWdVRHZURTROdFgyd1oxYnNVVHYzOU5sOUpwcEpMUjJyelVWQkVxa2pqTGNqVUQ1ZEF5R0daZmpWeThkMjZocHd5eXZLRkJCbDlPTDJwV3JWNlZBMHJoUzRvaXZqa2NNNFdubnE3LVBaR0gxcExNUlBjVG50eVVQT0tGekRaQjVESFlFY2N0anA3V0FnUzFFTlBPZi1ibzhHaXp0dERXZ3lvRmJLRVNFNFFVcWJWWWxhdVZJdw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "employee experience",
-    "brand",
-    "growth"
-   ],
-   "y": "Trước khi đầu tư thêm ngân sách CX, ngân hàng và công ty dịch vụ Việt nên rà soát xem trải nghiệm nhân viên tuyến đầu có đang mâu thuẫn với lời hứa thương hiệu hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
    "src": "Hospitality Net",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3908,6 +4430,26 @@
   },
   {
    "d": "2026-09-28",
+   "src": "telefonica.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Leadership in critical situations: how service design can help save lives",
+   "s": "",
+   "w": "Bài nghiên cứu bàn vai trò lãnh đạo trong tình huống khẩn cấp, cho rằng service design (thiết kế dịch vụ) có thể giúp cứu mạng người bằng cách tối ưu quy trình và điểm chạm trong khủng hoảng.",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczh1WjdiYkdvY0d5TFJDN2cwN1ZTUUR3ekp5TzRQSnBkUjQwMlR4dzNMSlVJSXRUa05mc0JJSXlnRFNRU21jTGx3a3BhRFExR2prZlh1VFZ6R0ZUdGRUOVRIMUF2XzNmdmZaOHVRNHVPYTk2LWpPME9ZZEh3N19rdG1zOFRxYVlfUVFnSFZ0MmZfeE9WX1RpMlh0UmExcDlKSVE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "service design"
+   ],
+   "y": "Rà lại quy trình xử lý sự cố khẩn cấp của doanh nghiệp, phân vai rõ ràng cho từng nhân viên tuyến đầu để không ai lúng túng khi khách hàng gặp nguy.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
    "src": "Benzinga",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3925,6 +4467,112 @@
     "loyalty"
    ],
    "y": "Cái khó không nằm ở công nghệ AI mà ở chỗ đo được khách hàng có thực sự trung thành khi có lựa chọn thay thế tiện lợi hơn.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "The CRM workflow gap holding back customer experience",
+   "s": "",
+   "w": "Bài chỉ ra khoảng trống trong quy trình vận hành CRM khiến dữ liệu khách hàng không chuyển hóa được thành trải nghiệm liền mạch tại các điểm chạm thực tế.",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "cx"
+   ],
+   "y": "Trước khi mua thêm phần mềm CRM, hãy rà soát lại quy trình nội bộ xem nhân viên tuyến đầu có thực sự dùng dữ liệu đó để phục vụ khách hay không.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Yesway opening 1st Allsup store in Arizona",
+   "s": "",
+   "w": "Yesway mở cửa hàng tiện lợi Allsup đầu tiên tại Arizona, đánh dấu bước mở rộng thương hiệu sang thị trường mới ngoài khu vực truyền thống.",
+   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcWxxcWZHLUJsZlowNW9vdWpuU0hJTEpEaDZYaVpwalVZc1ZvWmVEZkl3NWFTd3lZSE54aTBZeU1LUml5cGxaQnlBYWNya3ZVT2VRaFcyTWtlRC0yYkVHX1E2bmpHV3RUTVhSYlc5REJ1UmRVdGRjZnA3ak5kT2FuMG9tT2ZsemhSM25lTUFYdmdocW8?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Cái khó không nằm ở mở điểm bán mới mà ở giữ đồng nhất trải nghiệm phục vụ khi thương hiệu bước vào thị trường xa lạ với thói quen khách địa phương.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "L.L.Bean teams with Dunkin' on fall merchandise",
+   "s": "",
+   "w": "L.L.Bean hợp tác với Dunkin' ra mắt bộ sưu tập sản phẩm mùa thu, kết hợp thương hiệu lifestyle ngoài trời và thương hiệu đồ uống quen thuộc để tạo trải nghiệm theo mùa cho khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTVKaEZsdHp1U21yN1UwWXpzcG9XMklHelFUWmxPcG9LMlRiZG5lOExJWG1MRTlIWFBFaTdOaXlsSURqRDhROTBtcjl3emN4MGp2OXhDeFJiMWN0YWVOb3gtUjJmVFEtS1VFVURPQWM4SDZBM0FISGU2WDN0VEdKdjlrWllRZUc1UzRPLWVpWU0wS3EtMnc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Trước khi vội vàng bắt tay đối tác khác ngành, cần đảm bảo hai thương hiệu chia sẻ chung tệp khách và cùng cam kết chất lượng điểm chạm để tránh làm loãng hình ảnh dịch vụ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "CMSWire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "How 1 Company Earned an 11-Point NPS Jump by Bringing Frontline Teams Along",
+   "s": "",
+   "w": "Một công ty tăng 11 điểm NPS nhờ đưa đội ngũ tuyến đầu tham gia trực tiếp vào quá trình cải thiện trải nghiệm khách hàng, thay vì chỉ áp đặt thay đổi từ trên xuống.",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDdQbzFyWnVraEJoY1RUT183ejkwRTQ1anFTRHJ0REdGMXJGTHBtRWNKOHMySXB5YUpiTHdhR0pDeUJmNXExRkRfNVdWNm13VU01U29OU1RQZVhNa0NUOFRzclYtc09HQ3RZTkYzTmxMOUdZVzNacTBheGQ5R3dYVHZwLU9iODdWU3Y3bHltMVJpdDQ0RTlCbE9kMEtKY25xRkQyQ1M4bWRWamZJVldSNzZleVh0WmctZm5hcw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "nps",
+    "frontline"
+   ],
+   "y": "Nhân viên tuyến đầu của bạn có đang được hỏi ý kiến trước khi quy trình mới ban hành hay chỉ nhận thông báo và tự xoay xở?",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "PR Newswire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Forrester: Aligning Customer, Brand, And Employee Experience Emerges As The Critical Driver Of Growth For Banks In India",
+   "s": "",
+   "w": "Forrester chỉ ra ngân hàng Ấn Độ muốn tăng trưởng cần đồng bộ trải nghiệm khách hàng, thương hiệu và nhân viên thành một thể thống nhất thay vì tách rời từng mảng.",
+   "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWlUtWDJDcHdlRHlsdkx4bm1BbFFacUJjN04wYUhuTWU4S3ZTeGZ0X2hrS2JDam8zblNkYWRmRzRyQTRXTlhadVFDbEpsZ0ZVbDA0Y1duTWdVRHZURTROdFgyd1oxYnNVVHYzOU5sOUpwcEpMUjJyelVWQkVxa2pqTGNqVUQ1ZEF5R0daZmpWeThkMjZocHd5eXZLRkJCbDlPTDJwV3JWNlZBMHJoUzRvaXZqa2NNNFdubnE3LVBaR0gxcExNUlBjVG50eVVQT0tGekRaQjVESFlFY2N0anA3V0FnUzFFTlBPZi1ibzhHaXp0dERXZ3lvRmJLRVNFNFFVcWJWWWxhdVZJdw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "employee experience",
+    "brand",
+    "growth"
+   ],
+   "y": "Trước khi đầu tư thêm ngân sách CX, ngân hàng và công ty dịch vụ Việt nên rà soát xem trải nghiệm nhân viên tuyến đầu có đang mâu thuẫn với lời hứa thương hiệu hay không.",
    "wa": 1
   },
   {
@@ -4134,27 +4782,6 @@
   },
   {
    "d": "2026-09-27",
-   "src": "nurserymag.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Stat of the Week: Companies with a customer experience mindset drive revenue 4-8% higher than others",
-   "s": "",
-   "w": "Thống kê cho thấy các công ty có tư duy lấy trải nghiệm khách hàng làm trọng tâm đạt doanh thu cao hơn 4-8% so với đối thủ không làm vậy.",
-   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUotVUxqYTFpQ2dxSl9MOXlWN3RXdUhoTXZVcW9uNF9hRkY4ZU9QYnhWSmoxV0NLd0JianR2Nm9JOC0yYTM0alVuNkJlYjl4NjhZTlRZc2t0ZTZUZmxpQTBhUThNRVNsaHR1RThYZG1JZWdzZTIwTFVYUENCaEZueXZhQWloR051RDl2Rm5oOHR6aUpNZ0t4LXBmb0tYazMzdEdsR2FlcktlaUk?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "revenue"
-   ],
-   "y": "Trước khi chạy thêm chiến dịch quảng cáo, hãy rà soát lại toàn bộ hành trình khách hàng để tìm điểm nghẽn gây mất doanh thu âm thầm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-27",
    "src": "CX Today",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -4324,6 +4951,27 @@
   },
   {
    "d": "2026-09-27",
+   "src": "nurserymag.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Stat of the Week: Companies with a customer experience mindset drive revenue 4-8% higher than others",
+   "s": "",
+   "w": "Thống kê cho thấy các công ty có tư duy lấy trải nghiệm khách hàng làm trọng tâm đạt doanh thu cao hơn 4-8% so với đối thủ không làm vậy.",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUotVUxqYTFpQ2dxSl9MOXlWN3RXdUhoTXZVcW9uNF9hRkY4ZU9QYnhWSmoxV0NLd0JianR2Nm9JOC0yYTM0alVuNkJlYjl4NjhZTlRZc2t0ZTZUZmxpQTBhUThNRVNsaHR1RThYZG1JZWdzZTIwTFVYUENCaEZueXZhQWloR051RDl2Rm5oOHR6aUpNZ0t4LXBmb0tYazMzdEdsR2FlcktlaUk?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "revenue"
+   ],
+   "y": "Trước khi chạy thêm chiến dịch quảng cáo, hãy rà soát lại toàn bộ hành trình khách hàng để tìm điểm nghẽn gây mất doanh thu âm thầm.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-27",
    "src": "CX Today",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -4364,663 +5012,47 @@
    "wa": 1
   },
   {
-   "d": "2026-09-27",
-   "src": "dangcongsan.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Chuyển đổi số góp phần nâng cao chất lượng dịch vụ y tế",
-   "s": "",
-   "w": "Bài đề cập chuyển đổi số như hồ sơ điện tử, đặt lịch trực tuyến, telemedicine giúp cải thiện chất lượng và hiệu quả dịch vụ y tế tại các cơ sở khám chữa bệnh.",
-   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWNaV1BpR3dUMllmZng4NTNSSENjQjVpS1ZsSHFTVm1uQlNBMzdvV1hWY1JHY3NFTnJkOFYwREdsSHRhOWFVeFRmUWlXOV9Wb3E4SmtDVEVqVDlvUjJ4SWlmSjFJTXNiRDdaVjBBbnMxVUVXbXg3MVRqNEd6eXdvR1o5TnpwM0pUNXZER1MxejVyRVJON2VleDJyaGd6UkgwV051SE52TQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ",
-    "chuyển đổi số"
-   ],
-   "y": "Trước khi triển khai công nghệ mới, cơ sở y tế cần đào tạo nhân viên tuyến đầu sử dụng thành thạo để không làm gián đoạn trải nghiệm bệnh nhân.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
+   "d": "2026-10-01",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "thap",
-   "t": "Your Customer Journeys Aren’t Broken - They Were Never Real to Begin With",
-   "s": "",
-   "w": "Nhiều bản đồ hành trình khách hàng chỉ là giả định vẽ trên giấy, không dựa trên dữ liệu thật từ khách, nên khi vận hành mới lộ ra bất cập triền miên.",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BMnpacDJvUUJUcldEdWpUNkFoYjJnZ3FsSGRWWFZqTWhFWmpiWERDOU8zbWlyVE5oc3FtXzlxSzRYT3VBdUdqSEl2dU5pdWdjaGdhR2lWNVNfMzJZeC1uUC1ZRHg3RzhUSUJUWnZKN1BtZDV5eWFHTQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Bản đồ hành trình khách hàng của bạn được vẽ từ dữ liệu thật hay từ suy đoán của phòng marketing, hãy kiểm chứng lại bằng phỏng vấn khách thực tế trước khi sửa quy trình.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Customer Journey Mapping Broke in Omnichannel. Here's What Replaces It",
-   "s": "",
-   "w": "Bài lập luận rằng sơ đồ hành trình khách hàng (customer journey mapping) kiểu tuyến tính cũ không còn phù hợp khi khách hàng chuyển đổi qua lại nhiều kênh cùng lúc, cần mô hình thay thế linh hoạt hơn.",
-   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVJwQW1NUkZOdkQzdWVfMmJYd0x3VjZsUEwxa1pTMTRtQzFjZjRWVE1HbWVMREFjUHpYd2NaX1VsVkRWYXdwRlNNUk9nbFNaYmVSSEJFeXQ4Q1VXUkxSU0xmVU5RVHoxMGg0NlJwdzZhOWFZbG5Qakd2MjJ5a092RHpyTTdhbDV6dWxtdjRsZDg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey",
-    "cx",
-    "omnichannel",
-    "journey mapping"
-   ],
-   "y": "Rà lại toàn bộ điểm chạm theo từng kênh thực tế khách dùng thay vì vẽ hành trình một chiều lý tưởng trên giấy.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Are You Buying CX Tools Instead of Fixing Orchestration?",
-   "s": "",
-   "w": "Bài đặt vấn đề nhiều công ty mua thêm công cụ CX mới nhưng vẫn không giải quyết được gốc rễ là khâu điều phối rời rạc giữa các bộ phận và hệ thống.",
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2pQZ2Z6YldQVXVEOF9IZTB1Y1MzeXI1OEhVTHNROHhmZGliVzNENk1IdFFWa2J0aGNscTZNZ1Zwdy1NaEtvejFIWDJ5cnZ2RWRMUWllQUtEYUxMT0dxeDRwMTl2SWxaQmVYcXp0RjY1RWNUeVBVc3VRLXAzS1o2N0dWQ1MyVE5p?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Khách gọi tổng đài hỏi lại thông tin đã nhắn qua Zalo là dấu hiệu hệ thống thiếu kết nối chứ không phải thiếu phần mềm nên ưu tiên nối luồng dữ liệu trước khi mua thêm công cụ mới.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "vua",
-   "t": "How AI Works and How Users Think About It: Study Guide",
-   "s": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
-   "w": "Bài tổng hợp tài liệu và video giúp người làm UX hiểu cách AI vận hành và cách người dùng thực sự suy nghĩ, kỳ vọng khi tương tác với hệ thống AI.",
-   "u": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "study"
-   ],
-   "y": "Trước khi đưa chatbot hay trợ lý AI vào chăm sóc khách hàng, hãy test kỹ cách nhân viên và khách hàng thật sự hiểu giới hạn của công cụ để tránh kỳ vọng sai lệch.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "vua",
-   "t": "When Should You Disclose AI Use? The PACED Framework",
-   "s": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
-   "w": "Bài giới thiệu khung PACED giúp xác định khi nào nên công khai việc dùng AI trong nội dung, vì phản ứng của khách hàng phụ thuộc vào đối tượng, ngữ cảnh và mức độ AI tham gia.",
-   "u": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "framework"
-   ],
-   "y": "Ở tổng đài chăm sóc khách hàng, nếu chatbot AI trả lời thay nhân viên thì nên báo trước rõ ràng để khách không cảm thấy bị lừa khi phát hiện ra.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "Tổng công ty Điện lực miền Bắc",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Công đoàn Trung tâm Chăm sóc khách hàng tổ chức chương trình Vui Tết Trung thu năm 2026 - Ấm áp, gắn kết",
-   "s": "",
-   "w": "Công đoàn Trung tâm Chăm sóc khách hàng tổ chức chương trình Trung thu 2026 nhằm tạo không khí ấm áp, gắn kết nội bộ cho nhân viên tuyến đầu và gia đình họ.",
-   "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWEVzeWdfWTJVeUpJUkhHM2NHN0JzXzJYU2ZEWGtwTi13VXNkREtJWmtCTmVkLUt2ZHJWVnAxLUwyTjVXUW91dmtYWkFZVlR4LXpIX0RzN1ZYTTd5SU9UcS1ySmZvbHdBWWJXckdFS1dKMHJzc2RPVXRubklnVWd0S1MzYTZHSkFKYXpXbDlQYnhORzg3NlYyMmNGT0piSDVNQndwSjFvNk1QdUpFWmU1QlptRERjUVFTVUVidzhDNGNQMGhLMHNTd1I2RlhqdklKYTMtUTlsakkwSHhNN1dKWEdXMGpkdXc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chăm sóc khách hàng"
-   ],
-   "y": "Ghi nhận những dịp gắn kết nội bộ như thế này bằng khảo sát nhanh mức độ hài lòng nhân viên để đo tác động thực lên chất lượng phục vụ khách hàng sau đó.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "How Fragmented Service Delivery Breaks Customer Journeys Even When Every System Works",
-   "s": "",
-   "w": "Hành trình khách hàng vẫn đứt gãy dù từng hệ thống riêng lẻ hoạt động trơn tru, vì thiếu sự liên kết xuyên suốt giữa các bộ phận và điểm chạm.",
-   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmwyQjJaWThzbFA3WjhVZWFKQUZkbHRNNTZ0M2lPODhodjRDNG5peGpUc1lPdlBKeFhRWVVhNFRPNWpmc3pQVTVWQkFId0xOT1h3Z183dFNhS1BObXVxQ0d5MXY2WUE2SWdHazhRLUk4cW9Sc1M1SEVYLWE5c1NxN0lJdlRPT3FvVkpWYzRHdFVJZ2xMRHRad1ItRTM4dm95d2wtT2xwRS1oVnR4RWc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Khách gọi tổng đài đặt lịch xong đến spa lễ tân lại không thấy thông tin, nên phải tích hợp dữ liệu liên phòng ban thay vì chỉ tối ưu từng khâu riêng lẻ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "UA.NEWS",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "From Content to Conversion: How Marketing Today Shapes the Entire Customer Journey",
-   "s": "",
-   "w": "Bài nhấn mạnh marketing hiện đại không dừng ở quảng cáo mà xuyên suốt hành trình khách hàng, từ nội dung tiếp cận đến quyết định mua và giữ chân sau bán.",
-   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDQ3LV9fWXFTQlA5Yk1NM0ZOR3dwYWpCMVI4U1BIUHNVMl9nUXlBdVRRS3FWRHBzNF9JV2ExLXllTDM3YVhrNWZoSjJkSi1JTk00TUc2b1hxUEVVRkpzMTFUajNzd1hqTGpKdHo1bVBSZU53QjB0MGYzRGlvRmVfTXJrd25kbnRJNnVvanI0MW13ak1MUjV3dzN1Wm9jVm50?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey"
-   ],
-   "y": "70% quyết định mua đã hình thành trước khi khách liên hệ tuyến đầu nên đo lường trải nghiệm nội dung sớm ngang với đo tỷ lệ chốt đơn.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "Tập đoàn Điện lực Việt Nam (EVN)",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "EVN tổ chức Hội thảo trao đổi, thống nhất triển khai chương trình Quản trị trải nghiệm khách hàng",
-   "s": "",
-   "w": "EVN tổ chức hội thảo nhằm thống nhất cách triển khai chương trình quản trị trải nghiệm khách hàng trên toàn hệ thống, hướng tới đồng bộ điểm chạm và nâng chất lượng phục vụ.",
-   "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3hCUDdUSm1HbndTSndBV28yUTlEUmIweUY4RXJOZUg2RzRwa041ZWQ4QTdKSTAxaU1zODU5ZDhjOUlrZjRkSXJhbmMtQ0kxLWpZRDVSYmo2RkJ6NmNXa3lmRzcyRUdILUtJb2xkQVZRN2NWZS1RVDVLMmkxZWhBYUxROTdXbXVQODloR1lEZGcwNFF0Vi00T1JtREhVVUMzTFN3WWgxeEVkbEV3b2JkSllkeE4zVDkxWHc3eDk4MV9JQlp3UmR4QXBuUXlpemxWOFNjZlI0cE9NNGM?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ],
-   "y": "Cái khó không nằm ở việc soạn quy trình đẹp mà ở chỗ đo lường và phản hồi thực tế từ khách hàng phải xuyên suốt các đơn vị điện lực địa phương.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Costco aims to build loyalty with younger shoppers",
-   "s": "",
-   "w": "Costco đang tìm cách xây dựng lòng trung thành với nhóm khách hàng trẻ tuổi, thế hệ mua sắm mới đang dần thay thế nhóm khách hàng truyền thống của họ.",
-   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanItakdkdWYyeVpNRjhXbDVLN2FUUF9pY0VBLVdMUTF2MTVuWHI5ZDI2T1NCMXpsR0ZJaUo5cjI5aEFkQV9hWnE0RHdCX0pabkNCSGZuUnZfaVVnemltWUktaExDaldONjlvamEyLUZqOG9VRGxNSldSMnhra3hsZjYzT2RVa1BheEZkMndSbnlqSGhfLWlHSXBR?oc=5",
+   "t": "California AB 1609: what should CX teams measure after a human handoff?",
+   "s": "Imagine you’ve been charged twice for the same purchase. You explain the problem to an AI phone assistant, which connects you to a person. But that person hasn’t received the details you already gave, so you have to explain everything again. Then they transfer you to the team that handles payments. You’re still waiting for someone to fix the extra charge. That’s the part I’m thinking about with California’s AB 160…",
+   "w": "Bài bàn về luật AB 1609 ở California, đặt vấn đề CX nên đo gì khi AI chuyển giao khách hàng cho nhân viên thật nhưng thông tin không được chuyển theo, khiến khách phải lặp lại từ đầu.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1wv12tt/california_ab_1609_what_should_cx_teams_measure/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
     "cx",
-    "loyalty"
+    "chatbot",
+    "process",
+    "revenue"
    ],
-   "y": "Trước khi chạy chương trình ưu đãi cho khách trẻ, hãy khảo sát rõ họ coi trọng trải nghiệm số hay giá trị thành viên hơn để thiết kế điểm chạm phù hợp.",
+   "y": "Khách hàng của bạn có phải kể lại câu chuyện từ đầu mỗi lần chuyển bộ phận không? Hãy đo tỷ lệ chuyển giao mất ngữ cảnh và thời gian xử lý sau handoff như chỉ số CX cốt lõi, không chỉ đo tốc độ phản hồi ban đầu.",
    "wa": 1
   },
   {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
+   "d": "2026-10-01",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "thap",
-   "t": "Your Customer Journeys Aren’t Broken - They Were Never Real to Begin With",
-   "s": "",
-   "w": "Bài viết cho rằng hành trình khách hàng trên sơ đồ chỉ là mô hình lý tưởng hóa, không phản ánh đúng cách khách hàng thực sự trải nghiệm dịch vụ đầy ngẫu nhiên và phi tuyến tính.",
-   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3azJ5NThPQlk1TmZDanN4TW9xZkJRLUhIaUh2MFMxLTQzZ1hyMmV0Vi1jdGdrbmdBZ3hxYVZaMmNhTTBxLVkycjIwOGladGo5ZXFBSkpYRkRZN19KWlVSdm1OaDhNclFLZmwzOWFrQUVBal9xMUVLYzd5Rnd2Zw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Rà lại sơ đồ hành trình khách hàng đang dùng bằng dữ liệu thật từ khiếu nại, cuộc gọi và phản hồi thay vì tưởng tượng một lộ trình gọn gàng không tồn tại.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Are AI Agents Creating Customer Journeys You Can’t Control?",
-   "s": "",
-   "w": "Bài đặt vấn đề rằng AI agent tự động ngày càng thay khách hàng thực hiện tìm kiếm, so sánh, đặt dịch vụ, khiến hành trình khách hàng truyền thống mà doanh nghiệp thiết kế không còn nằm trong tầm kiểm soát.",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kc3B0NFRwQ2dQaklyaUdKdDgtQ0RWcVZoU3pTeHRJclJSYjVQYzFNMURheHo1VExtN19kd1VVeXFhckVNT2lhZHppQUtIb1AxNXduWHNjVHVLUkwxcGszMVpzNGpzNF8x?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Doanh nghiệp đã kiểm tra xem AI agent bên ngoài đang mô tả và chọn dịch vụ của mình dựa trên dữ liệu nào chưa, để tránh bị đại diện sai lệch trước khách hàng thật?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "MarTech Cube",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "CSG/Netcracker Earn Industry Honors for AI and Customer Journey Orchestration",
-   "s": "",
-   "w": "CSG/Netcracker được vinh danh giải thưởng ngành nhờ giải pháp AI và điều phối hành trình khách hàng, cho thấy xu hướng dùng công nghệ tự động hóa để cá nhân hóa trải nghiệm đa điểm chạm.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEZSaW1LcHJiVTE2c25qaXQ0QzN1RFZ0ZFBFNGRYZGxFSXFRVnFoWGJwalRJbVV1T2ZxeXI5VnZ5QUlWRldEZVRsMWVfN09HWkllVENGaUtHN3VUakdGVnVldzlDMVo3aEJIYmg5emszUXEyeTJ4bTZRMDI2WHRzV3Z3eVZ2ci1acm9wTlFEUUNQQ2VqYjJ4OWNkWHRLTjhWdTVXaVRaMktNZw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey"
-   ],
-   "y": "Khách gọi tổng đài hỏi lịch hẹn spa mà nhân viên không biết họ vừa đặt online, đó là lúc cần công cụ điều phối dữ liệu xuyên suốt mọi điểm chạm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "The Manila Times",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "BLS International builds on trust and customer experience with technology-led transformation in the Philippines",
-   "s": "",
-   "w": "BLS International tại Philippines đầu tư công nghệ để cải thiện quy trình xử lý hồ sơ, giảm sai sót và tăng niềm tin khách hàng qua trải nghiệm số hóa xuyên suốt hành trình dịch vụ.",
-   "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTVtb1F3NXEza3gtWnJ1aTJtNW9mZGF4Wnp6VmxRTE5EUW1LZ19pSHFheXF5aGVDV1djNE91V3EyU2MwZmQ3ZnZqM01uVnZhZmpMcGcyMjUzRnR5dUg1eVF1REtDdnEtZHhKM1otX0gwNVZIRUdJV2Rqel9iV0RlVXdhYVZZeVpTYUU3TE10TGV5bUM1eXdGTEQydndwR0FOakhIdHAtdlp3TEhJYWNrMkxQMFhPbW90ejRkbFBVTGpYcGsyLVJuRzBDbFpOVjdreG9fTnFfRWlHNDhob3hxVmlOZWFIbG5rUnVYdEkyMS1McmZuTDBCX09QRWFuNzQ30gGGAkFVX3lxTE4tLVFDR0ljYVJJYjQtLU9WV0J3R2ZGM2Q1dVZFbkI0aUpTMnZlcWY0YTRDT3pJNVltc2U0SG5XX1d0QThiWGZYX3VVZUppRFdCQVBhOEMtOXZSbTlZenRtRHZxWnhmSjlobFB2enVFYnZ0eWpxdnFfbHI1ODZZb19YWDJsN0lXUGxDX2RyVTAzRjFXUVJoMW9veW8wVUNQYVhRY20ySG1nS2twSDNDNGlsbHFIR2dnMFZlVkxZM2wzTTdVQ1F2YlU2UUFRajFkZ3E2Z0NNWGdEVW5uYVAwVWxtcENQSTlTS0dRaGIxUkNQQjNNUDhrQkhPZUdtc1VDam96b3B3S0E?oc=5",
+   "t": "Does adding more support agents actually improve customer experience?",
+   "s": "Genuine question for people working in CX/support. It seems logical that more agents = faster responses. But I've also seen situations where adding people doesn't solve the underlying problem because: knowledge isn't documented escalations aren't clear different agents give different answers complex cases keep reaching senior people QA becomes harder as the team grows So I'm curious: When you've scaled a support t…",
+   "w": "Bài đặt câu hỏi liệu thêm nhân sự support có thực sự cải thiện trải nghiệm khách hàng, khi vấn đề gốc rễ như kiến thức chưa tài liệu hóa, escalation không rõ ràng, QA khó kiểm soát khi đội lớn lên vẫn tồn tại.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1wuurtn/does_adding_more_support_agents_actually_improve/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
     "customer experience",
-    "trust"
-   ],
-   "y": "Tỷ lệ hồ sơ xử lý đúng hạn ngay từ lần đầu là chỉ số sống còn khi số hóa quy trình vì công nghệ chỉ đáng tin khi giảm sai sót thực sự chứ không phải giao diện đẹp.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "meadvilletribune.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "VA Butler Healthcare System wins 2026 VHA Best Patient Experience Overall",
-   "s": "",
-   "w": "Hệ thống y tế VA Butler Healthcare được vinh danh giải thưởng trải nghiệm bệnh nhân tổng thể tốt nhất năm 2026 của VHA, ghi nhận nỗ lực cải thiện chất lượng chăm sóc và dịch vụ cho cựu chiến binh.",
-   "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaFp0a3BkWFNjZTNDSnR5TDBxZlZhNGlpTGVJbkwxenpELUhWWjQ4Q1ItbzZJd3E3QnJRM3Z4bnl5VTA4OGpLRHp2YlQwNjE0T2hsVEFwMmpEMC1MNmJSdVVXWV96OTdocVBvdl83RjhRczNNbkx3TDdUUU10Qms0cGtGU05mSmJzM3djUU9wbFpueFhjMDJfdTFLUFgzb0txTG4xck51b19BT25hUVVmSnhMclpWeWtHVHprclh1dk5kV09BVHYxYjVXOGNkMXNWemluVTZqSTZ0UHp0WS1pNkx1aE1zczhhYm9ibkpucHB6eXc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "patient experience",
-    "healthcare"
-   ],
-   "y": "Cái khó không nằm ở giải thưởng mà ở việc duy trì chuẩn dịch vụ đồng đều mỗi ngày, nên xây quy trình đo lường trải nghiệm thường xuyên thay vì chỉ mừng khi được vinh danh.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Your Omnichannel Strategy Isn’t Seamless – It’s Resetting the Customer Journey Every Time",
-   "s": "",
-   "w": "Nhiều chiến lược omnichannel thực chất khiến khách hàng phải bắt đầu lại hành trình mỗi khi chuyển kênh, thay vì thực sự liền mạch như doanh nghiệp tưởng.",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fQmRHcU1sTHpCeWdCa0JfNV9qRFlNTnRrR0t2RWI1Q2kxTnZkZGFQbU40QW0tSFhlZDNZTFJFRTV2UUQ5eDdqeHVjRUZnLTNoclctdU0zRGFoOGtiZlVOME14LUZCYm90eXdPWFFhdnpvLUhKTi1HQUIyYkNjNEE?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey",
-    "cx",
-    "omnichannel"
-   ],
-   "y": "70% khách bỏ cuộc khi phải lặp lại thông tin qua kênh khác nên đo tỷ lệ này và tích hợp dữ liệu khách hàng xuyên suốt các điểm chạm ngay từ hôm nay.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Why Personalization Is Driving Fatigue Instead of Engagement",
-   "s": "",
-   "w": "Cá nhân hóa quá mức đang khiến khách hàng mệt mỏi thay vì gắn kết hơn, do bị nhắm liên tục bằng nội dung và ưu đãi dựa trên dữ liệu cá nhân.",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QZnZ3ZnFucUs5cTd4NXluSEFYTjE0T3RrT3ZHTGQ0dEZrQXlwSlM3SU15RE03azdWeFI1TlhEVTNWVERZbk5DelJKY1RmajdFNWVBLWRXN2FyZWI3aWpqWUM3eXBURjdXVDJ1YnZRaEJocDBaM2Rmbw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "personalization"
-   ],
-   "y": "Trước khi triển khai cá nhân hóa, hãy hỏi khách hàng có thực sự muốn được nhớ chi tiết đến mức đó hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Customer Journey Orchestration Is Getting Serious. Is NiCE Agentic AI Architecture Already Ahead?",
-   "s": "",
-   "w": "Bài bàn về xu hướng điều phối hành trình khách hàng (customer journey orchestration) bằng AI tác nhân (agentic AI), lấy kiến trúc của NiCE làm ví dụ tiên phong trong việc tự động hóa và cá nhân hóa trải nghiệm đa điểm chạm.",
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTzFsNVA3Z0RCS2JhZlo5LW1CckxIdGplank0bUtFVVVJbHk2c19jOGQyQW5EZ3FyT0tQSGt5QWw0NzRIY19WamRyUjFMSXdtN19aVnlGWHVBRkpiRF94NjBidWFnVjJhbXlB?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey",
     "cx"
    ],
-   "y": "Cái khó không nằm ở chọn công nghệ AI nào mà ở việc dữ liệu khách hàng và quy trình nội bộ có đủ sạch, đủ liền mạch để AI điều phối chính xác hay chưa.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse",
-   "s": "",
-   "w": "Càng nhiều kênh tương tác với khách hàng không đồng nghĩa trải nghiệm tốt hơn, mà thường gây rối rắm, thiếu nhất quán và làm hành trình khách hàng đứt gãy.",
-   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWhuRHpKbnM0blVRRHBQS1RaMGhsdEs0SkR2c3JQdkQtd1M4NUpBcXlReWxwUUo3cFBmOHNqb1l0VkZXZFg2ZkZqdzNrRGVjbHRDdHZteFhHNGdUTnN2UkhkY2lZS2h5S3gtSUh1emw2QmlrU1lWN2h6dFprYXRpYXZScWtwa3NDNWc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "3 đến 4 kênh chính đủ dùng, hãy đo tỷ lệ khách bỏ dở giữa các kênh để cắt bớt kênh thừa gây rối.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Zendesk on the Rise of the Agent System and the New Roles Reshaping Customer Service",
-   "s": "",
-   "w": "Zendesk phân tích xu hướng AI agent system đang định hình lại vai trò nhân sự chăm sóc khách hàng, từ xử lý ticket sang giám sát và huấn luyện AI.",
-   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHgyQ0F6OTJZMWdCVFp0QklWd3dfQlh6SlRyN2xGUFRKbEEtUXBrQjQ5OEQ5RzBwSmR3cEFXX18tQ1MyNlA1VzlPcmxzS0xtR0IwTF80ZFEzNFBKRkcwRFBsd2NWZUIxT193NkVnRVdFZ0Y5eFBDekdDOVlxSmg0R3ZqdXBRTmYyMGlJQWlkXzRna2F5dWN4cnplVFlqSEoxZktqNkhEbzdpNjltOHlOVFlRM3BXZmh5bDBzTQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service",
-    "cx"
-   ],
-   "y": "Rà lại mô tả công việc của nhân viên CS để bổ sung kỹ năng giám sát và huấn luyện AI trước khi triển khai hệ thống tự động hóa quy mô lớn.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "cxtoday.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Your CX Isn’t Failing in One Place. It’s Breaking in Chains You Can’t See",
-   "s": "",
-   "w": "Trải nghiệm khách hàng thường hỏng không phải ở một điểm chạm riêng lẻ mà do chuỗi lỗi liên kết giữa các bộ phận, ẩn khỏi tầm nhìn quản lý.",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMUFTNFh2MEJuV1dfNUNHOWZMWVptSVhqSk9NMXV6SExjazFMaFdYRmVsYThla0ZNWkFjY1hFdzRSSE1Qc0RVWjZ1cDBfN29mNDJGN3AwUGx0c0U?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Đã bao giờ bạn lần theo một khiếu nại từ đầu đến cuối để xem nó đi qua bao nhiêu phòng ban trước khi khách hàng bỏ đi chưa?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
-   "src": "Tập đoàn Điện lực Việt Nam (EVN)",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "EVN tổ chức Hội thảo trao đổi, thống nhất triển khai chương trình Quản trị trải nghiệm khách hàng",
-   "s": "",
-   "w": "EVN tổ chức hội thảo nhằm thống nhất cách triển khai chương trình quản trị trải nghiệm khách hàng trong toàn hệ thống ngành điện.",
-   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcF82SGVab2E5dUJOeVBpbXZPZkUyOHRmMnJCVi1yVlFRaEotSmxFcmU5T182Q0xWeUhjOXNHYzlnem5VaXRZdndlSDl4cDdNaXFhRFQ3R3ZOenlraTh4UGszZTYwSGpfNnkxM3pHVFVBdTZtQWJSaWVfeUxXN3hlWTg0ZEtuLXBFNHlxakYwUDJMM1VFVXZOLVNhaTNocEQ2ZFJBR0xYNl96RmdkWmx2UV9NcjQwdEx6cGxJQnB0QS04cDc3NzBXYkJIcXdaa3dES01XeXRpbU1oLUlZZU41Zg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ],
-   "y": "90 ngày đầu triển khai nên chọn 3 chỉ số cốt lõi như CSAT, thời gian xử lý sự cố và tỷ lệ khiếu nại lặp lại để đo hiệu quả thực sự.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "citybiz",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Remedio Adds Channel and Customer Success Executives as Cybersecurity Platform Scales",
-   "s": "",
-   "w": "Remedio, nền tảng an ninh mạng, bổ sung lãnh đạo phụ trách kênh phân phối và thành công khách hàng khi mở rộng quy mô kinh doanh.",
-   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGppNkZDVm5jSDhiQk1LMTRIUzBFcm90aTZ6bEl6WXllQmFQQ0FXUTR3Wkh3V29KREtzUHRaRE9sUU9JaVhGZHotVXZIVTdxZkpiRGpjUFpEUW1rc3hUZ2tRY2tpSElidlhNa0lhMTFFTVNCVEZBa1dmZVJWUUV4WmNKSGdXaEpvWXZhbVhMbkMxdTNiTjZJQ01nZ20wOTRkUWR4WG5WZndSWnBCR29DN0EyQ1NQbWVvamd1OHVIYVNpUQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer success"
-   ],
-   "y": "Tách riêng vai trò Customer Success khỏi bán hàng ngay từ giai đoạn scale để giữ khách cũ không bị bỏ quên vì mải chạy theo hợp đồng mới.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "USA Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Why Redo Is Focusing on the Complete Customer Journey",
-   "s": "",
-   "w": "Redo tập trung tối ưu toàn bộ hành trình khách hàng thay vì chỉ xử lý từng điểm chạm rời rạc, nhằm tạo trải nghiệm liền mạch và nhất quán từ đầu đến cuối.",
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmFwOVVpLU15SXFDbjl1b3JlemprYVBoMEZzTGl0VXpfbWFiTGRNYjhNbWxkVF9MQ2w3OEg1bUJKTndSZWlIemd3Q2FTeTJ5bVFyQ19uMWNjc0tJRjVWaG43bS0tMFlrY21QeUltSzNxTE1jUXdleHJMeTFEMjhzTlJQejY1bTYtUTlwalZ2aVl4aFZ4aTRTd2ZueWhLYm9RTDBBQzgtY2RJSmJTSmFfdHhDMGFjc2NWZmF2SlluUjRKMm4yb21RRTd3TGhoWUk1eGc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey"
-   ],
-   "y": "Trước khi đầu tư thêm kênh mới, hãy vẽ lại toàn bộ hành trình khách hàng để phát hiện điểm gãy đang âm thầm làm mất khách giữa chừng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "arXiv · customer experience",
-   "hang": "Học thuật",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale",
-   "s": "Customer experience (CX) agents use tools and large language models to address customer requests and guide conversational interactions with an organization's products. Improving these agents, especially in regulated industries, is difficult: they must detect intent, follow complex operational policies and use tools reliably. Manual end-to-end testing offers limited coverage, while live experiments expose customers…",
-   "w": "Nghiên cứu đề xuất mô phỏng quy mô lớn để kiểm thử AI agent chăm sóc khách hàng trước khi triển khai, giúp phát hiện lỗi về intent, chính sách vận hành và sử dụng công cụ trong ngành có quản chặt.",
-   "u": "https://arxiv.org/abs/2609.30137v1",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "cx",
-    "self-service",
-    "trust"
-   ],
-   "y": "Trước khi cho chatbot hay AI trả lời khách hàng thật, hãy mô phỏng hàng loạt tình huống thực tế để dò lỗi chính sách và ngữ cảnh, tránh biến khách hàng thành người thử nghiệm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "Báo Tuyên Quang điện tử",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Đa dạng sản phẩm, nâng chất lượng dịch vụ",
-   "s": "",
-   "w": "Bài đề cập xu hướng doanh nghiệp mở rộng danh mục sản phẩm song song với nâng cao chất lượng dịch vụ để giữ chân khách hàng và tăng sức cạnh tranh.",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3d6aktTQUNxU1BpU1o4RkpmWlRsRXhhZEhQZkQtSjNocWlOWGt4eUNfeV91cjVRS05uc2RjMktEaTZzbmRKV3JoelowRW03M1FWRi1NSEJfdnlBQ3QtOUJhdkpLbVY0M0hsUlE0U0tTQTBmLTBoQjBoNGZDbmp1Y005TkNGWlRPZ3kzYnhSdE5VcVowVEx2bFNHZE8xcHNzOEZJcHNkYUJQSmN1VFllbnJR?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Danh mục dịch vụ rộng có đi kèm quy trình chuẩn và nhân sự tuyến đầu đủ năng lực xử lý từng loại yêu cầu khách hàng không?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "bvhttdl.gov.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Kinh tế du lịch - Nâng cao chất lượng dịch vụ ngành Du lịch Việt Nam",
-   "s": "",
-   "w": "Bài đề cập yêu cầu nâng cao chất lượng dịch vụ ngành du lịch Việt Nam nhằm tăng sức cạnh tranh và giữ chân du khách quốc tế lẫn nội địa.",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEhhaFo5UUxBOVFRYnlZTGhLN1o2Zl81TmhNZE1qVk43ZlhsN1ZRaE5RWUwyX0JfRTJPcmptYmFRSGhoRm90WEtueVMzaFV2U25tWnhWOG5RRFJQbF9QQm05NjRIamlfUUhWQTc4SjFNM2Z6SmpwZGFfc0hjV0xfYnh3YmRueDdiQklDRWt4anJpdm9kcU1rZQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Tỷ lệ khách quay lại dưới 30% là dấu hiệu cần rà soát ngay từng điểm chạm từ đặt tour đến hậu mãi sau chuyến đi.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "nett.com.au",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Customer Loyalty Is Rented, Not Owned",
-   "s": "",
-   "w": "Lòng trung thành của khách hàng chỉ là 'đi thuê' chứ không thuộc sở hữu vĩnh viễn, doanh nghiệp phải liên tục tạo giá trị mới để giữ chân thay vì dựa vào quán tính cũ.",
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3OXNkSG51X2FJTTA3VHc5VnhXWU9lSjJlYmZTeEU4NTNQUGNvX2dMS0J3RHVUeXpMNWRmYjZrQXF3aGlHU2pfNG80dWNRSnlGdF9TLTJxdF9XQWs0RDBVcXpEcXdzdjRtcXc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer loyalty",
-    "loyalty"
-   ],
-   "y": "Khách hàng thân thiết của bạn có đang chờ đối thủ ra ưu đãi tốt hơn để rời đi ngay lập tức không, nếu có thì cần rà lại giá trị thực sự mang lại mỗi lần chạm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "Brands Vietnam",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "vua",
-   "t": "[Workshop][30/09/2026] AI Agent trên Messenger: Xu hướng tự động hóa chăm sóc khách hàng mùa lễ hội",
-   "s": "",
-   "w": "Workshop giới thiệu xu hướng dùng AI Agent trên Messenger để tự động hóa chăm sóc khách hàng trong mùa lễ hội, khi lượng tin nhắn và đơn hàng tăng đột biến.",
-   "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjNUbFpGMHVMR2d3VUF0RG94QmxyYWxWWkFZS1VxbE5VaTY5QUxXMldpdVJZTjVSWWhzQThXTjRQR0pfdGRabGd1RXY1RVR1NVJ4dEsyblhwV2Z5WWNWNkZQU0tydzdrb2MtS1pGT2xFVVEyOGw1Y29ZakpIdjFxWXUwSmJNWHFSUVAwTXp1RHQ0TG4zWTcxSnpyUjE3MFpJYmR0emlXY0RtalVRRVA5Z3ZDNXpHbkNicjFFMi1BRFVjSXJSMEpQeWNCOFphMmpLTmhsdDRibw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chăm sóc khách hàng",
-    "ai agent",
-    "tự động hóa"
-   ],
-   "y": "Trước khi triển khai AI Agent mùa cao điểm, hãy huấn luyện kỹ kịch bản trả lời và luôn có lối chuyển nhanh sang nhân viên thật khi khách hàng bức xúc.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "vietnam.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Đa dạng sản phẩm, nâng chất lượng dịch vụ",
-   "s": "",
-   "w": "Bài đề cập xu hướng doanh nghiệp mở rộng danh mục sản phẩm song song với nâng cao chất lượng dịch vụ nhằm giữ chân khách hàng và tăng sức cạnh tranh.",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RMzhmemY3aGZFZFdWWXdYbGlfWEh5THNaNnh3QWxVOGxhMW9ISHlIc1JSUFQ3bk1yQ19ucTJ3M3RHaTQ0UnNzQWNPcFdxWlpRVnJXalEyTFBhdGtuQ3VocEVFVVN4UVpJOVFEZHY1Mnc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Cái khó không nằm ở việc thêm sản phẩm mới mà ở chỗ tuyến đầu có đủ năng lực tư vấn và xử lý phát sinh cho từng dòng sản phẩm đó hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "McDonald’s has big plans for its loyalty program",
-   "s": "",
-   "w": "McDonald's công bố kế hoạch mở rộng chương trình khách hàng thân thiết nhằm tăng tần suất ghé mua và giữ chân khách qua ứng dụng, tích điểm và ưu đãi cá nhân hóa.",
-   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVV1SmR0S2hvMzNRbkxMcTZCZXc4aUN6dUhjR25XeG5mcDFoRG9nUGxHQlhwT241Yl9uYnNGRXdKZFRZcjV1MUdHdXZzLXlrY1BDb2dKT1JyTzR0blU5ekRKZkRDVXJKQk5qdjVzdlNHWEc1VW5LMjVZci1uVlg3cmpPTi15UmhuY2gyUWRoaTc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "loyalty program",
-    "cx",
-    "loyalty"
-   ],
-   "y": "Chỗ dễ nhầm là cứ tưởng tích điểm nhiều thì khách trung thành, thực ra phải gắn thưởng với đúng thói quen ghé thường xuyên mới giữ chân được lâu dài.",
+   "y": "Trước khi tuyển thêm agent, hãy chuẩn hóa tài liệu kiến thức và quy trình escalation rõ ràng, nếu không đội càng đông sai lệch càng nhiều.",
    "wa": 1
   },
   {
@@ -5028,7 +5060,7 @@
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "thap",
+   "imp": "vua",
    "t": "Are post churn interviews worth the effort for larger B2B accounts?",
    "s": "Our churn reporting has started to look pretty useless. CSMs choose a reason in Salesforce when an account leaves, so every quarter I get a clean chart showing product gap, budget, competitor, implementation etc. But when I dig into individual accounts the dropdown rarely explains what really happened. I've been pushing for actual interviews with churned customers, especially the larger accounts. The problem is ge…",
    "w": "Báo cáo rời bỏ khách hàng B2B dựa trên lý do CSM tự chọn trong Salesforce quá sơ sài, không phản ánh đúng nguyên nhân thật. Tác giả muốn phỏng vấn trực tiếp khách hàng lớn đã rời đi nhưng gặp khó khi triển khai.",
@@ -5065,6 +5097,24 @@
     "operations"
    ],
    "y": "Nếu phát hiện khách rời trang ở bước thanh toán, nên chèn ngay chat hỏi đáp thắc mắc về phí, đổi trả thay vì chờ gửi email nhắc sau vài giờ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-30",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Do your clients actually watch call recordings or just email you the same questions?",
+   "s": "honestly curious how other CS teams handle this. we do 45-60 min calls walking clients through setup or product walkthroughs, record it on zoom, and send the link. then a week later they email asking about something covered halfway through the call because nobody wants to sit and scrub through an hour long video. do you guys bother adding timestamps or clipping them, push everything to written help docs, or just a…",
+   "w": "Thảo luận CS team về việc khách ít xem lại video call setup dài cả tiếng rồi lại hỏi lại câu đã giải thích, gây lặp công việc cho nhân sự tuyến đầu.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wtz3cc/do_your_clients_actually_watch_call_recordings_or/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Giống khách spa được dặn cách chăm da sau gọt mặt rồi quên sạch, salon nên cắt clip ngắn theo từng bước, kèm tài liệu chữ tóm tắt gửi ngay sau buổi tư vấn.",
    "wa": 1
   },
   {
@@ -5155,7 +5205,7 @@
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "thap",
+   "imp": "vua",
    "t": "How do you handle customer questions without drowning in support tickets?",
    "s": "Once orders pick up, the same questions keep coming back. Where's my order, what's the return policy, how long is shipping. Do you use an FAQ page, a chatbot, or just answer everything by hand? submitted by /u/anna_jan_04 [link] [comments]",
    "w": "Chủ shop online than phiền khi đơn hàng tăng, các câu hỏi lặp lại như hỏi đơn hàng, chính sách đổi trả, thời gian giao hàng gây quá tải, băn khoăn nên dùng FAQ, chatbot hay trả lời thủ công.",
@@ -5168,24 +5218,6 @@
     "chatbot"
    ],
    "y": "80% ticket thường lặp lại 3 đến 5 câu hỏi quen thuộc nên dồn nguồn lực làm trang FAQ và kịch bản trả lời tự động trước khi tuyển thêm người.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-28",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How do you deal with customers who want a refund before the order even arrives?",
-   "s": "Had someone ask for a refund 5 days after ordering, even though the page clearly said 7–12 days delivery. I get it, waiting is annoying and people are used to next-day delivery now. But refunding everyone who gets impatient isn't really sustainable either. How do you handle these situations? Do you have a go-to message that calms people down, or do you just refund to avoid bad reviews? submitted by /u/anna_jan_04…",
-   "w": "Chủ shop than phiền khách đòi hoàn tiền khi đơn chưa tới hạn giao, dù trang web ghi rõ 7-12 ngày, và băn khoăn có nên hoàn để tránh review xấu hay không.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wse7l1/how_do_you_deal_with_customers_who_want_a_refund/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Cái khó không nằm ở việc hoàn tiền hay không mà ở chỗ thiếu tin nhắn chủ động báo tiến độ đơn hàng trước khi khách kịp sốt ruột.",
    "wa": 1
   },
   {
@@ -5207,6 +5239,24 @@
     "saas"
    ],
    "y": "Cái khó không nằm ở chọn công cụ AI mà ở việc CSM tuyến đầu có đủ ngữ cảnh khách hàng để phản hồi đúng lúc trước khi tự động hóa mọi cảnh báo.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-28",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "How do you deal with customers who want a refund before the order even arrives?",
+   "s": "Had someone ask for a refund 5 days after ordering, even though the page clearly said 7–12 days delivery. I get it, waiting is annoying and people are used to next-day delivery now. But refunding everyone who gets impatient isn't really sustainable either. How do you handle these situations? Do you have a go-to message that calms people down, or do you just refund to avoid bad reviews? submitted by /u/anna_jan_04…",
+   "w": "Chủ shop than phiền khách đòi hoàn tiền khi đơn chưa tới hạn giao, dù trang web ghi rõ 7-12 ngày, và băn khoăn có nên hoàn để tránh review xấu hay không.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1wse7l1/how_do_you_deal_with_customers_who_want_a_refund/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Cái khó không nằm ở việc hoàn tiền hay không mà ở chỗ thiếu tin nhắn chủ động báo tiến độ đơn hàng trước khi khách kịp sốt ruột.",
    "wa": 1
   },
   {
@@ -5247,6 +5297,27 @@
     "retention"
    ],
    "y": "Chỗ dễ nhầm là tưởng không chạm số renewal thì vô can nên cần chủ động ghi lại bằng chứng khách hàng đạt outcome để làm đòn bẩy đàm phán lương và vai trò sau này.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-27",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Couple of questions for you all",
+   "s": "I recently received feedback on a failed application. I’m trying to avoid AI for insight on these. I appreciate you all helping me with this as I couldn’t find a discord for this sub Here are the questions open for discussion. It’s the How do you get the COO in a room? (The COO was only present for a very brief sit in on a meeting but is now needed for more authority to move other lagging parts of the process) How…",
+   "w": "Một người xin lời khuyên sau khi thất bại trong việc thuyết phục, muốn biết cách mời COO tham gia sâu hơn để tạo thẩm quyền thúc đẩy các khâu đang trì trệ trong quy trình bán hàng hoặc triển khai dịch vụ.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wr97yx/couple_of_questions_for_you_all/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "feedback",
+    "process"
+   ],
+   "y": "1 lần COO xuất hiện ngắn ngủi không đủ, hãy chuẩn bị sẵn dữ liệu tác động tài chính cụ thể để buộc lãnh đạo cấp cao phải dành thời gian và cam kết thực sự.",
    "wa": 1
   },
   {
@@ -5312,27 +5383,6 @@
   },
   {
    "d": "2026-09-26",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How are you tracking customer behavior for AI personalization in e-commerce?",
-   "s": "submitted by /u/kevinGaveshna [link] [comments]",
-   "w": "Thảo luận trên Reddit về cách các shop thương mại điện tử theo dõi hành vi khách hàng để cá nhân hóa bằng AI, nhưng chưa có giải pháp cụ thể nào được nêu rõ.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wqpon0/how_are_you_tracking_customer_behavior_for_ai/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "personalization",
-    "e-commerce"
-   ],
-   "y": "Bạn đã biết khách hàng bỏ giỏ hàng ở bước nào chưa, nếu chưa thì cá nhân hóa bằng AI chỉ là đoán mò tốn tiền.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-26",
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
@@ -5390,6 +5440,48 @@
     "process"
    ],
    "y": "Trước khi quy mô tăng, hãy bắt buộc sales điền form bàn giao chuẩn với cam kết, mối quan tâm và lưu ý đặc biệt của khách trước khi chuyển cho onboarding.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-26",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "How do RevOps teams notice issues before they turn into lost revenue?",
+   "s": "I’m researching a problem RevOps teams face revenue leakage which I’ve talked with other orgs and they report they didn’t even know they had it. Anyway, when Something breaks in the revenue stack, but no one notices right away. Pipeline data may become inaccurate, billing may stop matching the CRM, etc. Dashboards and alerts often show the impact only after the issue has been happening for some time. Then someone…",
+   "w": "Thảo luận về vấn đề rò rỉ doanh thu (revenue leakage) mà các đội RevOps thường không phát hiện kịp: dữ liệu pipeline sai lệch, billing không khớp CRM, dashboard chỉ báo động sau khi thiệt hại đã kéo dài.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wqlrz2/how_do_revops_teams_notice_issues_before_they/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "report",
+    "revenue"
+   ],
+   "y": "Cái khó không nằm ở thiếu công cụ mà ở chỗ không ai chịu trách nhiệm đối chiếu dữ liệu billing và CRM hàng tuần trước khi khách phàn nàn.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-26",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "How are you tracking customer behavior for AI personalization in e-commerce?",
+   "s": "submitted by /u/kevinGaveshna [link] [comments]",
+   "w": "Thảo luận trên Reddit về cách các shop thương mại điện tử theo dõi hành vi khách hàng để cá nhân hóa bằng AI, nhưng chưa có giải pháp cụ thể nào được nêu rõ.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1wqpon0/how_are_you_tracking_customer_behavior_for_ai/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "personalization",
+    "e-commerce"
+   ],
+   "y": "Bạn đã biết khách hàng bỏ giỏ hàng ở bước nào chưa, nếu chưa thì cá nhân hóa bằng AI chỉ là đoán mò tốn tiền.",
    "wa": 1
   },
   {
@@ -5459,24 +5551,6 @@
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "vua",
-   "t": "How good is Cresta for large support teams?",
-   "s": "We’re a pretty large support team with a high volume of calls and chats. We’ve been looking at Cresta for AI agents real time agent assist and QA. Just wanted to hear from people who have used it at scale, how well does it work day to day and how was the rollout for your team? submitted by /u/GreasySenator [link] [comments]",
-   "w": "Một đội hỗ trợ khách hàng quy mô lớn, khối lượng cuộc gọi và chat cao, đang tìm hiểu Cresta cho AI agent assist và QA, muốn nghe kinh nghiệm triển khai thực tế từ người đã dùng.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wpa25d/how_good_is_cresta_for_large_support_teams/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Đã hỏi nhân viên tuyến đầu họ cần trợ lý AI hỗ trợ điều gì trước khi chọn công cụ chưa, vì rollout thành công phụ thuộc vào mức độ công cụ giải quyết đúng điểm nghẽn hàng ngày của họ?",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
    "imp": "thap",
    "t": "Someone asked how much Customer Support* can really be automated, vs. what can't",
    "s": "Short answer: All of it, and none of it. Automation has a lot of strengths - it's VERY fast, it can answer basic questions, and it can even do some fairly advanced solution work when it's fine-tuned. But. - You have to have a line to a human, somewhere, when the automation fails - You have to review the conversations, train the heck out of AI variants, and refine and improve the tool - You can't *just* see how it'…",
@@ -5492,6 +5566,42 @@
     "feedback"
    ],
    "y": "Rà lại kịch bản chatbot mỗi tháng, cắt ngay điểm nghẽn hay khiến khách bực rồi chuyển sớm sang nhân viên thật thay vì để họ lặp lại câu hỏi ba lần.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-25",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "What actually makes a CSM hard to cut, if hitting your numbers doesn't?",
+   "s": "Half the layoff threads here are people who hit quota every year, had genuinely strong relationships, and got cut anyway. So the standard advice, hit your targets and build relationships, clearly isn't the whole thing. Both can be true and you're still on the list. So what actually makes someone the last one standing? From what I've seen it's rarely the numbers. It's whether leadership believes the accounts get ri…",
+   "w": "Bài thảo luận chỉ ra việc CSM đạt chỉ tiêu và có quan hệ tốt với khách hàng vẫn bị cắt giảm, vì yếu tố quyết định thực sự là liệu ban lãnh đạo có tin tài khoản đó sẽ gặp rủi ro nếu thiếu người đó hay không.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wpp454/what_actually_makes_a_csm_hard_to_cut_if_hitting/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Ở một phòng khám, nếu chỉ lễ tân nhớ hết bệnh sử và thói quen khách quen, phòng khám đang phụ thuộc vào một người chứ không phải một quy trình, hãy chuẩn hóa dữ liệu khách hàng vào hệ thống chung để ai nghỉ cũng không gây đứt gãy trải nghiệm.",
+   "wa": 1
+  },
+  {
+   "d": "2026-09-25",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "vua",
+   "t": "How good is Cresta for large support teams?",
+   "s": "We’re a pretty large support team with a high volume of calls and chats. We’ve been looking at Cresta for AI agents real time agent assist and QA. Just wanted to hear from people who have used it at scale, how well does it work day to day and how was the rollout for your team? submitted by /u/GreasySenator [link] [comments]",
+   "w": "Một đội hỗ trợ khách hàng quy mô lớn, khối lượng cuộc gọi và chat cao, đang tìm hiểu Cresta cho AI agent assist và QA, muốn nghe kinh nghiệm triển khai thực tế từ người đã dùng.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1wpa25d/how_good_is_cresta_for_large_support_teams/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Đã hỏi nhân viên tuyến đầu họ cần trợ lý AI hỗ trợ điều gì trước khi chọn công cụ chưa, vì rollout thành công phụ thuộc vào mức độ công cụ giải quyết đúng điểm nghẽn hàng ngày của họ?",
    "wa": 1
   },
   {
@@ -5533,24 +5643,6 @@
     "onboarding"
    ],
    "y": "Đã bao giờ bạn tin số liệu nội bộ hơn lời khách hàng thật chưa, hãy ưu tiên phỏng vấn cả deal thắng lẫn thua để lộ đúng điểm nghẽn trải nghiệm, đặc biệt khâu onboarding.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-25",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "What actually makes a CSM hard to cut, if hitting your numbers doesn't?",
-   "s": "Half the layoff threads here are people who hit quota every year, had genuinely strong relationships, and got cut anyway. So the standard advice, hit your targets and build relationships, clearly isn't the whole thing. Both can be true and you're still on the list. So what actually makes someone the last one standing? From what I've seen it's rarely the numbers. It's whether leadership believes the accounts get ri…",
-   "w": "Bài thảo luận chỉ ra việc CSM đạt chỉ tiêu và có quan hệ tốt với khách hàng vẫn bị cắt giảm, vì yếu tố quyết định thực sự là liệu ban lãnh đạo có tin tài khoản đó sẽ gặp rủi ro nếu thiếu người đó hay không.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wpp454/what_actually_makes_a_csm_hard_to_cut_if_hitting/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Ở một phòng khám, nếu chỉ lễ tân nhớ hết bệnh sử và thói quen khách quen, phòng khám đang phụ thuộc vào một người chứ không phải một quy trình, hãy chuẩn hóa dữ liệu khách hàng vào hệ thống chung để ai nghỉ cũng không gây đứt gãy trải nghiệm.",
    "wa": 1
   },
   {
@@ -6765,108 +6857,6 @@
     "pricing"
    ],
    "y": "Trước khi gửi bất kỳ tin nhắn nào có cam kết hoàn tiền, chính sách hay thông tin nhạy cảm, nên có lớp kiểm duyệt tự động chặn lại để con người duyệt lần cuối.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-11",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "AI-first support has failed as a product. Change my mind.",
-   "s": "Poking the bear here, because I would really like some more positive stories. In my experience - as a user and consumer - AI first support is bad. REALLY bad. I've been tracking it, and I haven't had a single issue resolved by an AI chat bot without human intervention in the past two months. The biggest challenge has been the chat even understanding my question. Sometimes it's \"AI,\" but with such a limited suite o…",
-   "w": "Người dùng chia sẻ trải nghiệm tiêu cực với chatbot AI hỗ trợ khách hàng, hai tháng liền không có vấn đề nào được giải quyết trọn vẹn nếu thiếu con người can thiệp. Chatbot thường không hiểu đúng câu hỏi, gây bực bội thay vì tiết kiệm thời gian.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wddc5i/aifirst_support_has_failed_as_a_product_change_my/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Trước khi triển khai chatbot AI, hãy giới hạn phạm vi xử lý rõ ràng và luôn có lối thoát nhanh sang nhân viên thật khi bot bí.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-11",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "had a really bad day at work and bad feedback after getting positive feedback, should I be worried ?",
-   "s": "I’ve been working as a CSM at a B2B tech company for almost 4 months. At the beginning, I struggled with understanding the product and explaining its value, but I worked a lot on it and feel like I’ve improved significantly. In fact, my manager told me a week ago that I was doing really well . Yesterday, during a client meeting, the client asked about a recent technical incident. I had to check my notes because I…",
-   "w": "Một CSM mới 4 tháng được sếp khen tiến bộ, nhưng vừa bị phản hồi xấu vì lúng túng khi khách hỏi về sự cố kỹ thuật, phải xem lại ghi chú giữa cuộc họp. Người viết lo lắng không biết có nên hoang mang không.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wd8591/had_a_really_bad_day_at_work_and_bad_feedback/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "onboarding",
-    "feedback",
-    "b2b"
-   ],
-   "y": "Ở quầy lễ tân phòng khám, khi khách hỏi về sự cố từng xảy ra mà nhân viên phải lục sổ tay, doanh nghiệp nên có hệ thống lưu sự cố chung để ai trực cũng trả lời được ngay.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-11",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Does the small social stuff, as reactions, make AI feel more like it gets you?",
-   "s": "Context: I was aware about I was talking to an AI Assistant. Mid conversation, asking for some features and then suddenly AI reacted to my message, and honestly, I felt understood by “someone”, it was kind of a sense about “someone” “caring” about the conversation. From my POV this is something will improve CX through conversational AI but not sure if everyone is gonna see it as something valuable. Apart from watc…",
-   "w": "Người dùng chia sẻ trải nghiệm bất ngờ khi AI phản ứng nhỏ kiểu cảm xúc giữa cuộc chat, khiến họ cảm thấy được lắng nghe, dù biết đang nói chuyện với máy.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wd3thy/does_the_small_social_stuff_as_reactions_make_ai/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "chatbot"
-   ],
-   "y": "Ở quầy lễ tân phòng khám, một câu hỏi thăm đúng lúc từ nhân viên hay chatbot cũng tạo cảm giác được quan tâm, nên thiết kế kịch bản phản hồi có cảm xúc thay vì chỉ trả lời đúng thông tin.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-10",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "The thing I underestimated about outsourcing support was tone, not competence",
-   "s": "Our external team is technically fine. Resolution times are good and the answers are correct, but replies started reading like they came from a different company and it took me a while to work out why. We're a fairly informal brand and our own team writes like people, short replies, the odd joke, no stock phrases. What came back was accurate and completely flat, lots of \"we apologise for the inconvenience\" and not…",
-   "w": "Chủ thớt nhận ra đội support thuê ngoài trả lời đúng và nhanh nhưng giọng văn quá công thức, khác hẳn phong cách thân thiện, hài hước của thương hiệu, khiến trải nghiệm khách hàng bị lệch tông.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wcizd7/the_thing_i_underestimated_about_outsourcing/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "brand"
-   ],
-   "y": "Một chỉ số nên theo dõi song song CSAT là tỷ lệ câu trả lời dùng mẫu có sẵn, vượt ngưỡng thì chắc chắn giọng thương hiệu đang bị pha loãng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-09-10",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "vua",
-   "t": "What's the earliest signal you've found that a customer is going to churn?",
-   "s": "I've heard a lot of different answers from CS teams: Product usage drops Champion leaves Support tickets increase NPS drops Fewer users log in Renewal conversations become difficult Customer stops attending meetings But I've started wondering whether there's actually a single \"churn signal.\" Maybe it's the combination of several small changes. For example: A customer using the product less + opening more support t…",
-   "w": "Cộng đồng CS tranh luận về dấu hiệu sớm nhất báo churn: giảm sử dụng, champion rời đi, tăng ticket hỗ trợ, NPS tụt, ít đăng nhập, khó đàm phán gia hạn. Tác giả nghi ngờ không có một tín hiệu đơn lẻ mà là tổ hợp nhiều thay đổi nhỏ.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wclok3/whats_the_earliest_signal_youve_found_that_a/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "churn",
-    "nps"
-   ],
-   "y": "Cái khó không nằm ở tìm một chỉ số duy nhất mà ở việc ghép nhiều tín hiệu nhỏ thành một cảnh báo sớm đáng tin, nên xây hệ thống chấm điểm kết hợp usage, ticket và tương tác thay vì chờ một dấu hiệu rõ ràng.",
    "wa": 1
   }
  ]
