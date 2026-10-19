@@ -1,7 +1,7 @@
 {
- "capNhatLuc": "2026-10-18T03:59:40.671Z",
+ "capNhatLuc": "2026-10-19T04:25:41.404Z",
  "soTin": 330,
- "tinMoiLanNay": 21,
+ "tinMoiLanNay": 5,
  "theoNhom": {
   "case": 90,
   "tin": 150,
@@ -47,6 +47,24 @@
   "Hacker News · churn · retention · refund"
  ],
  "tin": [
+  {
+   "d": "2026-10-18",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "EchoFile Introduces Pilot Program for Seamless Cloud-to-Cloud File Sharing",
+   "s": "Pilot program will test EchoFile’s ability to simplify cross-platform file sharing between Google Drive, Dropbox and Microsoft SharePoint",
+   "w": "EchoFile ra mắt chương trình thử nghiệm giúp chia sẻ file liền mạch giữa Google Drive, Dropbox và SharePoint, kiểm chứng khả năng kết nối đa nền tảng lưu trữ đám mây.",
+   "u": "https://customerthink.com/echofile-introduces-pilot-program-for-seamless-cloud-to-cloud-file-sharing/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Rà lại quy trình chia sẻ tài liệu nội bộ và với khách hàng để phát hiện điểm nghẽn khi dùng nhiều nền tảng lưu trữ khác nhau.",
+   "wa": 1
+  },
   {
    "d": "2026-10-18",
    "src": "CustomerThink",
@@ -441,27 +459,6 @@
   },
   {
    "d": "2026-10-16",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "60% of Searches Now End Without a Click. Incubeta’s 2027 Outlook Says Marketers Need to Start Marketing to AI Agents",
-   "s": "Report describes that 60% of informational queries are now resolved within the search interface itself and without the user ever going to the brand’s domain",
-   "w": "Báo cáo của Incubeta dự báo đến 2027, 60% tìm kiếm thông tin được AI trả lời ngay trên giao diện tìm kiếm, khách không click vào website thương hiệu nữa.",
-   "u": "https://customerthink.com/60-of-searches-now-end-without-a-click-incubetas-2027-outlook-says-marketers-need-to-start-marketing-to-ai-agents/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "report",
-    "brand"
-   ],
-   "y": "Trước khi đầu tư thêm vào SEO website, hãy kiểm tra xem thương hiệu dịch vụ của mình đã được các AI agent như ChatGPT, Gemini trích dẫn đúng và đủ thông tin chưa.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-16",
    "src": "CMSWire",
    "hang": "Chuyên trang",
    "g": "case",
@@ -504,6 +501,27 @@
     "quality"
    ],
    "y": "Một con số đáng theo dõi là tỷ lệ câu trả lời AI mâu thuẫn với dữ liệu nguồn, vì khách hàng không phân biệt phòng ban nào gây lỗi mà chỉ thấy dịch vụ thiếu nhất quán.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-16",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "60% of Searches Now End Without a Click. Incubeta’s 2027 Outlook Says Marketers Need to Start Marketing to AI Agents",
+   "s": "Report describes that 60% of informational queries are now resolved within the search interface itself and without the user ever going to the brand’s domain",
+   "w": "Báo cáo của Incubeta dự báo đến 2027, 60% tìm kiếm thông tin được AI trả lời ngay trên giao diện tìm kiếm, khách không click vào website thương hiệu nữa.",
+   "u": "https://customerthink.com/60-of-searches-now-end-without-a-click-incubetas-2027-outlook-says-marketers-need-to-start-marketing-to-ai-agents/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "report",
+    "brand"
+   ],
+   "y": "Trước khi đầu tư thêm vào SEO website, hãy kiểm tra xem thương hiệu dịch vụ của mình đã được các AI agent như ChatGPT, Gemini trích dẫn đúng và đủ thông tin chưa.",
    "wa": 1
   },
   {
@@ -1919,28 +1937,6 @@
    "wa": 1
   },
   {
-   "d": "2026-10-06",
-   "src": "CMSWire",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "Why Complex CX Is the Real Proving Ground for Agentic AI",
-   "s": "A landmark consumer study uncovers what actually happens when automation meets real-world complexity — and why the window of consumer grace is closing fast. Continue reading...",
-   "w": "Một khảo sát người tiêu dùng cho thấy AI tự động (agentic AI) thường thất bại khi gặp tình huống dịch vụ phức tạp, trong khi sự kiên nhẫn của khách hàng với lỗi công nghệ đang cạn dần.",
-   "u": "https://www.cmswire.com/customer-experience/why-complex-cx-is-the-real-proving-ground-for-agentic-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "study",
-    "cx",
-    "automation"
-   ],
-   "y": "Quy trình tự động của bạn đã được thử với tình huống rắc rối thật hay mới chỉ chạy tốt trên kịch bản mẫu, hãy để nhân viên tuyến đầu kiểm tra điểm gãy trước khi khách hàng phát hiện ra.",
-   "wa": 1
-  },
-  {
    "d": "2026-10-18",
    "src": "CustomerThink",
    "hang": "Tổng hợp",
@@ -1958,6 +1954,44 @@
     "customer experience"
    ],
    "y": "Cái khó không nằm ở chọn công cụ AI nào mà ở dữ liệu khách hàng rời rạc, quy trình tuyến đầu chưa chuẩn hóa trước khi đưa AI vào.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-17",
+   "src": "Nielsen Norman Group",
+   "hang": "Nghiên cứu",
+   "g": "tin",
+   "imp": "thap",
+   "t": "UX Maps: Glossary",
+   "s": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+   "w": "Bài này là bảng thuật ngữ giải thích nhanh các khái niệm liên quan đến UX map như customer journey map, service blueprint, empathy map giúp người đọc phân biệt rõ ràng.",
+   "u": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Chỗ dễ nhầm là lẫn lộn customer journey map (bản đồ hành trình khách hàng) với service blueprint (bản thiết kế dịch vụ) khi hai công cụ phục vụ mục đích khác nhau hoàn toàn.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-17",
+   "src": "Nielsen Norman Group",
+   "hang": "Nghiên cứu",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
+   "s": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+   "w": "Nghiên cứu so sánh khảo sát 604 người thật với dữ liệu từ người dùng AI mô phỏng, kết quả kết luận giống nhau nhưng câu trả lời AI ít đa dạng hơn nhiều.",
+   "u": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "survey"
+   ],
+   "y": "Tách riêng khảo sát thăm dò nhanh bằng AI và nghiên cứu insight sâu bằng người thật để tránh bỏ sót những phản hồi lệch chuẩn quý giá.",
    "wa": 1
   },
   {
@@ -1998,44 +2032,6 @@
     "cx"
    ],
    "y": "Doanh nghiệp bạn đã đo lường trải nghiệm khách hàng ở từng điểm chạm hay chỉ nhìn vào doanh số cuối kỳ để đánh giá sức khỏe thương hiệu?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-17",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "thap",
-   "t": "UX Maps: Glossary",
-   "s": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
-   "w": "Bài này là bảng thuật ngữ giải thích nhanh các khái niệm liên quan đến UX map như customer journey map, service blueprint, empathy map giúp người đọc phân biệt rõ ràng.",
-   "u": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Chỗ dễ nhầm là lẫn lộn customer journey map (bản đồ hành trình khách hàng) với service blueprint (bản thiết kế dịch vụ) khi hai công cụ phục vụ mục đích khác nhau hoàn toàn.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-17",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
-   "s": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
-   "w": "Nghiên cứu so sánh khảo sát 604 người thật với dữ liệu từ người dùng AI mô phỏng, kết quả kết luận giống nhau nhưng câu trả lời AI ít đa dạng hơn nhiều.",
-   "u": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "survey"
-   ],
-   "y": "Tách riêng khảo sát thăm dò nhanh bằng AI và nghiên cứu insight sâu bằng người thật để tránh bỏ sót những phản hồi lệch chuẩn quý giá.",
    "wa": 1
   },
   {
@@ -3899,6 +3895,29 @@
   },
   {
    "d": "2026-10-13",
+   "src": "arXiv · service design · customer service",
+   "hang": "Học thuật",
+   "g": "tin",
+   "imp": "cao",
+   "t": "DuplexAct: How Interactive Are Frontier Full-Duplex Spoken Language Models?",
+   "s": "End-to-end (E2E) full-duplex spoken language models (FD-SLMs) enable simutanous listening and speaking continously, requiring models to take appropriate interaction actions as conversations unfold. However, existing benchmarks lack a structured action-level formulation, often evaluate action occurrence rather than success, and provide limited coverage of diverse real-world conversations. We introduce DuplexAct, a…",
+   "w": "Bài giới thiệu DuplexAct, bộ benchmark đánh giá khả năng tương tác hai chiều liên tục của mô hình ngôn ngữ nói full-duplex, tập trung vào thành công hành động thay vì chỉ xuất hiện hành động.",
+   "u": "https://arxiv.org/abs/2610.17738v1",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "benchmark",
+    "framework",
+    "customer service",
+    "metrics"
+   ],
+   "y": "Rà lại kịch bản tổng đài AI thoại xem máy có biết ngắt lời đúng lúc hay chỉ nói chồng lên khách như robot vô cảm.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-13",
    "src": "McKinsey & Company",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -4079,29 +4098,6 @@
     "retail"
    ],
    "y": "Rà lại ngân sách CX xem có đang đổ vào app, AI hào nhoáng trong khi nhân viên tuyến đầu thiếu đào tạo và thiếu quyền xử lý sự cố.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-13",
-   "src": "arXiv · service design · customer service",
-   "hang": "Học thuật",
-   "g": "tin",
-   "imp": "cao",
-   "t": "DuplexAct: How Interactive Are Frontier Full-Duplex Spoken Language Models?",
-   "s": "End-to-end (E2E) full-duplex spoken language models (FD-SLMs) enable simutanous listening and speaking continously, requiring models to take appropriate interaction actions as conversations unfold. However, existing benchmarks lack a structured action-level formulation, often evaluate action occurrence rather than success, and provide limited coverage of diverse real-world conversations. We introduce DuplexAct, a…",
-   "w": "Bài giới thiệu DuplexAct, bộ benchmark đánh giá khả năng tương tác hai chiều liên tục của mô hình ngôn ngữ nói full-duplex, tập trung vào thành công hành động thay vì chỉ xuất hiện hành động.",
-   "u": "https://arxiv.org/abs/2610.17738v1",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "benchmark",
-    "framework",
-    "customer service",
-    "metrics"
-   ],
-   "y": "Rà lại kịch bản tổng đài AI thoại xem máy có biết ngắt lời đúng lúc hay chỉ nói chồng lên khách như robot vô cảm.",
    "wa": 1
   },
   {
@@ -5009,6 +5005,69 @@
    "wa": 1
   },
   {
+   "d": "2026-10-19",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "After almost 10 years of CS, I have nothing to show for it",
+   "s": "Hi guys, shooting for the moon here for any semblance of life direction. First time poster so pls be easy on me. I’m 32 in the UK, and I’ve been in the tech/SaaS industry since like 2017. It’s 2026 - I was just part of a company layoff (30% of the wider team), and I had a realisation this week that I genuinely have nothing to show for my entire professional career. I’ve done like 4 years of CSM work, and the rest…",
+   "w": "Một CSM 32 tuổi tại Anh vừa bị sa thải sau gần 10 năm làm Customer Success, nhận ra mình chưa tích lũy được thành tựu hay kỹ năng rõ ràng nào để chứng minh giá trị sự nghiệp.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x9imdz/after_almost_10_years_of_cs_i_have_nothing_to/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "saas"
+   ],
+   "y": "Bạn có đang ghi lại kết quả định lượng được từ công việc CS mỗi quý, hay chỉ lo xử lý ticket và họp hành qua ngày?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-18",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "About to be put on a PIP",
+   "s": "In my last 121, my manager hinted that senior leadership is considering placing me on a PIP, though a final decision hasn’t been made yet. I’m a Sr CSM at a SaaS company that is struggling to hyper-growth. It seems the new sales team has been blaming various roles—not just CSMs, but also SCs, SDRs, Marketing, Partners, etc.—for their poor sales results. They’ve been pushing this narrative to our leadership and the…",
+   "w": "Một Senior CSM tại công ty SaaS đang tăng trưởng nóng sắp bị đưa vào PIP vì đội sales đổ lỗi doanh số kém cho nhiều bộ phận khác nhau, không riêng CSM.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x8ys5f/about_to_be_put_on_a_pip/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "results",
+    "saas",
+    "process",
+    "growth"
+   ],
+   "y": "Trước khi quy trách nhiệm cho CSM, lãnh đạo dịch vụ Việt Nam nên kiểm tra lại dữ liệu bàn giao giữa sales và CS để tránh đổ lỗi sai chỗ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-18",
+   "src": "Reddit · r/smallbusiness",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Square",
+   "s": "$10,000 just showed up in my square account. No idea how it got there. It wasn’t received as a payment. Customer support told me to refund it. I told the person that they should be fired immediately since they don’t recognize a common scam and gave me horrible advice. I was transferred to someone with a brain who understood the problem and said a ticket was created and it would be looked into on Monday. Can anyone…",
+   "w": "Chủ tài khoản Square phát hiện 10.000 đô la lạ xuất hiện, nghi ngờ scam hoàn tiền nhưng nhân viên tuyến đầu lại khuyên hoàn trả ngay. Chỉ người thứ hai hiểu vấn đề mới tạo ticket xử lý đúng cách.",
+   "u": "https://www.reddit.com/r/smallbusiness/comments/1x8mkex/square/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer support"
+   ],
+   "y": "Ở quầy thu ngân spa hay phòng khám, nếu khách báo tiền thừa lạ vào tài khoản thì nhân viên tuyến đầu phải được huấn luyện nhận diện scam hoàn tiền trước khi xử lý theo quy trình chuẩn, tránh gây thiệt hại ngược cho khách.",
+   "wa": 1
+  },
+  {
    "d": "2026-10-17",
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
@@ -5134,26 +5193,6 @@
   },
   {
    "d": "2026-10-16",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "What's your real survey response rate, and what do you do about everyone who never answers?",
-   "s": "submitted by /u/Last-Matter-3617 [link] [comments]",
-   "w": "Thảo luận trên diễn đàn về tỷ lệ phản hồi khảo sát thực tế thấp ra sao và cách xử lý nhóm khách hàng im lặng không bao giờ trả lời survey.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1x74t7x/whats_your_real_survey_response_rate_and_what_do/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "survey"
-   ],
-   "y": "Cái khó không nằm ở việc tăng tỷ lệ phản hồi mà ở chỗ nhóm im lặng thường chính là khách sắp rời bỏ nên cần chủ động gọi hỏi thay vì chỉ gửi thêm email.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-16",
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
@@ -5213,27 +5252,6 @@
   },
   {
    "d": "2026-10-16",
-   "src": "Reddit · r/marketing",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How are we switching sectors these days?",
-   "s": "I’m a marketing generalist who has spent the past few years in music/live entertainment and I’m looking to leave that specific industry (7+ years of working 12+ hour days and weekends is enough for me). I have experience working in (briefly) higher ed, a bit in F&B/hospitality, and then a decent amount in non profits (worked at one that had a music/arts component). My resume is kept pretty general, showcasing achi…",
-   "w": "Một marketer tổng quát muốn rời ngành giải trí sau 7 năm làm việc quá tải, có kinh nghiệm rải rác ở giáo dục, F&B và phi lợi nhuận, đang tìm cách chuyển ngành thành công.",
-   "u": "https://www.reddit.com/r/marketing/comments/1x6tc9x/how_are_we_switching_sectors_these_days/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "hospitality",
-    "revenue"
-   ],
-   "y": "Doanh nghiệp dịch vụ đã bao giờ hỏi nhân sự tuyến đầu lý do họ muốn rời đi chưa, hay chỉ lo tuyển người thay thế khi họ đã nộp đơn nghỉ?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-16",
    "src": "Reddit · r/ProductManagement",
    "hang": "Reddit",
    "g": "thaoluan",
@@ -5275,11 +5293,92 @@
    "wa": 1
   },
   {
+   "d": "2026-10-16",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "What's your real survey response rate, and what do you do about everyone who never answers?",
+   "s": "submitted by /u/Last-Matter-3617 [link] [comments]",
+   "w": "Thảo luận trên diễn đàn về tỷ lệ phản hồi khảo sát thực tế thấp ra sao và cách xử lý nhóm khách hàng im lặng không bao giờ trả lời survey.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1x74t7x/whats_your_real_survey_response_rate_and_what_do/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "survey"
+   ],
+   "y": "Cái khó không nằm ở việc tăng tỷ lệ phản hồi mà ở chỗ nhóm im lặng thường chính là khách sắp rời bỏ nên cần chủ động gọi hỏi thay vì chỉ gửi thêm email.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-16",
+   "src": "Reddit · r/marketing",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "How are we switching sectors these days?",
+   "s": "I’m a marketing generalist who has spent the past few years in music/live entertainment and I’m looking to leave that specific industry (7+ years of working 12+ hour days and weekends is enough for me). I have experience working in (briefly) higher ed, a bit in F&B/hospitality, and then a decent amount in non profits (worked at one that had a music/arts component). My resume is kept pretty general, showcasing achi…",
+   "w": "Một marketer tổng quát muốn rời ngành giải trí sau 7 năm làm việc quá tải, có kinh nghiệm rải rác ở giáo dục, F&B và phi lợi nhuận, đang tìm cách chuyển ngành thành công.",
+   "u": "https://www.reddit.com/r/marketing/comments/1x6tc9x/how_are_we_switching_sectors_these_days/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "hospitality",
+    "revenue"
+   ],
+   "y": "Doanh nghiệp dịch vụ đã bao giờ hỏi nhân sự tuyến đầu lý do họ muốn rời đi chưa, hay chỉ lo tuyển người thay thế khi họ đã nộp đơn nghỉ?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-15",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "How do you manage your customer feedback and analyze it?",
+   "s": "I am curious about how do you actually do it. Businesses often have customer feedback and signals coming from multiple channels - chat, emails, tickets, etc. Keeping track of what actually is relevant is not as easy as it seems. One issue may be mentioned across two separate channels, and it is very easy to miss it. So, I wanna know how are you doint it? How do you de-duplicate incoming feedback? How do you differ…",
+   "w": "Thảo luận trên diễn đàn về cách doanh nghiệp quản lý và phân tích phản hồi khách hàng đến từ nhiều kênh như chat, email, ticket, đặc biệt là vấn đề trùng lặp thông tin giữa các kênh khó phát hiện.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1x6mkkc/how_do_you_manage_your_customer_feedback_and/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "analysis",
+    "customer feedback",
+    "feedback"
+   ],
+   "y": "Trước khi đầu tư công cụ tổng hợp phản hồi đa kênh, hãy thống nhất một hệ thống gắn thẻ và mã vấn đề chung để tuyến đầu không báo cáo trùng lặp hay bỏ sót tín hiệu quan trọng.",
+   "wa": 1
+  },
+  {
    "d": "2026-10-15",
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
    "imp": "vua",
+   "t": "Sick of Tech? Or Domain?",
+   "s": "Any CSMs or AMs just ever feeling totally burned out from tech in general, or constant conversations about tech? How fast tech is changing and how customers don’t know what they’re doing? Or maybe sick of talking about the domain you’re in after talking about it day in day out for 7 or more years? Sometimes I think tech innovation had just really enabled all of us to actually over complicate the work we do in orde…",
+   "w": "Nhiều CSM/AM chia sẻ cảm giác kiệt sức vì công nghệ thay đổi liên tục và phải lặp lại cùng câu chuyện domain suốt nhiều năm, nghi ngờ công nghệ đang làm phức tạp hóa công việc vốn đơn giản.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x6kmdw/sick_of_tech_or_domain/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Nhân viên tổng đài lặp một kịch bản tư vấn suốt năm năm cũng kiệt sức y vậy nên quản lý cần xoay ca, đổi dự án định kỳ để giữ lửa và tránh trả lời khách theo quán tính.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-15",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
    "t": "anyone here move from tech sales to CSM? was it worth it?",
    "s": "i'm currently a top performing sales rep at a pretty well known company and coming up on a promotion soon. i've been in sales for a little over 2 years now and always assumed i'd go the AE route, but lately i've been second guessing that. :/ i've been talking to people internally about potentially moving into CSM instead, and it sounds pretty interesting. i love working with customers and understanding their probl…",
    "w": "Một sales rep đang thành công hỏi cộng đồng liệu chuyển sang CSM (Customer Success Manager) có đáng không, vì thích làm việc sâu với khách hàng hơn là chạy số bán hàng.",
@@ -5292,24 +5391,6 @@
     "growth"
    ],
    "y": "Doanh nghiệp đã phân biệt rõ vai trò CSM giữ khách khác hẳn sales chốt deal hay chưa, hay vẫn gộp chung một KPI doanh số?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-15",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Sick of Tech? Or Domain?",
-   "s": "Any CSMs or AMs just ever feeling totally burned out from tech in general, or constant conversations about tech? How fast tech is changing and how customers don’t know what they’re doing? Or maybe sick of talking about the domain you’re in after talking about it day in day out for 7 or more years? Sometimes I think tech innovation had just really enabled all of us to actually over complicate the work we do in orde…",
-   "w": "Nhiều CSM/AM chia sẻ cảm giác kiệt sức vì công nghệ thay đổi liên tục và phải lặp lại cùng câu chuyện domain suốt nhiều năm, nghi ngờ công nghệ đang làm phức tạp hóa công việc vốn đơn giản.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x6kmdw/sick_of_tech_or_domain/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Nhân viên tổng đài lặp một kịch bản tư vấn suốt năm năm cũng kiệt sức y vậy nên quản lý cần xoay ca, đổi dự án định kỳ để giữ lửa và tránh trả lời khách theo quán tính.",
    "wa": 1
   },
   {
@@ -5382,28 +5463,6 @@
     "quality"
    ],
    "y": "Ba bước là ngưỡng an toàn cho một prompt, quá số đó hãy tách quy trình dịch vụ thành nhiều module nhỏ và kiểm tra chéo từng điểm chạm trước khi tự động hóa toàn bộ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-15",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How do you manage your customer feedback and analyze it?",
-   "s": "I am curious about how do you actually do it. Businesses often have customer feedback and signals coming from multiple channels - chat, emails, tickets, etc. Keeping track of what actually is relevant is not as easy as it seems. One issue may be mentioned across two separate channels, and it is very easy to miss it. So, I wanna know how are you doint it? How do you de-duplicate incoming feedback? How do you differ…",
-   "w": "Thảo luận trên diễn đàn về cách doanh nghiệp quản lý và phân tích phản hồi khách hàng đến từ nhiều kênh như chat, email, ticket, đặc biệt là vấn đề trùng lặp thông tin giữa các kênh khó phát hiện.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1x6mkkc/how_do_you_manage_your_customer_feedback_and/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "analysis",
-    "customer feedback",
-    "feedback"
-   ],
-   "y": "Trước khi đầu tư công cụ tổng hợp phản hồi đa kênh, hãy thống nhất một hệ thống gắn thẻ và mã vấn đề chung để tuyến đầu không báo cáo trùng lặp hay bỏ sót tín hiệu quan trọng.",
    "wa": 1
   },
   {
@@ -5526,6 +5585,24 @@
     "metrics"
    ],
    "y": "Tỷ lệ khách quay lại trong 7 ngày sau khi đóng ticket mới là thước đo thật, đừng chỉ nhìn tốc độ phản hồi hay số ticket đóng để đánh giá đội ngũ.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-13",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "When AI QA and a human reviewer disagree on a call, who gets the final say?",
+   "s": "I work in communications on the vendor side, so I'm curious how QA teams handle this in practice. Say an AI review marks an agent down for going off script. A human reviewer listens and thinks changing course was the right call because the customer had raised a different problem. No required check was skipped. I'd want to look at the specific scoring rule alongside that part of the conversation. The human could ha…",
+   "w": "Thảo luận về tình huống AI QA (chấm điểm tự động) và người kiểm tra thủ công bất đồng khi chấm cuộc gọi, ví dụ agent lệch kịch bản nhưng xử lý đúng vì khách đổi vấn đề.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1x4wvvn/when_ai_qa_and_a_human_reviewer_disagree_on_a/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [],
+   "y": "Một tỷ lệ phần trăm cụ thể, ví dụ 100% các ca lệch điểm giữa AI và người chấm, cần được review lại bởi quản lý trước khi tính vào KPI nhân viên.",
    "wa": 1
   },
   {
@@ -6779,91 +6856,6 @@
     "process"
    ],
    "y": "Trước khi đặt thêm chức danh hoa mỹ cho đội Customer Success, hãy đo khoảng cách giữa lời hứa của Sales và trải nghiệm thực tế khách hàng nhận được.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "California AB 1609: what should CX teams measure after a human handoff?",
-   "s": "Imagine you’ve been charged twice for the same purchase. You explain the problem to an AI phone assistant, which connects you to a person. But that person hasn’t received the details you already gave, so you have to explain everything again. Then they transfer you to the team that handles payments. You’re still waiting for someone to fix the extra charge. That’s the part I’m thinking about with California’s AB 160…",
-   "w": "Bài bàn về luật AB 1609 ở California, đặt vấn đề CX nên đo gì khi AI chuyển giao khách hàng cho nhân viên thật nhưng thông tin không được chuyển theo, khiến khách phải lặp lại từ đầu.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1wv12tt/california_ab_1609_what_should_cx_teams_measure/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "chatbot",
-    "process",
-    "revenue"
-   ],
-   "y": "Khách hàng của bạn có phải kể lại câu chuyện từ đầu mỗi lần chuyển bộ phận không? Hãy đo tỷ lệ chuyển giao mất ngữ cảnh và thời gian xử lý sau handoff như chỉ số CX cốt lõi, không chỉ đo tốc độ phản hồi ban đầu.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Dynamic CSAT surveys is useful or overcomplicated?",
-   "s": "how CS teams are using dynamic survey questions? for example if a customer gives a low CSAT score do you ask a followup based on why they were unhappy rather than sending everyone the same questions? Do you change the next question based on a customer’s previous answer, or keep the survey mostly fixed? has anyone found a good way to turn those responses into something the team can actually act on? submitted by /u/…",
-   "w": "Thảo luận về khảo sát CSAT động: có nên đổi câu hỏi tiếp theo dựa trên điểm số hoặc câu trả lời trước đó của khách, thay vì hỏi cố định giống nhau cho mọi người, và làm sao biến dữ liệu đó thành hành động cụ thể.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wus160/dynamic_csat_surveys_is_useful_or_overcomplicated/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "survey",
-    "csat"
-   ],
-   "y": "Một chỉ số cần theo dõi là tỷ lệ phản hồi tiêu cực có được follow-up đúng nguyên nhân và đóng vòng xử lý trong 48 giờ, không chỉ gom điểm trung bình để báo cáo.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Are post churn interviews worth the effort for larger B2B accounts?",
-   "s": "Our churn reporting has started to look pretty useless. CSMs choose a reason in Salesforce when an account leaves, so every quarter I get a clean chart showing product gap, budget, competitor, implementation etc. But when I dig into individual accounts the dropdown rarely explains what really happened. I've been pushing for actual interviews with churned customers, especially the larger accounts. The problem is ge…",
-   "w": "Báo cáo rời bỏ khách hàng B2B dựa trên lý do CSM tự chọn trong Salesforce quá sơ sài, không phản ánh đúng nguyên nhân thật. Tác giả muốn phỏng vấn trực tiếp khách hàng lớn đã rời đi nhưng gặp khó khi triển khai.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wuhsqc/are_post_churn_interviews_worth_the_effort_for/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "churn",
-    "b2b"
-   ],
-   "y": "Ở phòng tập khi hội viên không gia hạn, đừng chỉ tick lý do có sẵn mà hãy gọi điện hỏi chuyện thật để tìm đúng gốc rễ vấn đề.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-01",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "AI skills - measuring adoption , governance and slop!",
-   "s": "Hey Folks, was curious to hear from the community on what are the most common clause skills CS leadership and ICs are using.. are you seeing any tangible results? Also, how are you measuring /rewarding skill building /adoption? Most importantly how are you tackling AI slop!!! submitted by /u/survivor994 [link] [comments]",
-   "w": "Một quản lý CS đặt câu hỏi trên diễn đàn về kỹ năng AI nào đang được đội ngũ CS dùng nhiều nhất, cách đo lường, khen thưởng việc áp dụng và cách xử lý tình trạng AI tạo nội dung kém chất lượng (slop).",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1wuqb69/ai_skills_measuring_adoption_governance_and_slop/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "results"
-   ],
-   "y": "Tổng đài chăm sóc khách hàng dùng AI soạn mẫu trả lời thì nên có người duyệt lại trước khi gửi, tránh robot trả lời sai ngữ cảnh làm khách bực thêm.",
    "wa": 1
   }
  ]
