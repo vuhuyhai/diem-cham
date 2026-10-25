@@ -1,7 +1,7 @@
 {
- "capNhatLuc": "2026-10-24T04:11:05.622Z",
+ "capNhatLuc": "2026-10-25T04:08:31.685Z",
  "soTin": 330,
- "tinMoiLanNay": 37,
+ "tinMoiLanNay": 9,
  "theoNhom": {
   "case": 90,
   "tin": 150,
@@ -47,6 +47,25 @@
   "Hacker News · churn · retention · refund"
  ],
  "tin": [
+  {
+   "d": "2026-10-24",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Linking Strategy to Growth: Why B2B Marketing Needs a Commercial Throughline",
+   "s": "The debate over who owns the buyer misses how marketing should help teams across the business win, retain, and grow customer relationships.",
+   "w": "Case study Service Marketing. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://customerthink.com/linking-strategy-to-growth-why-b2b-marketing-needs-a-commercial-throughline/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "b2b",
+    "growth"
+   ]
+  },
   {
    "d": "2026-10-24",
    "src": "CustomerThink",
@@ -101,6 +120,24 @@
    "khoa": [
     "research",
     "study"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "PHPocalypse Security Flaws Force Websites Offline to Protect Customers",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnF6R3J5S2xzcDhPZHpfR0Rvd25mUWFldWpCeTlDNlBXOHpNQjRCNUpFVnF1UElPSEIwSFNJNGowZXJ4NW5aRDU1MjRaN2d2S0YweWpiZm05c2ZOTXRqVERtcG1HNm15Z3VSc1dIaUtWdkItRUhGNVNodmtCYkhtbnJtOXdVQnRpNW5kQTluLXdJcXl5?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
    ]
   },
   {
@@ -453,25 +490,22 @@
    ]
   },
   {
-   "d": "2026-10-21",
-   "src": "CustomerThink",
+   "d": "2026-10-23",
+   "src": "CX Today",
    "hang": "Chuyên trang",
    "g": "case",
    "imp": "vua",
-   "t": "Scaled Cognition Launches Voice: Premium-Quality Voice Built for Enterprise CX at Ultra-Low Latency and a Fraction of the Cost",
-   "s": "Voice delivers premium-quality speech at ultra-low latency and at a fraction of the cost of comparable offerings",
-   "w": "Scaled Cognition ra mắt công nghệ giọng nói AI chất lượng cao, độ trễ cực thấp, chi phí rẻ hơn nhiều so với các giải pháp tương tự dành cho trung tâm chăm sóc khách hàng doanh nghiệp.",
-   "u": "https://customerthink.com/scaled-cognition-launches-voice-premium-quality-voice-built-for-enterprise-cx-at-ultra-low-latency-and-a-fraction-of-the-cost/",
+   "t": "Gartner’s CCaaS MQ Still Sells Influence, Not Outcomes",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53T242LTRJc1lSUVJnQWcyQ2stTWotUHVyZzhwTkYxVGlRTzhORU13NWktZktCbWxjN1BzTVVWN2hieFZ5Y2VjMlZEbUZIaDI4b0VKMGplOHlRTV9CRlpzeWVZcU5PTXZNcGdnVXJLdDJKMGtLNHJjbjdaNTU?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "cx",
-    "quality"
-   ],
-   "y": "Đo thử độ trễ và cảm giác tự nhiên của giọng AI trên chính kịch bản gọi thật trước khi thay thế nhân viên tổng đài ở các điểm chạm nhạy cảm.",
-   "wa": 1
+    "cx"
+   ]
   },
   {
    "d": "2026-10-21",
@@ -560,6 +594,27 @@
     "process"
    ],
    "y": "Giao diện đặt lịch, app chăm sóc khách hàng của bạn đã thử nghiệm với người dùng có khó khăn tập trung thật sự chưa, hay chỉ đoán theo cảm tính thiết kế đẹp mắt?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Scaled Cognition Launches Voice: Premium-Quality Voice Built for Enterprise CX at Ultra-Low Latency and a Fraction of the Cost",
+   "s": "Voice delivers premium-quality speech at ultra-low latency and at a fraction of the cost of comparable offerings",
+   "w": "Scaled Cognition ra mắt công nghệ giọng nói AI chất lượng cao, độ trễ cực thấp, chi phí rẻ hơn nhiều so với các giải pháp tương tự dành cho trung tâm chăm sóc khách hàng doanh nghiệp.",
+   "u": "https://customerthink.com/scaled-cognition-launches-voice-premium-quality-voice-built-for-enterprise-cx-at-ultra-low-latency-and-a-fraction-of-the-cost/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "quality"
+   ],
+   "y": "Đo thử độ trễ và cảm giác tự nhiên của giọng AI trên chính kịch bản gọi thật trước khi thay thế nhân viên tổng đài ở các điểm chạm nhạy cảm.",
    "wa": 1
   },
   {
@@ -785,24 +840,6 @@
    ],
    "y": "Doanh nghiệp đã bao giờ tra tận gốc lý do khách rời đi thay vì chỉ ghi nhận tỷ lệ churn hàng tháng chưa, vì đó mới là nơi ẩn chứa lỗ hổng trải nghiệm thật sự.",
    "wa": 1
-  },
-  {
-   "d": "2026-10-19",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Gartner’s CCaaS MQ Still Sells Influence, Not Outcomes",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53T242LTRJc1lSUVJnQWcyQ2stTWotUHVyZzhwTkYxVGlRTzhORU13NWktZktCbWxjN1BzTVVWN2hieFZ5Y2VjMlZEbUZIaDI4b0VKMGplOHlRTV9CRlpzeWVZcU5PTXZNcGdnVXJLdDJKMGtLNHJjbjdaNTU?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
   },
   {
    "d": "2026-10-19",
@@ -1849,62 +1886,21 @@
    "wa": 1
   },
   {
-   "d": "2026-10-13",
-   "src": "Harvard Business Review",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "Are We Using the Right Customer Service Metrics? (HBR Case Study and Commentary) ^ R2606L",
-   "s": "",
-   "w": "Case study HBR đặt câu hỏi liệu các chỉ số dịch vụ khách hàng phổ biến như CSAT, NPS có thực sự phản ánh đúng chất lượng trải nghiệm hay chỉ đo bề mặt.",
-   "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOMmh4UVVZYzlTcVd3WjNkYTZHYTV2cGI3Ui1XZ2JkSXp2dEs1RUdXVEM3a1htYVBobkxtSXV4WTJRdzJfcDdEWmZ6X3oyQ3RHYlExbXBuajhuLTlZRnkyRUF3QTRUUnM4bU9HUHgydjU0b3hmcFY5dGNzendlUGlYSlJpUUhoRlhzSEhFcEdPNVFmU0w3U1JIa3dBMkQxZXNhaXR2dzlScFozODhKNVFkcWFjSHhfVUlSOVdnS1paRXJaNkdmNjVFNFhSX19EanExYmdtOTNmUVMzRThhbkx3RUVZenptQmxLalA1NVlkVHFhR2ttX25BSTNmTG56bmFJUnpiQU5VbzEwaHJGcmxMVjUyNHZGbHRhY2UyVW56eWVscV9ScFZrTzdKaUdRbTBoS0pOX0VkVEY1M0x4X2RkQlVNSUVLZFkwQXNjY1MxcHYxNncwSHdJ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "case study",
-    "study",
-    "customer service",
-    "metrics"
-   ],
-   "y": "Chỗ dễ nhầm là chạy theo điểm số đẹp mà quên đo xem vấn đề gốc của khách có được giải quyết triệt để hay không.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-13",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude",
-   "s": "New Model Context Protocol (MCP) connectors link ProcurePro’s end-to-end procurement workflow directly to the AI tools teams already use",
-   "w": "ProcurePro tích hợp MCP connector giúp đội ngũ xây dựng truy vấn dữ liệu mua sắm trực tiếp qua Copilot và Claude thay vì đăng nhập phần mềm riêng, rút ngắn thời gian tra cứu.",
-   "u": "https://customerthink.com/procurepro-lets-contractors-talk-to-their-live-procurement-data-through-microsoft-copilot-and-claude/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Rà lại các điểm chạm nội bộ xem nhân viên dịch vụ mất bao lâu để tra cứu dữ liệu khách hàng rồi cân nhắc kết nối AI vào hệ thống sẵn có thay vì bắt họ học công cụ mới.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-24",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
+   "d": "2026-10-25",
+   "src": "Znews",
+   "hang": "Việt Nam",
    "g": "tin",
    "imp": "thap",
-   "t": "When translations don’t feel natural, customers walk away",
+   "t": "Người tiêu dùng mệt mỏi khi AI chăm sóc khách hàng",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2pyUTg3bURGREJMdGlBSjhvYTU5dFY5VDA0NjFRajNfR3F6dnZ2SGd2dWRYenJYTGFxQzFiMjdyZWV5Qm9tZ0tCZ0U4VXVXVnZoYlNXZnpudUpPSkJacGREdTVnM1ZIRHpKMUEwaXhoLTJPcTRockx2cG1CN0Y3c292S3hqdzNFY0Fjb3NxRjJTR3RHNzY0QzhkaFRSb3NXUVBIa3EyWUctd0E?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chăm sóc khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpSdU16Uk1pZ2dNdGlOTEN5VGYwU1NjUnJhOWpuRDlKQzJTaGs0YTczcUhvTWRUc2lQVG41SHJpUWxGRXhjRTgwY3dlRjc3TTZJMmZMd0s4TUlFRmZKUUljVVk0YzJfWjVVQlVlYkcxZlpDMEd2NmlGVFI3WXJFNTJ1N2UxRUxQd1lXQnNEbU92Q25UdmtVNV9uSnFtQQ?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "cx"
+    "chăm sóc khách hàng"
    ]
   },
   {
@@ -1927,40 +1923,38 @@
   },
   {
    "d": "2026-10-24",
-   "src": "CX Dive",
+   "src": "Customer Experience Dive",
    "hang": "Tổng hợp",
    "g": "tin",
-   "imp": "vua",
-   "t": "Hilton offers loyalty members option to pay with points during digital checkout",
+   "imp": "thap",
+   "t": "When translations don’t feel natural, customers walk away",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVG1ZQmJBaWRNYTRHR1FaZzVXaTE2dTdESkE3QkVaNklJdVlWaF9SWk5aQjRfT01yNGtvNWVEWTg2NkVkVmRjYS1SUWFDM0JKbXB4X0RiU05YZURiNG8zQ1hUUVl2M1VoTnhwc1BTbmZWbkI2SWl2ajJ3Q25iWThISkRUeVlFYTNoa3phUmdYU1Nab2hlRF9wTTcyZzYydVRMWFB5MlQwZXZkM0k?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2pyUTg3bURGREJMdGlBSjhvYTU5dFY5VDA0NjFRajNfR3F6dnZ2SGd2dWRYenJYTGFxQzFiMjdyZWV5Qm9tZ0tCZ0U4VXVXVnZoYlNXZnpudUpPSkJacGREdTVnM1ZIRHpKMUEwaXhoLTJPcTRockx2cG1CN0Y3c292S3hqdzNFY0Fjb3NxRjJTR3RHNzY0QzhkaFRSb3NXUVBIa3EyWUctd0E?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "cx",
-    "loyalty"
+    "customer experience"
    ]
   },
   {
    "d": "2026-10-24",
-   "src": "Retail Times",
+   "src": "Business Matters",
    "hang": "Tổng hợp",
    "g": "tin",
-   "imp": "vua",
-   "t": "New Look continues investment in stores and customer experience with Bristol refurbishment",
+   "imp": "thap",
+   "t": "Beyond Chatbots: Why Voice AI Is Becoming the Next Frontier in Customer Experience",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMC1SbkhoMllYUHlnTXhPYmlkaWRfMWt1ZGRpYnFBZU5YNHdlR2pwVlNvazRkRjZVdlljUm80X0pZWktodm9MbmxfdzJNSjQwcEl3YVJmUzZDME5XREFMY1VZTnpFc0RaY3NINmI1QWJMTmhydjlicTJVTzdpN01tbmFUS0M2T3hYVUJ6N2tDeGFEZFFRQ1JVbi1COWx0WkhSLW43RmgxZVVaQkpCTGdQT01jUWxfcTJw?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXRWMHNTcjBRVXNZNEdDcTZidnFjV2p6bGM5NzB5dWJ5RWJQalM4X0w1Y05ZaXQ5dF8zM0lFLWsySXduUmV0NlgzOHFlZDBRVXBzV0IteEU0Mkh1THdMOERFS1lsbnZXQmd0QjlzWk43Qm9HZUlxMnhIMW13ajNsOHBrTncyNUpVUElBQm1Ra0xuMTB2RlFoU1g1OExpSEIwbHpJSHpqRGZqLWk0alE?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer experience",
-    "retail"
+    "customer experience"
    ]
   },
   {
@@ -2040,6 +2034,24 @@
   },
   {
    "d": "2026-10-24",
+   "src": "Một Thế Giới",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "AI khiến công việc nhân viên chăm sóc khách hàng nặng nhọc hơn",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chăm sóc khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTJTVUYxVW1hWVNRTUdlWE05c25UWVBfcVZCZ3g3bjlHVTBxSDdEUV8wY0Q4NE0xaHNwbWpCZmZTTWlNUEsxZlFyTWwtNWU1dFBLQTk2a2M4Tk5FcG5KYjdjWHBZQUZMNkpTZlZ0ZGNnbHlBSEJFQ3JzNGt6ajRPYk94cHZJY2liYjRleGpnZE9zc3kzaV9TcEtn?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chăm sóc khách hàng"
+   ]
+  },
+  {
+   "d": "2026-10-24",
    "src": "Tạp chí Hàng không",
    "hang": "Việt Nam",
    "g": "tin",
@@ -2054,6 +2066,44 @@
    "khongPT": false,
    "khoa": [
     "chất lượng dịch vụ"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Hilton offers loyalty members option to pay with points during digital checkout",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVG1ZQmJBaWRNYTRHR1FaZzVXaTE2dTdESkE3QkVaNklJdVlWaF9SWk5aQjRfT01yNGtvNWVEWTg2NkVkVmRjYS1SUWFDM0JKbXB4X0RiU05YZURiNG8zQ1hUUVl2M1VoTnhwc1BTbmZWbkI2SWl2ajJ3Q25iWThISkRUeVlFYTNoa3phUmdYU1Nab2hlRF9wTTcyZzYydVRMWFB5MlQwZXZkM0k?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "loyalty"
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "src": "Retail Times",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "New Look continues investment in stores and customer experience with Bristol refurbishment",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMC1SbkhoMllYUHlnTXhPYmlkaWRfMWt1ZGRpYnFBZU5YNHdlR2pwVlNvazRkRjZVdlljUm80X0pZWktodm9MbmxfdzJNSjQwcEl3YVJmUzZDME5XREFMY1VZTnpFc0RaY3NINmI1QWJMTmhydjlicTJVTzdpN01tbmFUS0M2T3hYVUJ6N2tDeGFEZFFRQ1JVbi1COWx0WkhSLW43RmgxZVVaQkpCTGdQT01jUWxfcTJw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
    ]
   },
   {
@@ -2077,6 +2127,25 @@
   },
   {
    "d": "2026-10-23",
+   "src": "Customer Experience Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "American Airlines confident in CX, premium investments despite the toll of fuel costs",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHRRVEZGUTFzcDRuekZiRGxSeE5lRWlwdnlkc0ROcjY4bkRyXzlBMkFZYUZHdzFuTW5IVnFIcmRDVmVncmZYeVlJT3RKeEVpRkh3ZHFBN2x0bXJKd1F1bHY1SkstY0RMVWRqWTg4azBNdDlCcWlwVFEtUU5NajdyTTVyQ1RjNXE0RmhleGdyYWpzTkt4ZW9ZdUt0NkRMQnpTeVRrRWpRYm5IcTlMZlIxWjR3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-10-23",
    "src": "Retail Customer Experience",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2092,62 +2161,6 @@
    "khoa": [
     "customer experience",
     "retail"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Comcast touts customer service contact rates down 20% this year",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUVCUUZFWlBKSVhnLUNhYWw4dHp1MW1KRE00Tk1KdWdmd1o5ZkVZa0FLUnNqZkhoUGNaa0dwSXFHTmRlOHZLQzg1ZUwtanU1T0ZJR1hvZ1FKdXhTVFJKU1RXSDA2azJ4eUtncHJaUHUwYUVxbjdwbVNQdXV1M2J0SENka2hJZndRem8xMXBMS29PaXJLS3BhalJia0prRklUYktUTkZxNUtvaURJRFZ0ektkTk8?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service",
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Love for Costco influencing house design for big fans",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaExDazlMUHpiU2R3WlU4QjJWS0RrelNmQ05IejJGSWM2REtxS1pqVm9EcmRucWx5MWFQUnJoUkpqMHJPa0ZGY2pkSlpNb044MFo5TXhUdFF2d09ObVNaY3dkb05JckdZdlA1NDIxdWMxR2tFY0JTMktzWk1lVGVCTEhZY1BiZDVrb3NaaFlYeHItSGQwVkxBTHNEa2pOZTRZMnc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "American Airlines confident in CX, premium investments despite the toll of fuel costs",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHRRVEZGUTFzcDRuekZiRGxSeE5lRWlwdnlkc0ROcjY4bkRyXzlBMkFZYUZHdzFuTW5IVnFIcmRDVmVncmZYeVlJT3RKeEVpRkh3ZHFBN2x0bXJKd1F1bHY1SkstY0RMVWRqWTg4azBNdDlCcWlwVFEtUU5NajdyTTVyQ1RjNXE0RmhleGdyYWpzTkt4ZW9ZdUt0NkRMQnpTeVRrRWpRYm5IcTlMZlIxWjR3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
    ]
   },
   {
@@ -2203,6 +2216,82 @@
    "khongPT": false,
    "khoa": [
     "cx"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "src": "ConsumerAffairs",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Higher auto insurance bills are putting customer loyalty to the test",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFNGNm1qaDBVOUVZWFV2cFNvOVh6VDJHdzZJRXUtd1pZYUdfRXZDRU1lZU4xWmRPZ1k0bXRDdEU1bklUUVJNampudDNDeE5OSGNONzhDcEV4WEZZQS1palBzZXU1WTVBeUVNRzREVW9SeG1oYUE3dXpjbDlHZVNqSGhSelpGUndlYldlRWd0VXMxTkdhcmEzQkFhWE1OOTFaaV9EVm9ZTk9BQ2Qta1MyX3d1VDFod0ZU?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty",
+    "insurance"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "src": "acv.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "ACV VÀ Vietnam Airlines tăng cường phối hợp, hướng tới nâng cao trải nghiệm khách hàng",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVMtclVzT1NWRHpjZVFBMF9RUFFla1lCb2UtRFI5YndPMDBfOVlTbDlyRXltSm1uZXNib2t4dllyRmtPTGNoUmNBYzFYUVdzcEJvNXlQczlIX0daTnNnVWJiamlOT2JNUndEZlVVTHY3ckRhRkNJSTF3azYxdERzZFZHeW5pMUxlSkw1eTRyS2lfb0xfRVZKSXhjLVIxYmMxZjhxeDdlXzIyMG1takZ4SFh5b3BJNUpsYmZjSVN6OEhfX2dvclNJWXFsZmVIanBwVWVXQllTdGhSSjRSOHlIcFJ5a2tpQm8?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Comcast touts customer service contact rates down 20% this year",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUVCUUZFWlBKSVhnLUNhYWw4dHp1MW1KRE00Tk1KdWdmd1o5ZkVZa0FLUnNqZkhoUGNaa0dwSXFHTmRlOHZLQzg1ZUwtanU1T0ZJR1hvZ1FKdXhTVFJKU1RXSDA2azJ4eUtncHJaUHUwYUVxbjdwbVNQdXV1M2J0SENka2hJZndRem8xMXBMS29PaXJLS3BhalJia0prRklUYktUTkZxNUtvaURJRFZ0ektkTk8?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service",
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Love for Costco influencing house design for big fans",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaExDazlMUHpiU2R3WlU4QjJWS0RrelNmQ05IejJGSWM2REtxS1pqVm9EcmRucWx5MWFQUnJoUkpqMHJPa0ZGY2pkSlpNb044MFo5TXhUdFF2d09ObVNaY3dkb05JckdZdlA1NDIxdWMxR2tFY0JTMktzWk1lVGVCTEhZY1BiZDVrb3NaaFlYeHItSGQwVkxBTHNEa2pOZTRZMnc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
    ]
   },
   {
@@ -2280,44 +2369,6 @@
   },
   {
    "d": "2026-10-23",
-   "src": "ConsumerAffairs",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Higher auto insurance bills are putting customer loyalty to the test",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFNGNm1qaDBVOUVZWFV2cFNvOVh6VDJHdzZJRXUtd1pZYUdfRXZDRU1lZU4xWmRPZ1k0bXRDdEU1bklUUVJNampudDNDeE5OSGNONzhDcEV4WEZZQS1palBzZXU1WTVBeUVNRzREVW9SeG1oYUE3dXpjbDlHZVNqSGhSelpGUndlYldlRWd0VXMxTkdhcmEzQkFhWE1OOTFaaV9EVm9ZTk9BQ2Qta1MyX3d1VDFod0ZU?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer loyalty",
-    "loyalty",
-    "insurance"
-   ]
-  },
-  {
-   "d": "2026-10-23",
-   "src": "acv.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "ACV VÀ Vietnam Airlines tăng cường phối hợp, hướng tới nâng cao trải nghiệm khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVMtclVzT1NWRHpjZVFBMF9RUFFla1lCb2UtRFI5YndPMDBfOVlTbDlyRXltSm1uZXNib2t4dllyRmtPTGNoUmNBYzFYUVdzcEJvNXlQczlIX0daTnNnVWJiamlOT2JNUndEZlVVTHY3ckRhRkNJSTF3azYxdERzZFZHeW5pMUxlSkw1eTRyS2lfb0xfRVZKSXhjLVIxYmMxZjhxeDdlXzIyMG1takZ4SFh5b3BJNUpsYmZjSVN6OEhfX2dvclNJWXFsZmVIanBwVWVXQllTdGhSSjRSOHlIcFJ5a2tpQm8?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-10-23",
    "src": "CX Dive",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2357,24 +2408,6 @@
   },
   {
    "d": "2026-10-22",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "AT&T pursues ‘sticky and high lifetime value’ customers",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVpuT0JHQ0ozeWRGbXd6MWszdnc0M3k4UmlUdEgyLTVMMnczMTZFeDRxUi1CbVdiSFRsbDFLN1FWYnc0UFlzbnR1NTZPMTQtME9pS1ctRHlMcFpfR1dIZzZYcDhiZ0VCcG93Mm55a3prWEMtN2xsaV9EQUM1eHRmQ2F4WXdNSkRBVDlSb1NOU1pCcXFrSkV6eWZzYnFaaXJPNV9UTnlPUDZJZWpsZU44?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-10-22",
    "src": "Retail Customer Experience",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2399,26 +2432,6 @@
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "3 ways retailers are losing trust",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEN1UlhMUWlNZ2NBZkZhY3ZaQW95Ujh5UnFzTDFfaTd1MDdOTHdsR1ZFTzdaRXhJdGpxWjk4SnZNR3NyYl8tdWRidVR1RmYzMW5oMmxUdHluS1o3bTJnOFZ3VllHNXktbExKYXZIcmsySE9sV2xQQ0t1bFRKa1V5eS1tcnNSRGNq?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail",
-    "trust"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
    "t": "Gen Z, millennial shoppers reshaping the c-store retail experience game plan",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -2430,6 +2443,24 @@
    "khoa": [
     "customer experience",
     "retail"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "AT&T pursues ‘sticky and high lifetime value’ customers",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVpuT0JHQ0ozeWRGbXd6MWszdnc0M3k4UmlUdEgyLTVMMnczMTZFeDRxUi1CbVdiSFRsbDFLN1FWYnc0UFlzbnR1NTZPMTQtME9pS1ctRHlMcFpfR1dIZzZYcDhiZ0VCcG93Mm55a3prWEMtN2xsaV9EQUM1eHRmQ2F4WXdNSkRBVDlSb1NOU1pCcXFrSkV6eWZzYnFaaXJPNV9UTnlPUDZJZWpsZU44?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
    ]
   },
   {
@@ -2449,25 +2480,6 @@
    "khoa": [
     "customer experience",
     "retail"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "Yahoo Finance",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Expereo Wins Best Digital Customer Experience in Europe at Telecom Review Excellence Awards",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1Y0OGdzZnpQdk9OQjVfSTltbU1QYXdoQmdkeHVETlJ5WXVnRnB3d19NSDJraVc1MHY0cWpfZVNyUWJ6bnk2Y1Q4VWJKVndadE9xWkZuc1E5RFlXUUdFeGZ3MEh4LVJ2Z2h3Q3IxSHNIc3lGajBfUy1RVVpuV3J3ZGhaZEV0SXNER2ZsOTdWLUJ3bUtiN3JXd1BPbw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "telecom"
    ]
   },
   {
@@ -2547,24 +2559,6 @@
   },
   {
    "d": "2026-10-22",
-   "src": "Light Reading",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Mediacom hires digital care and user experience lead",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGJkeGQxRm1wMHZQN3FiU1M5bTQ1b0pLamNzYkhfLXcwVFh6MlFJajFUVnJPUVpJNGhCTUJtMU5PTWIxa25Fc1BKNVhScndzMFBWSjJ4dURWU056dVo0VGVjQnJ0LXdnYXN6VnZJaXBuSnhlTEFVbFlfNGZwaEpKUWJXY2l4UUFnWUVhaTBIWWdZSm9UNWpLS0NaQjVtalE?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "user experience"
-   ]
-  },
-  {
-   "d": "2026-10-22",
    "src": "Bluefield Daily Telegraph",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2619,75 +2613,20 @@
   },
   {
    "d": "2026-10-22",
-   "src": "Business Wire",
+   "src": "CX Today",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "thap",
-   "t": "MMT Unveils Next-Generation Website to Enhance Customer Experience and Simplify Access to Medical Device and Industrial Manufacturing Solutions",
+   "t": "The Cost of Measuring CX AI by Efficiency Alone",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNmxjQUNCTzB0WTdscFUwaWdpVWd6andnMXF5S0RGZVZELWlfOWc3YU1mZDg5VTc2NVdMSmRsQURIMEpHdHpVNHB4Z0s0aEl0d2ktWnp6bkRSeDFCNENDam56aWpaeVJ2WVlnQkxzakFXZDMtTDc1WDVUUXQxaDJVM1NCRk1NYnExeXRWV3BCUmhtMXlkVDZ1aldYaE1ZRE4wQkNLYnNJdzFaeHFRMVNBTHNtQUNyeUNlNkRDMlJsbXFvZjIzeFpBeS12NkNMZXc4X296QjZsRVp5bjdOeGY3aXpKZGZseHdsVHdBODVTNXB1MzY4S3dsMkdyb3NVT1dNYjljdGVzMTNPOXBjeDVTZUNUeE93cnBYVFQtTzlxWU1vMzZQcXlv?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXFrblVtcUVJdnFDMmUyZS1pWkN4ZVpCU1FUZThiRjBHYWxSb1hqb05Qa2w3Uk9Gc2RzZ3VUUUM0WHgxajFiQVBKRnlJekxOcjVXR2h1Y3lTaWNEamVDWXlBR05WOTBtZUpJelhWNWVvR1gzekpCQ21RSGMzTDFNNGVyc3FqYmlDOFpuYmR3?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "Campaign India",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. joins Snap’s SPECS as chief customer experience officer",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmlHQmlDWFc1NGszc0xLeDdiT0xhcUhUVEsxQU56WGVjdnE1bW54OTd1aTNRZnZoSVJjYVZnaHRhd3ZOYzRYZDhsc24zSWZWQ1ZfTkdsRjN5UHl0azM0SDRVejB1ZTdYbVhoRUVBWVFlVF9lX09CT1NhcnBIZlNNcFB2bWNfLVRLWHUtY1l6TGRsTUkzNFZ6a0VXT0RXVW5BQkRENzVMckZZdUl6OFZ6QmFtNVhrc0xJVWtRMlJneG5ZWktaSlc2TmZMaDctb1lyQ1E?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "01net",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Mediacom Communications Names Graham Tutton Group Vice President of Digital Care & User Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkQ5VDlzQk80MEthZDZIUjdFbmJpZExkdGJpY2lLa0QtQVg3b1lfcEJrRTFXMHZ0ZndjTFFXOUt2M3BPSUcyU3V5dnBWeF9PNEtVWEU1UzRJVDFackxCTWQ5OFcxZHZKMWQ3UXozcFFKcFB5akdHbDhoMnEwVlpXTEFvWVFBa0lkM0I3YmtEY1dEck5iS3Vlak1Hcy1CT3kwdkRqbGVZNG9qcFJFcmlINmNlSFFwY2x1a2c?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "user experience"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "IT Brief UK",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Sprinklr brings customer feedback AI tools to Gemini",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer feedback. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWRWU1JDN3hjTHFWRGNMajlwQl9UcS1ZRlJJZlVlYlhaRm5ma01VU2t6ekQwdVAyMTVNaGZVbU1GTEM4NFh3Rm9CWENRdUl3QVp3UnVjOGV5ZnpWRGZCaHlFRDdiREFqNHJ6X2tidWVvUXF6NjdmZVhfVVNDSngtc1U1a0wyTEk?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer feedback",
-    "feedback"
+    "cx"
    ]
   },
   {
@@ -2891,6 +2830,136 @@
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
+   "t": "3 ways retailers are losing trust",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEN1UlhMUWlNZ2NBZkZhY3ZaQW95Ujh5UnFzTDFfaTd1MDdOTHdsR1ZFTzdaRXhJdGpxWjk4SnZNR3NyYl8tdWRidVR1RmYzMW5oMmxUdHluS1o3bTJnOFZ3VllHNXktbExKYXZIcmsySE9sV2xQQ0t1bFRKa1V5eS1tcnNSRGNq?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail",
+    "trust"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "Yahoo Finance",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Expereo Wins Best Digital Customer Experience in Europe at Telecom Review Excellence Awards",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1Y0OGdzZnpQdk9OQjVfSTltbU1QYXdoQmdkeHVETlJ5WXVnRnB3d19NSDJraVc1MHY0cWpfZVNyUWJ6bnk2Y1Q4VWJKVndadE9xWkZuc1E5RFlXUUdFeGZ3MEh4LVJ2Z2h3Q3IxSHNIc3lGajBfUy1RVVpuV3J3ZGhaZEV0SXNER2ZsOTdWLUJ3bUtiN3JXd1BPbw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "telecom"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "Light Reading",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Mediacom hires digital care and user experience lead",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGJkeGQxRm1wMHZQN3FiU1M5bTQ1b0pLamNzYkhfLXcwVFh6MlFJajFUVnJPUVpJNGhCTUJtMU5PTWIxa25Fc1BKNVhScndzMFBWSjJ4dURWU056dVo0VGVjQnJ0LXdnYXN6VnZJaXBuSnhlTEFVbFlfNGZwaEpKUWJXY2l4UUFnWUVhaTBIWWdZSm9UNWpLS0NaQjVtalE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "user experience"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "Business Wire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "MMT Unveils Next-Generation Website to Enhance Customer Experience and Simplify Access to Medical Device and Industrial Manufacturing Solutions",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNmxjQUNCTzB0WTdscFUwaWdpVWd6andnMXF5S0RGZVZELWlfOWc3YU1mZDg5VTc2NVdMSmRsQURIMEpHdHpVNHB4Z0s0aEl0d2ktWnp6bkRSeDFCNENDam56aWpaeVJ2WVlnQkxzakFXZDMtTDc1WDVUUXQxaDJVM1NCRk1NYnExeXRWV3BCUmhtMXlkVDZ1aldYaE1ZRE4wQkNLYnNJdzFaeHFRMVNBTHNtQUNyeUNlNkRDMlJsbXFvZjIzeFpBeS12NkNMZXc4X296QjZsRVp5bjdOeGY3aXpKZGZseHdsVHdBODVTNXB1MzY4S3dsMkdyb3NVT1dNYjljdGVzMTNPOXBjeDVTZUNUeE93cnBYVFQtTzlxWU1vMzZQcXlv?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "Campaign India",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. joins Snap’s SPECS as chief customer experience officer",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmlHQmlDWFc1NGszc0xLeDdiT0xhcUhUVEsxQU56WGVjdnE1bW54OTd1aTNRZnZoSVJjYVZnaHRhd3ZOYzRYZDhsc24zSWZWQ1ZfTkdsRjN5UHl0azM0SDRVejB1ZTdYbVhoRUVBWVFlVF9lX09CT1NhcnBIZlNNcFB2bWNfLVRLWHUtY1l6TGRsTUkzNFZ6a0VXT0RXVW5BQkRENzVMckZZdUl6OFZ6QmFtNVhrc0xJVWtRMlJneG5ZWktaSlc2TmZMaDctb1lyQ1E?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "01net",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Mediacom Communications Names Graham Tutton Group Vice President of Digital Care & User Experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkQ5VDlzQk80MEthZDZIUjdFbmJpZExkdGJpY2lLa0QtQVg3b1lfcEJrRTFXMHZ0ZndjTFFXOUt2M3BPSUcyU3V5dnBWeF9PNEtVWEU1UzRJVDFackxCTWQ5OFcxZHZKMWQ3UXozcFFKcFB5akdHbDhoMnEwVlpXTEFvWVFBa0lkM0I3YmtEY1dEck5iS3Vlak1Hcy1CT3kwdkRqbGVZNG9qcFJFcmlINmNlSFFwY2x1a2c?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "user experience"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "IT Brief UK",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Sprinklr brings customer feedback AI tools to Gemini",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer feedback. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWRWU1JDN3hjTHFWRGNMajlwQl9UcS1ZRlJJZlVlYlhaRm5ma01VU2t6ekQwdVAyMTVNaGZVbU1GTEM4NFh3Rm9CWENRdUl3QVp3UnVjOGV5ZnpWRGZCaHlFRDdiREFqNHJ6X2tidWVvUXF6NjdmZVhfVVNDSngtc1U1a0wyTEk?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer feedback",
+    "feedback"
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
    "t": "Whitepaper provides roadmap to building a business case for retail tech",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -2994,24 +3063,6 @@
    "khongPT": false,
    "khoa": [
     "user experience"
-   ]
-  },
-  {
-   "d": "2026-10-22",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "The Cost of Measuring CX AI by Efficiency Alone",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXFrblVtcUVJdnFDMmUyZS1pWkN4ZVpCU1FUZThiRjBHYWxSb1hqb05Qa2w3Uk9Gc2RzZ3VUUUM0WHgxajFiQVBKRnlJekxOcjVXR2h1Y3lTaWNEamVDWXlBR05WOTBtZUpJelhWNWVvR1gzekpCQ21RSGMzTDFNNGVyc3FqYmlDOFpuYmR3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
    ]
   },
   {
@@ -3222,27 +3273,6 @@
   },
   {
    "d": "2026-10-21",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Price, discount rank tops in consumer purchasing decisions",
-   "s": "",
-   "w": "Nghiên cứu cho thấy giá cả và mức giảm giá vẫn là yếu tố hàng đầu ảnh hưởng quyết định mua hàng của người tiêu dùng, vượt trên nhiều yếu tố trải nghiệm khác.",
-   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazhFWVdaeDFBMzFHb0hfdHFsblZQQ1dlNll4R05LajNpVUR1UkpGcVdFLXUxRjNObFUyV0steTJrbWNHZlJFREZHUTh0UWJrRjU1TmhkalQ3NG16TktGNjRQVDF3S1hLXzZvakJiUzdQZmMtRFpOMEtvSHF3bVlrRWs3dTUwZE9RSGpaU3dIV3FNblJvSDhhRmJoMjZtQThXVEJvbHpOWQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ],
-   "y": "Giá dịch vụ của bạn có đang cạnh tranh đủ rõ ràng và dễ so sánh để khách không phải đắn đo rời bỏ giữa chừng?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
    "src": "Yahoo Finance",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3259,26 +3289,6 @@
     "customer experience"
    ],
    "y": "Tổng đài spa gửi tin nhắn trùng lặp qua Zalo, SMS, app cùng lúc vì dữ liệu khách hàng nằm rời rạc từng hệ thống nên cần gộp về một nền tảng duy nhất trước khi mở rộng kênh.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "The Next Web",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. joins Snap’s SPECS as honorary customer experience chief",
-   "s": "",
-   "w": "Snap mời diễn viên Robert Downey Jr. làm 'giám đốc trải nghiệm khách hàng danh dự' cho kính thông minh SPECS, nhằm tăng độ phủ truyền thông và sức hút thương hiệu.",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0VuaVoxc3FaZnhEa0UzcFZvVEMxbjYybXd6VHZ1VVZwd1I3bHZMa3puOE5VSFE0OGpNT2xsOThMYkFuS1VFTUp3VXdkMjd3VmM5QVJQSFZBRWMwWkhOQ2JRTXUxbU93WUdwekVyOUhBVzBaTzBjLXRUNld5a0NsYXRaRGpMeWQtZkp1YS1EUGt1YlU?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Trước khi thuê người nổi tiếng gắn mác trải nghiệm khách hàng, cần đảm bảo sản phẩm và đội ngũ tuyến đầu thực sự mang lại trải nghiệm xứng đáng với lời quảng bá.",
    "wa": 1
   },
   {
@@ -3325,88 +3335,6 @@
   },
   {
    "d": "2026-10-21",
-   "src": "pan african visions",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "cao",
-   "t": "Watsons Launches Asia's First Watsons Plus Customer Experience in Malaysia Setting a New Benchmark for Health and Beauty Retail",
-   "s": "",
-   "w": "Watsons ra mắt mô hình trải nghiệm khách hàng Watsons Plus đầu tiên tại châu Á, triển khai ở Malaysia, nhằm thiết lập chuẩn mới cho bán lẻ sức khỏe và làm đẹp.",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaWpvVUg3bS1iZGR4ZFNjTm1TcExGQlZQbnAwbGJkTHBUczdFWWpVZmVTajRwVi1RNlp3T3p6X3FOU3g2VEZoX2xHZ1hpTEk5RHFad2dZX1kzOXVvRl82NGxmblZaQXdPWi10VEgyRXFjN1ljMTZFOWVTX3IzQUJtbFBka1lNc2xjdjVWMkV1MjJBVXNhSUdHMjhiUkZ1eUpEOGRxTVY4dHN3RnNWS3YxeHFocGx3XzZTcEpCTVBoRWxvTm9fZ2txVi14dkozR29scU45N3dXbjYyQzFpMzhSUUdjaDlNZmE0MWRSQ0tRUG50Z3NycUNGSA?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "benchmark",
-    "customer experience",
-    "retail"
-   ],
-   "y": "Trước khi sao chép mô hình trải nghiệm mới nào, chuỗi bán lẻ sức khỏe làm đẹp tại Việt Nam cần đo lại hành trình khách hàng hiện tại để biết điểm chạm nào thực sự cần nâng cấp.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Telecompaper",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Snap's Specs appoints Robert Downey Jr. as honorary chief customer experience officer",
-   "s": "",
-   "w": "Snap bổ nhiệm diễn viên Robert Downey Jr. làm giám đốc trải nghiệm khách hàng danh dự cho kính thông minh Specs, một chiêu truyền thông gắn hình ảnh người nổi tiếng với sản phẩm công nghệ mới.",
-   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdktaQXdQSThVNUZwczdyTlkyTlFPa1BTb2YyYW1nX3NQUHNQN2RZZHBPQ3JraGVDVTZfNklsanpxMFB0VVJSQ0dyMG5KQ0ZGZDRtWDgyRURRdjIzcl9pY2g5T0VKSHJkand4djZlU0M0SWtwX2xMQ2RGLW5sNWNjODhtcEY1WmRiaTZ1eWljQUwtamVfUFJpZGwyZGhxVUw3RlZvSjdfeEVfVVduWEU0SUU2c2ppTHdjakNyWHNpZUNfQVk0?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Hỏi kỹ xem đại sứ thương hiệu có thực sự dùng và hiểu sản phẩm trước khi gắn chức danh liên quan trải nghiệm khách hàng để tránh gây hiểu lầm cho người tiêu dùng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "afaqs!",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. joins SPECS as Chief Customer Experience Officer",
-   "s": "",
-   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm Giám đốc Trải nghiệm khách hàng của SPECS, cho thấy xu hướng dùng người nổi tiếng đại diện hình ảnh thương hiệu gắn với CX.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEFBWWJxTGtCdXVRRk1xM2Y1a2VQbE95S2w1S0NUd3pBUE45d0ZCXzVUaDQ0czVaZWRHZ25naEdoYjV5Skh6VURSdEFEQ2x1aUVXeEpGb3VjSE5HQ2FyLXJ3djU4UjBtTUNuTWZDak9SdlU0QnlVS0N2OXE3ZnJnUHROcU9kcS1DY3E4bXJBMHpXUlNPZkhtQlVzQmtMMlZCUkJZbjFHNXl2dw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "70% quyết định mua hàng dịch vụ chịu ảnh hưởng từ cảm xúc nên cần đo tác động thực sự của đại sứ thương hiệu lên chỉ số hài lòng chứ không chỉ độ nổi tiếng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Mi-3.com.au.",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. suits up for SPECS as honorary chief customer experience officer",
-   "s": "",
-   "w": "Robert Downey Jr. được mời làm giám đốc trải nghiệm khách hàng danh dự cho SPECS, một chiến dịch gắn hình ảnh ngôi sao với thông điệp chăm sóc khách hàng của thương hiệu.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjNDdWtYM0dIcGtXc2tnTnV0bE45YVhrZGZtYkw5YVVXTlRBaUJ4UFRkeUV2eDl5ZkVVd2ZuMjJpbDJwckRfMmNKTUEyclJoOXJYMnBhV0thNjJGUnBxZHN2UkVvdDR5bm1PVnhaS0dST0ppOEYtTDg0eGdlcHZoS1ZFclA2VW1aNk1vY1dnM2M5cHhZM2p0TnZPQUFYQXRqNGVvM050ZmNPQQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Ở quầy thu ngân chuỗi cửa hàng kính mắt, nhân viên tuyến đầu mới là người quyết định trải nghiệm thật chứ không phải gương mặt đại diện trên poster quảng cáo.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
    "src": "Business Wire",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3428,68 +3356,6 @@
   },
   {
    "d": "2026-10-21",
-   "src": "Vietnam Economic Times",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "AI in the customer experience: Finding the right level of automation",
-   "s": "",
-   "w": "Bài bàn về cách xác định mức độ tự động hóa AI phù hợp trong trải nghiệm khách hàng, tránh lạm dụng chatbot khiến khách hàng mất kết nối với con người thật.",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWRBbmxiTFQ3bUd1Z01MVHZaajRwT1pQT19IaTJycFQ3RFVzVC0zTUNrNUlma0VmdHU5c1p0TEszM183M3ZCempvZUItaHh1T2VoQ01DRmEwcjlXRG15cTl0eFU4YmQxNEFGQnMwSkJzU2VsYlVHZnhKTTRDMG9aR25lUlVqb1ZyYmVWUE9fR2hDUWZxaEFFenFnaw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "automation"
-   ],
-   "y": "Rà lại từng điểm chạm để tách rõ việc nào AI xử lý được, việc nào bắt buộc phải có nhân viên tuyến đầu can thiệp trực tiếp.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "https://www.manifest-media.in/",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. joins Specs as chief customer experience officer",
-   "s": "",
-   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm chief customer experience officer (giám đốc trải nghiệm khách hàng) cho thương hiệu Specs, một bước PR dùng người nổi tiếng để nâng vị thế trải nghiệm khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGYwbmtWdzIyd0M0RXhZVFc1S29pdTl2bFdkV1lLSVdEaTJHV3laYWRjVUFueTJlTlNuOEZ1alBPZlk2YVJuTWQ0MFZTeG5INmFLUG1Iei15cnhSOUw2SzhNaWtCLXMzWlkyR2dTcnBaTFo4Q0Fmbm9IN1M3a1p1cU80UzJsQ3lza0JJXzhES3lKN1hLaFExY3JsOXhuY3M2bWVUcHllUHRYaEl1UmRzSmREZ2RRRXJEWEhz?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Rà lại xem chức danh CX officer trong công ty mình có thực quyền và ngân sách hay chỉ là danh xưng trang trí như chiêu PR này.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Via TT",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Forrester’s 2027 B2C Marketing, CX, And Digital Predictions: Rising AI Costs Will Force B2C Leaders To Scale Back A Third Of AI Initiatives",
-   "s": "",
-   "w": "Forrester dự báo đến 2027 chi phí AI tăng cao khiến các lãnh đạo B2C phải cắt giảm khoảng một phần ba sáng kiến AI đang triển khai trong marketing và CX.",
-   "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOY3IxZ3JoZUJRNkZjUkxjNTNaUmgwTjZEUXR1WFlfT2JuendCalExZGdLdXFWNXdMTkduS0NDOHJad2R5bkVwTnVQWWxDUm5wSTlwRllJWXRBZzlDTHV3UzV3clNrZk9iTTVnY1BkNHJfRFRRMDVlZU03UjRQamZCR2xYYjB6MHh4ME1HRkp1WVRGNzJSdFNpNk0taGdYZ0Vya3BJM0tFQVE3aDZfLUtkWUNGbU95bVc1c2w2aWtoSkF4Z2dJVF9IcVZ3czViU0JPNHlZdUFOYTAtdFNCQVVSaUF5YmJNdGxjbTJsQWFQZHh1dGlfQklxMldyWlV3dHNsVlI5NFdIT0ItMVk0RWRYekhLWEJOU2VEN0YyYmlUNkNNZjBGVU1ObzZ2aC0?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "b2c"
-   ],
-   "y": "Đã tính kỹ chi phí vận hành AI dài hạn chưa hay mới chạy theo phong trào rồi phải cắt giữa chừng gây gián đoạn trải nghiệm khách hàng?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
    "src": "CX Today",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -3506,28 +3372,6 @@
     "cx"
    ],
    "y": "Công cụ CRM của bạn có thực sự giúp đội ngũ tuyến đầu chủ động chăm sóc khách hàng hay chỉ lưu trữ dữ liệu cho đẹp báo cáo?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Telecompaper",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "cao",
-   "t": "Bell study shows customer loyalty linked to cyber security concerns",
-   "s": "",
-   "w": "Nghiên cứu của Bell cho thấy mối lo ngại về an ninh mạng ảnh hưởng trực tiếp đến lòng trung thành của khách hàng với thương hiệu dịch vụ.",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeXM2Y3NhZENPdWQ5c0VvNTdxNnh4c0lUbzZkWGNvdTNiVnFyb2JLa2dyTVFRakg0a1Z5aTRaX3kzVk1ZbW8wbUotR3ZTYUgxcFdLajE3ZFQ3eGx6QlhkQzVRT3Z6S01odkVZQjh0LURqbVFHWVdBRW5pU3JiSXZQdmpFS2o0Zmw2WFhxLXp4c3l1MU95c20zUzVOX2xVWmxtSUxSNTJkcXR5X0pHOUNV?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "study",
-    "customer loyalty",
-    "loyalty"
-   ],
-   "y": "Trước khi thu thập thêm dữ liệu khách hàng, doanh nghiệp cần công khai minh bạch cách bảo mật thông tin để giữ niềm tin và tránh mất khách vì sự cố rò rỉ dữ liệu.",
    "wa": 1
   },
   {
@@ -3691,6 +3535,213 @@
     "chất lượng dịch vụ"
    ],
    "y": "Giống phòng khám tư siết quy trình khám chữa bệnh, văn phòng luật nên chuẩn hóa cách tiếp khách, tư vấn, báo giá để giữ niềm tin khách hàng lâu dài.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Price, discount rank tops in consumer purchasing decisions",
+   "s": "",
+   "w": "Nghiên cứu cho thấy giá cả và mức giảm giá vẫn là yếu tố hàng đầu ảnh hưởng quyết định mua hàng của người tiêu dùng, vượt trên nhiều yếu tố trải nghiệm khác.",
+   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazhFWVdaeDFBMzFHb0hfdHFsblZQQ1dlNll4R05LajNpVUR1UkpGcVdFLXUxRjNObFUyV0steTJrbWNHZlJFREZHUTh0UWJrRjU1TmhkalQ3NG16TktGNjRQVDF3S1hLXzZvakJiUzdQZmMtRFpOMEtvSHF3bVlrRWs3dTUwZE9RSGpaU3dIV3FNblJvSDhhRmJoMjZtQThXVEJvbHpOWQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ],
+   "y": "Giá dịch vụ của bạn có đang cạnh tranh đủ rõ ràng và dễ so sánh để khách không phải đắn đo rời bỏ giữa chừng?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "The Next Web",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. joins Snap’s SPECS as honorary customer experience chief",
+   "s": "",
+   "w": "Snap mời diễn viên Robert Downey Jr. làm 'giám đốc trải nghiệm khách hàng danh dự' cho kính thông minh SPECS, nhằm tăng độ phủ truyền thông và sức hút thương hiệu.",
+   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0VuaVoxc3FaZnhEa0UzcFZvVEMxbjYybXd6VHZ1VVZwd1I3bHZMa3puOE5VSFE0OGpNT2xsOThMYkFuS1VFTUp3VXdkMjd3VmM5QVJQSFZBRWMwWkhOQ2JRTXUxbU93WUdwekVyOUhBVzBaTzBjLXRUNld5a0NsYXRaRGpMeWQtZkp1YS1EUGt1YlU?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Trước khi thuê người nổi tiếng gắn mác trải nghiệm khách hàng, cần đảm bảo sản phẩm và đội ngũ tuyến đầu thực sự mang lại trải nghiệm xứng đáng với lời quảng bá.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "pan african visions",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "Watsons Launches Asia's First Watsons Plus Customer Experience in Malaysia Setting a New Benchmark for Health and Beauty Retail",
+   "s": "",
+   "w": "Watsons ra mắt mô hình trải nghiệm khách hàng Watsons Plus đầu tiên tại châu Á, triển khai ở Malaysia, nhằm thiết lập chuẩn mới cho bán lẻ sức khỏe và làm đẹp.",
+   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaWpvVUg3bS1iZGR4ZFNjTm1TcExGQlZQbnAwbGJkTHBUczdFWWpVZmVTajRwVi1RNlp3T3p6X3FOU3g2VEZoX2xHZ1hpTEk5RHFad2dZX1kzOXVvRl82NGxmblZaQXdPWi10VEgyRXFjN1ljMTZFOWVTX3IzQUJtbFBka1lNc2xjdjVWMkV1MjJBVXNhSUdHMjhiUkZ1eUpEOGRxTVY4dHN3RnNWS3YxeHFocGx3XzZTcEpCTVBoRWxvTm9fZ2txVi14dkozR29scU45N3dXbjYyQzFpMzhSUUdjaDlNZmE0MWRSQ0tRUG50Z3NycUNGSA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "benchmark",
+    "customer experience",
+    "retail"
+   ],
+   "y": "Trước khi sao chép mô hình trải nghiệm mới nào, chuỗi bán lẻ sức khỏe làm đẹp tại Việt Nam cần đo lại hành trình khách hàng hiện tại để biết điểm chạm nào thực sự cần nâng cấp.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Telecompaper",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Snap's Specs appoints Robert Downey Jr. as honorary chief customer experience officer",
+   "s": "",
+   "w": "Snap bổ nhiệm diễn viên Robert Downey Jr. làm giám đốc trải nghiệm khách hàng danh dự cho kính thông minh Specs, một chiêu truyền thông gắn hình ảnh người nổi tiếng với sản phẩm công nghệ mới.",
+   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdktaQXdQSThVNUZwczdyTlkyTlFPa1BTb2YyYW1nX3NQUHNQN2RZZHBPQ3JraGVDVTZfNklsanpxMFB0VVJSQ0dyMG5KQ0ZGZDRtWDgyRURRdjIzcl9pY2g5T0VKSHJkand4djZlU0M0SWtwX2xMQ2RGLW5sNWNjODhtcEY1WmRiaTZ1eWljQUwtamVfUFJpZGwyZGhxVUw3RlZvSjdfeEVfVVduWEU0SUU2c2ppTHdjakNyWHNpZUNfQVk0?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Hỏi kỹ xem đại sứ thương hiệu có thực sự dùng và hiểu sản phẩm trước khi gắn chức danh liên quan trải nghiệm khách hàng để tránh gây hiểu lầm cho người tiêu dùng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "afaqs!",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. joins SPECS as Chief Customer Experience Officer",
+   "s": "",
+   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm Giám đốc Trải nghiệm khách hàng của SPECS, cho thấy xu hướng dùng người nổi tiếng đại diện hình ảnh thương hiệu gắn với CX.",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEFBWWJxTGtCdXVRRk1xM2Y1a2VQbE95S2w1S0NUd3pBUE45d0ZCXzVUaDQ0czVaZWRHZ25naEdoYjV5Skh6VURSdEFEQ2x1aUVXeEpGb3VjSE5HQ2FyLXJ3djU4UjBtTUNuTWZDak9SdlU0QnlVS0N2OXE3ZnJnUHROcU9kcS1DY3E4bXJBMHpXUlNPZkhtQlVzQmtMMlZCUkJZbjFHNXl2dw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "70% quyết định mua hàng dịch vụ chịu ảnh hưởng từ cảm xúc nên cần đo tác động thực sự của đại sứ thương hiệu lên chỉ số hài lòng chứ không chỉ độ nổi tiếng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Mi-3.com.au.",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. suits up for SPECS as honorary chief customer experience officer",
+   "s": "",
+   "w": "Robert Downey Jr. được mời làm giám đốc trải nghiệm khách hàng danh dự cho SPECS, một chiến dịch gắn hình ảnh ngôi sao với thông điệp chăm sóc khách hàng của thương hiệu.",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjNDdWtYM0dIcGtXc2tnTnV0bE45YVhrZGZtYkw5YVVXTlRBaUJ4UFRkeUV2eDl5ZkVVd2ZuMjJpbDJwckRfMmNKTUEyclJoOXJYMnBhV0thNjJGUnBxZHN2UkVvdDR5bm1PVnhaS0dST0ppOEYtTDg0eGdlcHZoS1ZFclA2VW1aNk1vY1dnM2M5cHhZM2p0TnZPQUFYQXRqNGVvM050ZmNPQQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Ở quầy thu ngân chuỗi cửa hàng kính mắt, nhân viên tuyến đầu mới là người quyết định trải nghiệm thật chứ không phải gương mặt đại diện trên poster quảng cáo.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Vietnam Economic Times",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "AI in the customer experience: Finding the right level of automation",
+   "s": "",
+   "w": "Bài bàn về cách xác định mức độ tự động hóa AI phù hợp trong trải nghiệm khách hàng, tránh lạm dụng chatbot khiến khách hàng mất kết nối với con người thật.",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWRBbmxiTFQ3bUd1Z01MVHZaajRwT1pQT19IaTJycFQ3RFVzVC0zTUNrNUlma0VmdHU5c1p0TEszM183M3ZCempvZUItaHh1T2VoQ01DRmEwcjlXRG15cTl0eFU4YmQxNEFGQnMwSkJzU2VsYlVHZnhKTTRDMG9aR25lUlVqb1ZyYmVWUE9fR2hDUWZxaEFFenFnaw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "automation"
+   ],
+   "y": "Rà lại từng điểm chạm để tách rõ việc nào AI xử lý được, việc nào bắt buộc phải có nhân viên tuyến đầu can thiệp trực tiếp.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "https://www.manifest-media.in/",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. joins Specs as chief customer experience officer",
+   "s": "",
+   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm chief customer experience officer (giám đốc trải nghiệm khách hàng) cho thương hiệu Specs, một bước PR dùng người nổi tiếng để nâng vị thế trải nghiệm khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGYwbmtWdzIyd0M0RXhZVFc1S29pdTl2bFdkV1lLSVdEaTJHV3laYWRjVUFueTJlTlNuOEZ1alBPZlk2YVJuTWQ0MFZTeG5INmFLUG1Iei15cnhSOUw2SzhNaWtCLXMzWlkyR2dTcnBaTFo4Q0Fmbm9IN1M3a1p1cU80UzJsQ3lza0JJXzhES3lKN1hLaFExY3JsOXhuY3M2bWVUcHllUHRYaEl1UmRzSmREZ2RRRXJEWEhz?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "Rà lại xem chức danh CX officer trong công ty mình có thực quyền và ngân sách hay chỉ là danh xưng trang trí như chiêu PR này.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Via TT",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Forrester’s 2027 B2C Marketing, CX, And Digital Predictions: Rising AI Costs Will Force B2C Leaders To Scale Back A Third Of AI Initiatives",
+   "s": "",
+   "w": "Forrester dự báo đến 2027 chi phí AI tăng cao khiến các lãnh đạo B2C phải cắt giảm khoảng một phần ba sáng kiến AI đang triển khai trong marketing và CX.",
+   "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOY3IxZ3JoZUJRNkZjUkxjNTNaUmgwTjZEUXR1WFlfT2JuendCalExZGdLdXFWNXdMTkduS0NDOHJad2R5bkVwTnVQWWxDUm5wSTlwRllJWXRBZzlDTHV3UzV3clNrZk9iTTVnY1BkNHJfRFRRMDVlZU03UjRQamZCR2xYYjB6MHh4ME1HRkp1WVRGNzJSdFNpNk0taGdYZ0Vya3BJM0tFQVE3aDZfLUtkWUNGbU95bVc1c2w2aWtoSkF4Z2dJVF9IcVZ3czViU0JPNHlZdUFOYTAtdFNCQVVSaUF5YmJNdGxjbTJsQWFQZHh1dGlfQklxMldyWlV3dHNsVlI5NFdIT0ItMVk0RWRYekhLWEJOU2VEN0YyYmlUNkNNZjBGVU1ObzZ2aC0?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "b2c"
+   ],
+   "y": "Đã tính kỹ chi phí vận hành AI dài hạn chưa hay mới chạy theo phong trào rồi phải cắt giữa chừng gây gián đoạn trải nghiệm khách hàng?",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-21",
+   "src": "Telecompaper",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "Bell study shows customer loyalty linked to cyber security concerns",
+   "s": "",
+   "w": "Nghiên cứu của Bell cho thấy mối lo ngại về an ninh mạng ảnh hưởng trực tiếp đến lòng trung thành của khách hàng với thương hiệu dịch vụ.",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeXM2Y3NhZENPdWQ5c0VvNTdxNnh4c0lUbzZkWGNvdTNiVnFyb2JLa2dyTVFRakg0a1Z5aTRaX3kzVk1ZbW8wbUotR3ZTYUgxcFdLajE3ZFQ3eGx6QlhkQzVRT3Z6S01odkVZQjh0LURqbVFHWVdBRW5pU3JiSXZQdmpFS2o0Zmw2WFhxLXp4c3l1MU95c20zUzVOX2xVWmxtSUxSNTJkcXR5X0pHOUNV?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "study",
+    "customer loyalty",
+    "loyalty"
+   ],
+   "y": "Trước khi thu thập thêm dữ liệu khách hàng, doanh nghiệp cần công khai minh bạch cách bảo mật thông tin để giữ niềm tin và tránh mất khách vì sự cố rò rỉ dữ liệu.",
    "wa": 1
   },
   {
@@ -4160,6 +4211,26 @@
   },
   {
    "d": "2026-10-20",
+   "src": "Snap Inc. - Investor Relations",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Robert Downey Jr. Joins SPECS as Chief Customer Experience Officer",
+   "s": "",
+   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm Giám đốc Trải nghiệm Khách hàng (Chief Customer Experience Officer) tại công ty kính mắt SPECS, một bước đi marketing dùng người nổi tiếng gắn với vai trò CX.",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3lfWTV6R0JacVhXSU91aUxPaTAwN2tsWmJBR3RmNzhFb0hjZ2FtMmkyeUdHMV9ib2VnczZRaXZtOHFIbGlRYTVwWFVKekg2bFVLNFFMTUxqd1ctQnlhNGhSX0N2YjF4RTQtbkN6dXA5UFNmMW94cVQ2cGdrRzBCbUhWYjN3VTN1R3cxWW5mWG9URU8zc0JoRXJuXzl5T1lmX0tNNFBsV0psUjktMzgzUW5sb2JmSGQwbTBDVWdxZDFvc3R5UFRJ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ],
+   "y": "1 con số cần theo dõi là tỷ lệ chuyển đổi từ nhận diện thương hiệu sang hài lòng dịch vụ thực tế sau chiến dịch người nổi tiếng.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-20",
    "src": "citybiz",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -4176,26 +4247,6 @@
     "customer experience"
    ],
    "y": "Doanh nghiệp đã thực sự dùng người nổi tiếng để kể câu chuyện trải nghiệm hay chỉ mượn tên tuổi quảng cáo bề mặt, hãy đảm bảo vai trò đó gắn với hành trình khách hàng thật.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-20",
-   "src": "Snap Newsroom",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Robert Downey Jr. Joins SPECS as Chief Customer Experience Officer",
-   "s": "",
-   "w": "SPECS mời diễn viên Robert Downey Jr. làm Giám đốc Trải nghiệm khách hàng, dùng sức hút người nổi tiếng để nâng vị thế thương hiệu kính mắt và gắn kết khách hàng.",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FZHA2SXJodHpCNU8zbHNBQ3JKbGZkUzR4V19ISTZUZ1hXcEtoaFBMQnZ3VU9ncTN3M3ZWZTlZVUdnS0hPc3hWRjY0aG9jMjFZTWV2WGpzcHY2dkpwNzlvUVpaTmVudkU2VmRValpZbw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ],
-   "y": "Rà lại xem đại sứ thương hiệu có thực sự chạm vào điểm đau khách hàng hay chỉ tạo tiếng vang truyền thông ngắn hạn.",
    "wa": 1
   },
   {
@@ -4220,6 +4271,26 @@
   },
   {
    "d": "2026-10-20",
+   "src": "CX Today",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "AI Can Spot the Signal, Who Decides What Happens Next?",
+   "s": "",
+   "w": "AI có thể phát hiện tín hiệu cảnh báo từ dữ liệu khách hàng như than phiền, hành vi rời bỏ, nhưng việc ra quyết định xử lý tiếp theo vẫn cần con người phán đoán và chịu trách nhiệm.",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aX1lCbW5vMkZWTEZ3ekxJMzlNbkhTQmJodVJkVVV4OTVJNmd1Q0pBNVFlUVlyNGhTNmxqOXBweHItUnVXaVZ1RU9YekN4dGJoa0ZYU21oQ0JxelRPdWJQUzlnREVJQXZnNWZtMk1pU0M0QV8tdmFyTWtHZ0o?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ],
+   "y": "Cái khó không nằm ở công nghệ phát hiện vấn đề mà ở chỗ ai được trao quyền và quy trình nào để xử lý tín hiệu đó kịp thời.",
+   "wa": 1
+  },
+  {
+   "d": "2026-10-20",
    "src": "Building Better Healthcare",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -4236,26 +4307,6 @@
     "service design",
     "patient experience",
     "healthcare"
-   ]
-  },
-  {
-   "d": "2026-10-20",
-   "src": "VietinBank",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "vua",
-   "t": "VietinBank Express tháng 10/2026 - Số 1: Khẳng định vị thế thương hiệu, bứt phá chuyển đổi số, thúc đẩy đổi mới sáng tạo và nâng tầm trải nghiệm khách hàng | Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNWDRlQUFTaTlfLThwV1hoV1A1a1ZYNGJDMGs0d3o2eWhQbWQ0UlE4TG9kQnZ6elNndUliTjhqQUJEWWt4a2k0TWtWcHppZ2c5dWZlbnhabjA3ZXo5cGxpbVByTFFCeG5pYVlZRFlXNnFmbEMwVV9lZU9zdldwTzEtSkF3bW5XNVhzeWljZ2VaX3FHamdKSHFwZ2NoZW01TW9ENVNGOUFOYjZhak1JblhEaWNlNkduQURRMFpBek5peFBvRkhPT21GY3hnRE9WcmlMMXRIZXlXZEFUUnR3TnNaTElIbHVKZmc4X1dsTHlFN0VyV3NrUGdkUW5oVGRGbGhNT3hNQTlTQklHaGV0U0hESGVvRG9DNFhzUGU5UVFvNmlBUzVBXzJyWE5STm9hTkt0MGtxMW9MYjB2NWZG?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng",
-    "thương hiệu",
-    "chuyển đổi số"
    ]
   },
   {
@@ -4280,14 +4331,34 @@
   },
   {
    "d": "2026-10-20",
-   "src": "Snap Investor Relations",
+   "src": "VietinBank",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "vua",
+   "t": "VietinBank Express tháng 10/2026 - Số 1: Khẳng định vị thế thương hiệu, bứt phá chuyển đổi số, thúc đẩy đổi mới sáng tạo và nâng tầm trải nghiệm khách hàng | Ngân hàng Thương mại Cổ phần Công Thương Việt Nam",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNWDRlQUFTaTlfLThwV1hoV1A1a1ZYNGJDMGs0d3o2eWhQbWQ0UlE4TG9kQnZ6elNndUliTjhqQUJEWWt4a2k0TWtWcHppZ2c5dWZlbnhabjA3ZXo5cGxpbVByTFFCeG5pYVlZRFlXNnFmbEMwVV9lZU9zdldwTzEtSkF3bW5XNVhzeWljZ2VaX3FHamdKSHFwZ2NoZW01TW9ENVNGOUFOYjZhak1JblhEaWNlNkduQURRMFpBek5peFBvRkhPT21GY3hnRE9WcmlMMXRIZXlXZEFUUnR3TnNaTElIbHVKZmc4X1dsTHlFN0VyV3NrUGdkUW5oVGRGbGhNT3hNQTlTQklHaGV0U0hESGVvRG9DNFhzUGU5UVFvNmlBUzVBXzJyWE5STm9hTkt0MGtxMW9MYjB2NWZG?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng",
+    "thương hiệu",
+    "chuyển đổi số"
+   ]
+  },
+  {
+   "d": "2026-10-20",
+   "src": "Snap Newsroom",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "thap",
    "t": "Robert Downey Jr. Joins SPECS as Chief Customer Experience Officer",
    "s": "",
-   "w": "Diễn viên Robert Downey Jr. được bổ nhiệm làm Giám đốc Trải nghiệm Khách hàng (Chief Customer Experience Officer) tại công ty kính mắt SPECS, một bước đi marketing dùng người nổi tiếng gắn với vai trò CX.",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3lfWTV6R0JacVhXSU91aUxPaTAwN2tsWmJBR3RmNzhFb0hjZ2FtMmkyeUdHMV9ib2VnczZRaXZtOHFIbGlRYTVwWFVKekg2bFVLNFFMTUxqd1ctQnlhNGhSX0N2YjF4RTQtbkN6dXA5UFNmMW94cVQ2cGdrRzBCbUhWYjN3VTN1R3cxWW5mWG9URU8zc0JoRXJuXzl5T1lmX0tNNFBsV0psUjktMzgzUW5sb2JmSGQwbTBDVWdxZDFvc3R5UFRJ?oc=5",
+   "w": "SPECS mời diễn viên Robert Downey Jr. làm Giám đốc Trải nghiệm khách hàng, dùng sức hút người nổi tiếng để nâng vị thế thương hiệu kính mắt và gắn kết khách hàng.",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FZHA2SXJodHpCNU8zbHNBQ3JKbGZkUzR4V19ISTZUZ1hXcEtoaFBMQnZ3VU9ncTN3M3ZWZTlZVUdnS0hPc3hWRjY0aG9jMjFZTWV2WGpzcHY2dkpwNzlvUVpaTmVudkU2VmRValpZbw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -4295,7 +4366,7 @@
    "khoa": [
     "customer experience"
    ],
-   "y": "1 con số cần theo dõi là tỷ lệ chuyển đổi từ nhận diện thương hiệu sang hài lòng dịch vụ thực tế sau chiến dịch người nổi tiếng.",
+   "y": "Rà lại xem đại sứ thương hiệu có thực sự chạm vào điểm đau khách hàng hay chỉ tạo tiếng vang truyền thông ngắn hạn.",
    "wa": 1
   },
   {
@@ -4403,26 +4474,6 @@
     "retention"
    ],
    "y": "75 triệu đô la ARR do AI quản lý là con số cảnh báo: doanh nghiệp dịch vụ Việt nên đo tỷ lệ gia hạn hợp đồng mà AI xử lý được so với con người để tính toán đầu tư đúng chỗ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-20",
-   "src": "CX Today",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "AI Can Spot the Signal, Who Decides What Happens Next?",
-   "s": "",
-   "w": "AI có thể phát hiện tín hiệu cảnh báo từ dữ liệu khách hàng như than phiền, hành vi rời bỏ, nhưng việc ra quyết định xử lý tiếp theo vẫn cần con người phán đoán và chịu trách nhiệm.",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aX1lCbW5vMkZWTEZ3ekxJMzlNbkhTQmJodVJkVVV4OTVJNmd1Q0pBNVFlUVlyNGhTNmxqOXBweHItUnVXaVZ1RU9YekN4dGJoa0ZYU21oQ0JxelRPdWJQUzlnREVJQXZnNWZtMk1pU0M0QV8tdmFyTWtHZ0o?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ],
-   "y": "Cái khó không nằm ở công nghệ phát hiện vấn đề mà ở chỗ ai được trao quyền và quy trình nào để xử lý tín hiệu đó kịp thời.",
    "wa": 1
   },
   {
@@ -4751,107 +4802,58 @@
   },
   {
    "d": "2026-10-19",
-   "src": "Zawya",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Publicis Sapient and Schneider Electric collaborate to advance sustainable digital and AI service design",
-   "s": "",
-   "w": "Publicis Sapient hợp tác Schneider Electric phát triển thiết kế dịch vụ số và AI theo hướng bền vững, tích hợp yếu tố môi trường vào trải nghiệm khách hàng ngay từ khâu thiết kế.",
-   "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMGFVXzZiWElhcXVsVXlKWDdLVXZtQUQ4Ujd4ay1CVzVhNFRQWS1NMExfd1U1RWdlV0tBOERtckxmYnlMM3dfdFdyOUNXMUNNemgzcF9fRjd0RFl1MV9aeEQzU1pVVEJDS3k3a05iR1JLZlVOMFJBYmJUUng1Z1p5bTdFM3BDNGV3S1dTSl9VZU9jd0RLaUhBSndzOC1BX3R2QzdIbEJyQWN4TjZnUGYtdTZaV09FR1VVMm5NVHFJVzJLRXZHbnRXcVp0SWoyZjVweHRJbG82TXByRzItQ0RhNTEtYlpTNEYxZGdjbkdLV01jUDlKdlJ4YzBn?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "service design"
-   ],
-   "y": "Một chỉ số năng lượng tiêu thụ trên mỗi điểm chạm số nên được đo song song với chỉ số hài lòng khách hàng khi triển khai AI vào dịch vụ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-19",
-   "src": "Beinsure",
+   "src": "North Penn Now",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "ARX insurance customer loyalty NPS reaches 83.8",
+   "t": "Beyond Chatbots: How AI Agents Can Automate the Ecommerce Customer Journey",
    "s": "",
-   "w": "Công ty bảo hiểm ARX công bố chỉ số NPS (mức độ khách hàng sẵn sàng giới thiệu) đạt 83.8, cho thấy mức độ trung thành và hài lòng của khách hàng rất cao.",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVmczT1VvRklndURodVdVM25sUTkxejFfNWtSd2VJUENrNlJHUjZNbmthX1A0R1Q3MmFLeFZxOFF1dTRJb2xpeUJpMWYtQ0tEWkFPX05yU2w0VHVhMzBheFVlMEpXYWFOVXFiSUduOFhWbFNlMWlraG9yckhYZGM?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer journey. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd09zTW5YNXNFZTdBV2V6ZDVXVXFXVk0zMzdzYjNGclpOZUh2ZENhME1iMENMU2JpQVpIM0JnaDJjR2JpT0JVaDIya1VpSC0zZEZ3U3Z4UF9DaHg0ZHhGMDNBQzdHeE45Tl9uQjJ6b3cwQzhPaTY0OFpveUtJbXNneFg0aDNfOWpzem9vcHZMeVJNR1dCeDljWnVkaFo3WTZVdm44c05iT05OS2Zqb1VLTzRYOHg5QmIwYXRUejhBTQ?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer loyalty",
-    "nps",
-    "loyalty",
-    "insurance"
-   ],
-   "y": "Cái khó không nằm ở điểm NPS cao mà ở việc duy trì nó qua từng lần xử lý bồi thường, vì một trải nghiệm tệ lúc khách cần nhất sẽ xóa sạch thiện cảm tích lũy bấy lâu.",
-   "wa": 1
+    "customer journey",
+    "ecommerce"
+   ]
   },
   {
    "d": "2026-10-19",
-   "src": "TheIndustry.beauty",
+   "src": "Telecompaper",
    "hang": "Tổng hợp",
    "g": "tin",
-   "imp": "vua",
-   "t": "Kiko Milano revamps rewards to strengthen customer loyalty",
+   "imp": "thap",
+   "t": "Comviva and Aduna highlight customer journey APIs in Ngage platform",
    "s": "",
-   "w": "Kiko Milano làm mới chương trình loyalty (khách hàng thân thiết) nhằm giữ chân khách hàng tốt hơn, có thể qua ưu đãi cá nhân hóa và trải nghiệm đa kênh hấp dẫn hơn.",
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDgtcEpfNk1HWldDX3FORTRXN2FELUZnNktEcjdaQ051amlUWW90VXFWLUdjV1lndFNZc0tJZTJFd21ydHhrWlNMb1lrWWtablRuRlBwVURvYXRNa19XM0staV9FdzR4RnhmUUNhR2FHdTlrTExPQUFLZm9IT0pnVDlSUWRqR3VUVDRqZVpINA?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer journey. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDdZdUpOdGV3cFZuMU81QzYtd01LazBTVUpmUU15N05pTVlRRnpRWFcwWnc5Y2I2Mzc3SlZWck9kTGdaV1IwNVhNWThJajZraFFtdllFbjNnM2V1dkN5dm5HVVJCNWIzMHZVcGl2a2t5ZU1wSUxxTjFlNGpwd0dhNFBFUjVZU0RlU0J0VE5PMnBfQWZqMUVrdHFNc1FDVlB4Uy1WWlpxajVSQUF5bWdj?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer loyalty",
-    "loyalty"
-   ],
-   "y": "Rà lại cơ chế tích điểm đổi quà hiện tại xem có thực sự tạo cảm giác được ưu ái riêng hay chỉ là giảm giá đại trà nhàm chán.",
-   "wa": 1
+    "customer journey"
+   ]
   },
   {
-   "d": "2026-10-19",
-   "src": "Báo Tiền Phong",
-   "hang": "Việt Nam",
-   "g": "tin",
+   "d": "2026-10-24",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "thap",
-   "t": "BIDV Contact Center kết hợp AI và EI mang trải nghiệm mới cho khách hàng",
-   "s": "",
-   "w": "BIDV Contact Center kết hợp trí tuệ nhân tạo (AI) và trí tuệ cảm xúc (EI) để cải thiện trải nghiệm khách hàng, vừa tăng tốc độ xử lý vừa giữ sự thấu cảm trong giao tiếp.",
-   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUwxM2NTam5aT2hQX2NrTnZMUzF0WVhqVTFrNFo1TDFRU2UzNGlxQUtBVjQ3LXFMc293cmQ5Zi01azUwOHNhazA4U3BaeU1feTdpeHhScGNUcUh6SXVBLTh1cVlmNkd2SXY1OTk4X0toWktsQ0ZONlAwWUpudkhiVHlMSXZ3LUxMTmtpeWtKM0pfc1N3N2p2dlFUWDVERS04Um1XQUdWT3kzUnFOeWc?oc=5",
+   "t": "Adoption, NRR, churn, are we measuring three things or one?",
+   "s": "submitted by /u/MangalaSawant [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới churn. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xe6vr8/adoption_nrr_churn_are_we_measuring_three_things/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "contact center"
-   ],
-   "y": "Trước khi nhân rộng AI vào contact center, cần huấn luyện nhân sự tuyến đầu nhận diện cảm xúc khách hàng để công nghệ hỗ trợ chứ không thay thế sự thấu cảm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-19",
-   "src": "Cục hàng không Việt Nam",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Kết quả phối hợp tăng cường nâng cao chất lượng dịch vụ tại Cảng HKQT Đà Nẵng Hè 2026",
-   "s": "",
-   "w": "Cảng HKQT Đà Nẵng phối hợp các đơn vị liên quan tăng cường nhân lực, quy trình nhằm nâng chất lượng dịch vụ phục vụ cao điểm Hè 2026.",
-   "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMDJIcEZaZkxMeUdwRUcycVpvYTcwVnRUVG02Z2lGblpyOW1YZlpCWXotYjh4ODhyU2g5WVQ2Q2p5N3Z4UGV5WWJVUFI1QlFZQkM4S1prUFRqckNsSmltcktyQXZhdF9rOE9xVE9ScWxXRjZMRFdhVzNxSUdoRWZiR1FWdExMYm04MTYyMXFpU3pudVZnQjBUODRhYU02TzBQSHAwYlpWV3hpZkJpU3BjaGx5d0NNalVUcWlENUVNZ2FaWVJRcHV4bzZvU2I4eG16WG9qYXlyQUFuOVJxT3c?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ],
-   "y": "Tại quầy làm thủ tục sân bay giờ cao điểm, cần kịch bản phối hợp rõ vai trò từng bộ phận và điểm đo chờ đợi để tránh nghẽn dịch vụ.",
-   "wa": 1
+    "churn"
+   ]
   },
   {
    "d": "2026-10-24",
@@ -4894,16 +4896,35 @@
    "hang": "Reddit",
    "g": "thaoluan",
    "imp": "thap",
-   "t": "Groupon Customer Support is useless",
-   "s": "submitted by /u/GrouponMerchants [link] [comments]",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer support. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xdd6o2/groupon_customer_support_is_useless/",
+   "t": "Every Doubt You Create Adds a Trust Tax to the Buying Decision",
+   "s": "submitted by /u/chandraavinash [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xcsj84/every_doubt_you_create_adds_a_trust_tax_to_the/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer support"
+    "trust"
+   ]
+  },
+  {
+   "d": "2026-10-23",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Friday Vent Thread",
+   "s": "Welcome to the ✨Vent Thread ✨ This is a brand spanking new space to throw down your worst from this week. Too many clients? Throw down Client churn outta nowhere? Tell us Manager being a dick about your QBR? You better slap that below! We will actively watch and see how this goes - please be mindful of Rule 1 Give us ya worst! submitted by /u/AutoModerator [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới churn. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xdfaf3/friday_vent_thread/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "churn",
+    "brand"
    ]
   },
   {
@@ -4932,16 +4953,16 @@
    "hang": "Reddit",
    "g": "thaoluan",
    "imp": "thap",
-   "t": "Every Doubt You Create Adds a Trust Tax to the Buying Decision",
-   "s": "submitted by /u/chandraavinash [link] [comments]",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xcsj84/every_doubt_you_create_adds_a_trust_tax_to_the/",
+   "t": "Groupon Customer Support is useless",
+   "s": "submitted by /u/GrouponMerchants [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer support. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xdd6o2/groupon_customer_support_is_useless/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "trust"
+    "customer support"
    ]
   },
   {
@@ -5085,7 +5106,7 @@
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "thap",
+   "imp": "vua",
    "t": "Customer Success people using ChatGPT/Claude - do you save the workflows that actually work?",
    "s": "Curious how people are handling this. If you find a prompt/workflow that works really well for things like customer emails, call summaries, QBR prep, escalations or account research - do you actually save it somewhere? Or do you mostly go back to old chats / recreate it the next time? Interested in what people actually do day to day, not which AI tool is best. submitted by /u/Humble-Market-158 [link] [comments]",
    "w": "Bài thảo luận hỏi dân Customer Success có lưu lại các prompt/workflow dùng ChatGPT hiệu quả cho email, tóm tắt cuộc gọi, QBR hay không, hay mỗi lần đều làm lại từ đầu.",
@@ -5340,7 +5361,7 @@
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "vua",
+   "imp": "thap",
    "t": "About to be put on a PIP",
    "s": "In my last 121, my manager hinted that senior leadership is considering placing me on a PIP, though a final decision hasn’t been made yet. I’m a Sr CSM at a SaaS company that is struggling to hyper-growth. It seems the new sales team has been blaming various roles—not just CSMs, but also SCs, SDRs, Marketing, Partners, etc.—for their poor sales results. They’ve been pushing this narrative to our leadership and the…",
    "w": "Một Senior CSM tại công ty SaaS đang tăng trưởng nóng sắp bị đưa vào PIP vì đội sales đổ lỗi doanh số kém cho nhiều bộ phận khác nhau, không riêng CSM.",
@@ -6641,58 +6662,6 @@
     "process"
    ],
    "y": "Một chỉ số duy nhất như NPS hay churn rate không đủ, doanh nghiệp cần thống nhất nội bộ xem Customer Success đo bằng gì trước khi giao KPI cho nhân sự.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-08",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Customer Success or Support? I genuinely don’t understand the strategy",
-   "s": "I work in Customer Success, and by definition, my priority is proactive work and the strategic management of a portfolio of business clients, currently consisting of around 300 companies. As part of the reactive side of my role, I handle several dozen emails every day. On the proactive side, I analyse account health, prepare reports, statistics and training presentations, assess growth potential, and then reach ou…",
-   "w": "Nhân viên Customer Success than thở phải ôm 300 khách hàng vừa làm việc chủ động như phân tích sức khỏe tài khoản, vừa trả lời hàng chục email mỗi ngày như support, khiến vai trò bị pha trộn mất chiến lược.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x09f2r/customer_success_or_support_i_genuinely_dont/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer success",
-    "customer retention",
-    "retention",
-    "pricing",
-    "training",
-    "growth"
-   ],
-   "y": "Cái khó không nằm ở khối lượng việc mà ở việc gộp chung Customer Success và Support khiến người làm chiến lược bị cuốn vào xử lý sự vụ, nên tách riêng hai đội và đặt KPI khác nhau rõ ràng.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-08",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Case study examples",
-   "s": "Hi everyone. I made it to the second round of an interview for a customer success manager role. I was previously a team lead of 8 CSM’s for a mental health start up. I was a founding CS member and helped build and scale our team. With zero experience in CS before. I was hired as an onboarding/coach. Lots of mess and learning. I was there for almost three year during huge growth. I was Eventually was laid off 18 mo…",
-   "w": "Người quản lý nhóm CSM từng gây dựng đội chăm sóc khách hàng cho startup sức khỏe tâm thần từ con số 0, trải qua tăng trưởng mạnh rồi bị sa thải, nay xin lời khuyên làm case study cho vòng phỏng vấn tiếp theo.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1x04m87/case_study_examples/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "case study",
-    "case studies",
-    "study",
-    "studies",
-    "framework",
-    "results",
-    "customer success",
-    "churn"
-   ],
-   "y": "Ghi lại cụ thể một tình huống khách hàng rời bỏ dịch vụ, cách bạn can thiệp và con số cải thiện retention để kể thành câu chuyện thuyết phục nhà tuyển dụng.",
    "wa": 1
   }
  ]
