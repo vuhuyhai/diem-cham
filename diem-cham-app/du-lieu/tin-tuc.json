@@ -1,7 +1,7 @@
 {
- "capNhatLuc": "2026-11-08T05:31:22.009Z",
+ "capNhatLuc": "2026-11-09T05:59:31.633Z",
  "soTin": 330,
- "tinMoiLanNay": 15,
+ "tinMoiLanNay": 5,
  "theoNhom": {
   "case": 90,
   "tin": 150,
@@ -47,6 +47,26 @@
   "Hacker News · churn · retention · refund"
  ],
  "tin": [
+  {
+   "d": "2026-11-09",
+   "src": "CustomerThink",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "New study finds AI adoption surging across go-to-market teams, but revenue gains lag behind",
+   "s": "New Harvard Business Review Analytic Services research, sponsored by Seismic, reveals opportunities for significant AI upside in revenue enablement and real-time sales execution",
+   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research, study. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://customerthink.com/new-study-finds-ai-adoption-surging-across-go-to-market-teams-but-revenue-gains-lag-behind/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research",
+    "study",
+    "revenue"
+   ]
+  },
   {
    "d": "2026-11-07",
    "src": "CustomerThink",
@@ -1719,22 +1739,6 @@
    ]
   },
   {
-   "d": "2026-10-29",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Quantum Metric MCP Gives Enterprise AI Agents the Experience Context to Act on What Matters Most",
-   "s": "Any MCP-compatible agent can now connect directly to the most complete dataset for digital experience context available",
-   "w": "Case study Service Marketing. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://customerthink.com/quantum-metric-mcp-gives-enterprise-ai-agents-the-experience-context-to-act-on-what-matters-most/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": []
-  },
-  {
    "d": "2026-11-08",
    "src": "Arab News",
    "hang": "Tổng hợp",
@@ -1828,6 +1832,38 @@
   },
   {
    "d": "2026-11-07",
+   "src": "Nielsen Norman Group",
+   "hang": "Nghiên cứu",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Agent Harness: Definition",
+   "s": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+   "w": "Tin ngành hoặc nghiên cứu mới. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": []
+  },
+  {
+   "d": "2026-11-07",
+   "src": "Nielsen Norman Group",
+   "hang": "Nghiên cứu",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Usability 101: Introduction to Usability",
+   "s": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
+   "w": "Tin ngành hoặc nghiên cứu mới. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": []
+  },
+  {
+   "d": "2026-11-07",
    "src": "وكالة الأنباء السعودية",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -1917,38 +1953,6 @@
    "khoa": [
     "customer success"
    ]
-  },
-  {
-   "d": "2026-11-07",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Agent Harness: Definition",
-   "s": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
-   "w": "Tin ngành hoặc nghiên cứu mới. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": []
-  },
-  {
-   "d": "2026-11-07",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Usability 101: Introduction to Usability",
-   "s": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
-   "w": "Tin ngành hoặc nghiên cứu mới. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": []
   },
   {
    "d": "2026-11-07",
@@ -2058,6 +2062,25 @@
    "khoa": [
     "chăm sóc khách hàng",
     "tổng đài"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "src": "Nielsen Norman Group",
+   "hang": "Nghiên cứu",
+   "g": "tin",
+   "imp": "vua",
+   "t": "UX Conference January Announced (Jan 19 - Feb 1)",
+   "s": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. January 19 - February 1, 2026.",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "user experience",
+    "training"
    ]
   },
   {
@@ -2230,25 +2253,6 @@
     "report",
     "customer success",
     "measurement"
-   ]
-  },
-  {
-   "d": "2026-11-06",
-   "src": "Nielsen Norman Group",
-   "hang": "Nghiên cứu",
-   "g": "tin",
-   "imp": "vua",
-   "t": "UX Conference January Announced (Jan 19 - Feb 1)",
-   "s": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. January 19 - February 1, 2026.",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới user experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "user experience",
-    "training"
    ]
   },
   {
@@ -3829,24 +3833,6 @@
   },
   {
    "d": "2026-11-03",
-   "src": "Accenture",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Kbrw and Accenture Support Orange France in Modernizing Order Fulfillment and Enhancing the Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSHpmQWlmZTMwcjR4TDBWcVlqcUZaSXdkeUVpNGlyTks0N0xCelF2S2N6UjQ0Y1Q0MkpJN2hwOVJSZEExd0s3cExSUnRoRnZ3QlUxbloyd1lUMWR1bzV2LTliM2Q1ZnJWRlhGbms4T1ZRNTItM2x2dGhXSUpobkZrTEdJWEhnbEsyMkVYN193VUV4WEhZbXZwY29FTHVfa0xZbkFhQmQwMTBKengxSUVITlZISnRMSHl6ZHpkRTNFelRDNWpPTkZScGRXM2syMVBaQkdGazVnQ0FNSmNqUEcyeDM0S0xoT00?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-03",
    "src": "arXiv · service design · customer service",
    "hang": "Học thuật",
    "g": "tin",
@@ -3862,6 +3848,24 @@
    "khoa": [
     "framework",
     "customer service"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "src": "Accenture",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Kbrw and Accenture Support Orange France in Modernizing Order Fulfillment and Enhancing the Customer Experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSHpmQWlmZTMwcjR4TDBWcVlqcUZaSXdkeUVpNGlyTks0N0xCelF2S2N6UjQ0Y1Q0MkpJN2hwOVJSZEExd0s3cExSUnRoRnZ3QlUxbloyd1lUMWR1bzV2LTliM2Q1ZnJWRlhGbms4T1ZRNTItM2x2dGhXSUpobkZrTEdJWEhnbEsyMkVYN193VUV4WEhZbXZwY29FTHVfa0xZbkFhQmQwMTBKengxSUVITlZISnRMSHl6ZHpkRTNFelRDNWpPTkZScGRXM2syMVBaQkdGazVnQ0FNSmNqUEcyeDM0S0xoT00?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
    ]
   },
   {
@@ -4508,6 +4512,29 @@
    ]
   },
   {
+   "d": "2026-11-09",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "30/60/90 Day Customer Success Plan",
+   "s": "Hey yall - I have a unique opportunity to stand up a customer support function for a tech startup local to my area. I’m being asked to create a 30/60/90 day plan to start implementing on day 1. For background, I’m their first CS hire. They have an existing client base with both a physical product purchase and software subscription costs. I don’t have a ton of info outside of that, so trying to paint broad strokes…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer success, customer support, retention. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xr62h6/306090_day_customer_success_plan/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer success",
+    "customer support",
+    "retention",
+    "subscription",
+    "operations",
+    "growth"
+   ]
+  },
+  {
    "d": "2026-11-08",
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
@@ -4544,6 +4571,65 @@
    ]
   },
   {
+   "d": "2026-11-07",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Does disclosing AI involvement upfront affect customer experience?",
+   "s": "AI-powered customer support is becoming more common, but there's still an interesting question around how and when customers should be told they're interacting with an AI system. Article 50 of the EU AI Act introduces transparency requirements for AI systems that interact directly with people. These obligations apply from August 2, 2026. There's also an interesting finding from a 2019 study by Luo, Tong, Fang, and…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Có tín hiệu bằng chứng: research, study, experiment. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xpjhni/does_disclosing_ai_involvement_upfront_affect/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research",
+    "study",
+    "experiment",
+    "customer experience",
+    "customer support",
+    "customer satisfaction",
+    "cx",
+    "chatbot"
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Automatizaton vs Personal care",
+   "s": "submitted by /u/Ronyka_HU [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xq44k4/automatizaton_vs_personal_care/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": []
+  },
+  {
+   "d": "2026-11-07",
+   "src": "Reddit · r/smallbusiness",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Google Ads is impossible",
+   "s": "I'm starting a new business and trying to get google ads to work. It has been the most mind numbering experience of perhaps my life. Campaigns, audiences, key words, conversions, audience segments, affinities, assets, ...it just goes on and on. I'm not stupid. I have a PhD in physics. I taught myself how to do computer-aided design. Google ads is much more complex than quantum mechanics. The difference is that lea…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/smallbusiness/comments/1xps31g/google_ads_is_impossible/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service"
+   ]
+  },
+  {
    "d": "2026-11-06",
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
@@ -4562,25 +4648,6 @@
     "findings",
     "complaints",
     "b2b"
-   ]
-  },
-  {
-   "d": "2026-11-06",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Average montly cost for an AI Agent Assist solution?",
-   "s": "We're exploring a few different AI Agent Assist solution. I'm looking to try to establish a baseline cost for what the costs might be per agent per month. Would love to have any feedback from the community on what they are paying for this type of service. submitted by /u/thedevlino [link] [comments]",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xoooql/average_montly_cost_for_an_ai_agent_assist/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "ai agent",
-    "feedback"
    ]
   },
   {
@@ -4643,6 +4710,25 @@
     "customer success",
     "metrics",
     "process"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Average montly cost for an AI Agent Assist solution?",
+   "s": "We're exploring a few different AI Agent Assist solution. I'm looking to try to establish a baseline cost for what the costs might be per agent per month. Would love to have any feedback from the community on what they are paying for this type of service. submitted by /u/thedevlino [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xoooql/average_montly_cost_for_an_ai_agent_assist/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "ai agent",
+    "feedback"
    ]
   },
   {
@@ -4722,22 +4808,6 @@
    "hang": "Reddit",
    "g": "thaoluan",
    "imp": "thap",
-   "t": "CS Managers, what are you looking for in a CSM resume?",
-   "s": "Hi all! I would love to hear from CS Managers or anyone hiring CSMs, as I am currently looking to change companies. I have applied to a few roles but always get a rejection email even though I know I have the qualifications and experience. I am starting to think there's something missing with my resume but I'm not sure what. So what is most important to you ? What is a deal breaker if not on the resume ? Especiall…",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xogp1y/cs_managers_what_are_you_looking_for_in_a_csm/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": []
-  },
-  {
-   "d": "2026-11-05",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
    "t": "61% of CS leaders say AI already shapes headcount. NRR has been flat for three years. What are we actually measuring?",
    "s": "ChurnZero's 2026 Customer Revenue Leadership Study has a stat I can't stop thinking about. 61% of customer growth leaders say AI already factors into headcount decisions, yet net revenue retention has stayed broadly flat for three years. 81% say AI has cut manual work. Among teams that reduced roles, 52% put it down to AI absorbing the work and only 14% to budget pressure. But 63% have no consistent way to measure…",
    "w": "Thảo luận từ cộng đồng người làm nghề. Có tín hiệu bằng chứng: study. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -4753,6 +4823,22 @@
     "revenue",
     "growth"
    ]
+  },
+  {
+   "d": "2026-11-05",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "CS Managers, what are you looking for in a CSM resume?",
+   "s": "Hi all! I would love to hear from CS Managers or anyone hiring CSMs, as I am currently looking to change companies. I have applied to a few roles but always get a rejection email even though I know I have the qualifications and experience. I am starting to think there's something missing with my resume but I'm not sure what. So what is most important to you ? What is a deal breaker if not on the resume ? Especiall…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xogp1y/cs_managers_what_are_you_looking_for_in_a_csm/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": []
   },
   {
    "d": "2026-11-05",
@@ -4831,7 +4917,7 @@
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "vua",
+   "imp": "thap",
    "t": "CS future in AI era",
    "s": "Hi, I have a question for all of the CS practitioners since I've been feeling confused lately. What's your take on the future of customer success when AI is developing very rapidly? I work in a small Polish company (40 employees, 30 customers) and our CEO is constantly insinuating that all of us will soon be replaced by agents etc. I manage a small team of CS specialists and right now I do not feel threatened but…",
    "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer success. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -4923,28 +5009,10 @@
   },
   {
    "d": "2026-11-03",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "One bad review can point to several different problems",
-   "s": "Here’s a made-up example: “It arrived late, looked bigger in the photos, broke after two uses, and support never answered.” I’d split that between fulfilment, whoever manages the listing, product quality and support. Otherwise, “handle this review” becomes a vague job nobody really owns. The person reading and replying wouldn’t automatically get refund or listing-edit access in my setup. Who on your team follows u…",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xmhu0f/one_bad_review_can_point_to_several_different/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "quality"
-   ]
-  },
-  {
-   "d": "2026-11-03",
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "thap",
+   "imp": "vua",
    "t": "Micromanagement",
    "s": "I just need to know…is everyone else being micromanaged to death by their companies? I’ve been in Enterprise CS for 6 years managing commercials, and it’s never felt this scrutinized. My company is having great quarter after great quarter financially but putting a lot of pressure on CSMs. submitted by /u/spicy_nebula [link] [comments]",
    "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -4971,6 +5039,24 @@
    "khongPT": false,
    "khoa": [
     "pricing"
+   ]
+  },
+  {
+   "d": "2026-11-03",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "One bad review can point to several different problems",
+   "s": "Here’s a made-up example: “It arrived late, looked bigger in the photos, broke after two uses, and support never answered.” I’d split that between fulfilment, whoever manages the listing, product quality and support. Otherwise, “handle this review” becomes a vague job nobody really owns. The person reading and replying wouldn’t automatically get refund or listing-edit access in my setup. Who on your team follows u…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xmhu0f/one_bad_review_can_point_to_several_different/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "quality"
    ]
   },
   {
@@ -6137,95 +6223,6 @@
     "customer service"
    ],
    "y": "Trước khi triển khai chatbot, luôn thiết kế lối thoát rõ ràng để khách chuyển sang nhân viên thật khi AI không giải quyết được vấn đề.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-20",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How Do Customer-Facing Technical Success Teams Evolve in SaaS?",
-   "s": "submitted by /u/Maran606 [link] [comments]",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xakqqd/how_do_customerfacing_technical_success_teams/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "saas"
-   ]
-  },
-  {
-   "d": "2026-10-20",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "How Do Customer-Facing Technical Success Teams Evolve in SaaS?",
-   "s": "For those who’ve experienced a merger of technical and customer success teams, what typically happens? Who tends to lead the combined organization: technical or customer success leaders? And how do roles and responsibilities usually change? Interested in hearing real-world experiences across the SaaS industry. submitted by /u/Maran606 [link] [comments]",
-   "w": "Bài thảo luận trên Reddit hỏi kinh nghiệm thực tế khi hai bộ phận kỹ thuật và thành công khách hàng (customer success) trong SaaS sáp nhập, ai lãnh đạo và vai trò thay đổi ra sao.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xakqmx/how_do_customerfacing_technical_success_teams/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer success",
-    "saas"
-   ],
-   "y": "Trước khi gộp hai đội, hãy xác định rõ KPI chung và người chịu trách nhiệm cuối cùng về trải nghiệm khách hàng để tránh đùn đẩy khi sự cố xảy ra.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-20",
-   "src": "Reddit · r/SaaS",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "You didn't kill SaaS. You just invented a new form of unemployment.",
-   "s": "I swear, r/SaaS has developed a new type of unemployment. The full-time SaaS doomposter. I've been scrolling this subreddit all week and apparently SaaS is dead, AI wrappers are worthless, and nobody will pay for software anymore because everyone can vibe code now. Every day there's a new guy who discovered Claude Code last Tuesday, spent his weekend cloning Canva, open-sourced it, and now thinks he did humanity a…",
-   "w": "Bài phản biện làn sóng bi quan trên r/SaaS cho rằng AI khiến phần mềm hết giá trị vì ai cũng tự code được, tác giả cho rằng đó chỉ là ảo tưởng nhất thời của người mới học công cụ.",
-   "u": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer journey",
-    "onboarding",
-    "subscription",
-    "saas",
-    "brand",
-    "trust",
-    "revenue",
-    "growth"
-   ],
-   "y": "Ở một phòng khám, phần mềm đặt lịch rẻ không quan trọng bằng việc nhân viên lễ tân dùng nó trơn tru để không làm khách chờ hay nhầm giờ.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-19",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "vua",
-   "t": "CX / VoC professionals: How do you stop monthly Voice of Customer reporting from becoming a tick-box exercise?",
-   "s": "I work in Customer Experience, and we run monthly Voice of Customer (VoC) sessions where we review insights from multiple dashboards and identify actions to improve customer experience. I’m trying to understand how other organisations make this process more effective. A few challenges I’ve noticed: Every month, we’re expected to identify new actions, but there isn’t a consistent process for tracking previous actio…",
-   "w": "Một chuyên viên CX hỏi cộng đồng cách tránh để báo cáo Voice of Customer (tiếng nói khách hàng) hàng tháng biến thành việc làm cho có, vì thiếu cơ chế theo dõi hành động đã đề xuất trước đó.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1x9t4u6/cx_voc_professionals_how_do_you_stop_monthly/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "voice of customer",
-    "cx",
-    "process"
-   ],
-   "y": "Ghi lại từng hành động VoC vào một bảng theo dõi xuyên suốt nhiều tháng, bắt buộc báo cáo tiến độ cũ trước khi được đề xuất hành động mới.",
    "wa": 1
   }
  ]
