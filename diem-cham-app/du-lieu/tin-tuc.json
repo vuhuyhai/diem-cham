@@ -1,7 +1,7 @@
 {
- "capNhatLuc": "2026-11-10T06:54:30.691Z",
+ "capNhatLuc": "2026-11-11T05:39:48.803Z",
  "soTin": 330,
- "tinMoiLanNay": 52,
+ "tinMoiLanNay": 48,
  "theoNhom": {
   "case": 90,
   "tin": 150,
@@ -48,6 +48,101 @@
  ],
  "tin": [
   {
+   "d": "2026-11-11",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "cao",
+   "t": "Just 4% of Customer Service Leaders Hit Their Expected Automation Returns",
+   "s": "CMSWire reported from Gartner's service conference in Aurora, Colo., where the data showed agent cuts outran AI results. Some leaders are already rehiring. Continue reading...",
+   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: results. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.cmswire.com/customer-experience/just-4-of-customer-service-leaders-hit-their-expected-automation-returns/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "results",
+    "customer service",
+    "automation"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Shep Hyken · Customer Service Blog",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Are Your CX Decisions Based on Assumptions? with Stefan Thomke",
+   "s": "This episode of Amazing Business Radio with Shep Hyken answers the following questions and more: How can businesses use the scientific mindset to improve customer experience? Why should customer service leaders test assumptions before making major business decisions? How can companies identify which customer experience improvements increase conversion? How can businesses build a culture that encourages experimenta…",
+   "w": "Case study Service Marketing. Liên quan tới customer experience, customer service, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://hyken.com/amazing-business-radio-show/are-your-cx-decisions-based-on-assumptions-with-stefan-thomke/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "customer service",
+    "cx",
+    "culture"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Adobe Embeds Agentic AI Into GenStudio With CX Enterprise Coworker",
+   "s": "CX Enterprise Coworker brings conversational agent orchestration to Adobe's content supply chain. Continue reading...",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.cmswire.com/customer-experience/adobe-embeds-agentic-ai-into-genstudio-with-cx-enterprise-coworker/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Zingtree Debuts Governed Agentic AI for Contact Centers",
+   "s": "New platform pairs deterministic rules with AI reasoning to give regulated CX teams auditable control over autonomous agents. Continue reading...",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.cmswire.com/contact-center/zingtree-debuts-governed-agentic-ai-for-contact-centers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CMSWire",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Governance Last Is Why CX Programs Stall Before They Deliver",
+   "s": "CX maturity models save governance for the final phase. By then, customer signals are piling up with no one empowered to act on them. Continue reading...",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.cmswire.com/customer-experience/governance-last-is-why-cx-programs-stall-before-they-deliver/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
    "d": "2026-11-10",
    "src": "CMSWire",
    "hang": "Chuyên trang",
@@ -88,6 +183,63 @@
   },
   {
    "d": "2026-11-10",
+   "src": "UX Collective",
+   "hang": "Thiết kế dịch vụ",
+   "g": "case",
+   "imp": "cao",
+   "t": "Every new medium gets called cheating",
+   "s": "How a machine I didn’t trust taught me to be bad at things again. Monet’s Impression Sunrise would not have existed if someone hadn’t invented the right medium ( Source ) I was a skeptic. Let the record show, I too, was against it. When Ted Chiang wrote in The New Yorker that AI isn’t going to make art, I felt vindicated. I forwarded it. To people who had not asked (sorry). His point was that art is the sum of tho…",
+   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: report. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "report",
+    "customer support",
+    "trust"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Microsoft D365: The Contact Center That Learns with Your Business",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx, contact center. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUg0aWNKN0h0T3labnlNY0VIQVBTdm9fVXhiSUtRcjVxYl9qVFlUTTNsOWN2WVpIUy1abjRleTdfLWN5bXdURzJkSF9IcFVnWVZ4YUtWeUdudXZVeGprc1RsRDFFVElYbFVLZkk2VmdYcUk5a3N5TmZjTm9aTU5XNXBRVDlndm9XNGR6VXFIODRNelpCQXZF?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "contact center"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Buyers Face the Customer Data Challenge Behind CRM's AI Race",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TOC1xQ3RhOGJ2R045cTlfZFUyTHVaM3B6eUdUeVQyQ3dpaEF4bENlVjVkM2pzTDl5QzQ4ZTFrU2RFTDVBZWEtV3JOR3BXZUE3VVR2OGRBcVhGcEZQdWRwVEFkWFp3OEF0WUNFdTNOWHZWbnBhRFE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
    "src": "CX Today",
    "hang": "Chuyên trang",
    "g": "case",
@@ -110,10 +262,65 @@
    "hang": "Chuyên trang",
    "g": "case",
    "imp": "vua",
+   "t": "What Businesses Must Fix Before AI Agents Do the Shopping",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc4aW1QdjR1QWVwaEdDRXF4Vk1tb0s2dEVmQWU3T1U2U3pPQXJQZjJSUmdoNFBmSmlWcHJQaTZHRWV4WVZ6U2Nra2hsQUJYd3lxNm9pSnNORndyM0pQQmlLSXJpX0U2bXp2NVBzUGVjcGg0YWI3NWxuN0RRMnBqVUY2VQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "How a Teams-Native AI Receptionist Makes Automation Feel More Human",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXBqZHB6MUs1STBRVUdCdzBSU2RqSDNEMlJUYXVWZ0VYS3ZNeS1YYktkSXo5TUVNYzhnc3N1YWt2Tjdmam55LWlFMVFUMXBnc1JtV2gyZGN2dmstLU9sRmVRRFFxMlZBbGlmRnZnY3N6RE5GV29QRkJ5OUwyRmdPaGc0YWV0NWZoWjhwdHBKcTJPbHNKYWFBR0UwaHhuYWYwck9YZWRB?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx",
+    "automation"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
    "t": "Would You Let AI Do Your Shopping? Only 13% Would Hand It All Over",
    "s": "",
    "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UzhTWnFZWGVNVHF3R0xVTHR6LU5UYlRxRlV6TTdSdkJIWEpNU2dUdjY2QjFPMGg4OW1iWTRvRlRPdTB4dGNjSXVwYXh3TjJaUVZUMFF6Ym52dGFOREVTNE42V3NrSmh3OGc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "CX Platforms Push AI Closer to Enterprise Execution",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Vi1PekhQOUZTZHI3NEZNczR5RGJ6Tm1jelYtQ0JUd05EeDlqRWU2LXYtVkJPUjZETXlLcG5QLV9hNDVpVzFISkc5TUFVLVkzNGJ4b1pjMWRxZ1Uyekc4cGNfRTMzX2dFeXhtWjY0d282dGpXSENsTkRybw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -187,30 +394,10 @@
    "hang": "Chuyên trang",
    "g": "case",
    "imp": "vua",
-   "t": "Beyond Customer Support: How CX Can Drive Engagement and Retention",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới customer support, retention, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVlYZVVKMXcxR1UwS3NJc09LdlB4b2xCX09fY0NHLWF0TkFNQ1JBX2lZYlpkd2xqeWZaLVZZRl9oSkE0M1g0b01RcmJ6OElPcjFlRTZSai1pdlZYS090MnJ5ZldsMGNJVm1YYjlROG94X2k3eF9TT01DYktGSjNCQ2c2aXdRUTRDR0Fja1hn?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer support",
-    "retention",
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "CCW UK Executive Exchange 2027",
+   "t": "Average Handle Time Rose and Nobody Complained. Here's Why",
    "s": "",
    "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83czNHMjRnbG1LZlZlTk9nUVNhaDFnQVM3VnQtd1pPRlVMWHdCUkg1VkNqcngyRGR5dHlGNDZBNzcwd0hvbGhYalNHUjRjaHMtMmNSdFRQeWdtWThZWGxDbTJWUFZwdFFN?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qblNvLWQwdm1oZkJIelpsWFlKa0lZRmtFbUtsRE9OTktQRVZmLUtHWW9MSWkwNHRWM2hBamlrQ0tfeEg2amcxTFh4RDBud2tROXVrcTJaQWdUVlZPRWlaMDduRmtjeF9vTmlRTE9iLXdsaWZzVVFF?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -243,10 +430,30 @@
    "hang": "Chuyên trang",
    "g": "case",
    "imp": "vua",
-   "t": "Average Handle Time Rose and Nobody Complained. Here's Why",
+   "t": "Beyond Customer Support: How CX Can Drive Engagement and Retention",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới customer support, retention, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVlYZVVKMXcxR1UwS3NJc09LdlB4b2xCX09fY0NHLWF0TkFNQ1JBX2lZYlpkd2xqeWZaLVZZRl9oSkE0M1g0b01RcmJ6OElPcjFlRTZSai1pdlZYS090MnJ5ZldsMGNJVm1YYjlROG94X2k3eF9TT01DYktGSjNCQ2c2aXdRUTRDR0Fja1hn?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer support",
+    "retention",
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "CCW UK Executive Exchange 2027",
    "s": "",
    "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qblNvLWQwdm1oZkJIelpsWFlKa0lZRmtFbUtsRE9OTktQRVZmLUtHWW9MSWkwNHRWM2hBamlrQ0tfeEg2amcxTFh4RDBud2tROXVrcTJaQWdUVlZPRWlaMDduRmtjeF9vTmlRTE9iLXdsaWZzVVFF?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83czNHMjRnbG1LZlZlTk9nUVNhaDFnQVM3VnQtd1pPRlVMWHdCUkg1VkNqcngyRGR5dHlGNDZBNzcwd0hvbGhYalNHUjRjaHMtMmNSdFRQeWdtWThZWGxDbTJWUFZwdFFN?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -641,31 +848,6 @@
   },
   {
    "d": "2026-11-06",
-   "src": "UX Collective",
-   "hang": "Thiết kế dịch vụ",
-   "g": "case",
-   "imp": "cao",
-   "t": "Berrypicking still beats the single answer for search, even in the world of AI",
-   "s": "A searcher moves through scattered sources, collecting one useful piece at each stop. In 1989 Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her ideas explain what AI still misses and what is still relevant from research done 47 years ago. Much of what product teams are learning about artificial intelligence search, an information scientist wrote down before the web existed…",
-   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research, study, report. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research",
-    "study",
-    "report",
-    "findings",
-    "results",
-    "user experience",
-    "automation",
-    "feedback"
-   ]
-  },
-  {
-   "d": "2026-11-06",
    "src": "CX Today",
    "hang": "Chuyên trang",
    "g": "case",
@@ -698,6 +880,31 @@
    "khongPT": false,
    "khoa": [
     "cx"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "src": "UX Collective",
+   "hang": "Thiết kế dịch vụ",
+   "g": "case",
+   "imp": "cao",
+   "t": "Berrypicking still beats the single answer for search, even in the world of AI",
+   "s": "A searcher moves through scattered sources, collecting one useful piece at each stop. In 1989 Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her ideas explain what AI still misses and what is still relevant from research done 47 years ago. Much of what product teams are learning about artificial intelligence search, an information scientist wrote down before the web existed…",
+   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research, study, report. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research",
+    "study",
+    "report",
+    "findings",
+    "results",
+    "user experience",
+    "automation",
+    "feedback"
    ]
   },
   {
@@ -798,6 +1005,42 @@
   },
   {
    "d": "2026-11-05",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "Can Salesforce Win the AI Front Door Inside Teams?",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EZkduWUhVaHAzaVJwc1k5UXVGT3IzaWJMZWx0ZF85Vm1aQXFCcXRtbVcwcEY1VXpxUjdlVGdrY3lKdXVvQ2VuaEgzd1YtR2lWQ1pkVTJ0ejFZTHpWdWprWDlXSm9YbVViYnMwUjVaV0FKU1l0cUc2cA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "src": "CX Today",
+   "hang": "Chuyên trang",
+   "g": "case",
+   "imp": "vua",
+   "t": "The Experience Gap is Widening: Can AI Close it?",
+   "s": "",
+   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlVlpkdGhhWUhnbzg4RlJaUEFLYkE3UXZrODJtQzI1ZDlrN25oX3VCcWNHcktHbV9rWGo4UFlKVjhTTEJWZjkzRzlSNFY0X3NRRnJ4NHVQT2NEVG1mM3dYUWdFZ3ZjZlZBOUZjU2JRbVRPS1JS?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-05",
    "src": "UX Collective",
    "hang": "Thiết kế dịch vụ",
    "g": "case",
@@ -827,46 +1070,10 @@
    "hang": "Chuyên trang",
    "g": "case",
    "imp": "vua",
-   "t": "The Experience Gap is Widening: Can AI Close it?",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlVlpkdGhhWUhnbzg4RlJaUEFLYkE3UXZrODJtQzI1ZDlrN25oX3VCcWNHcktHbV9rWGo4UFlKVjhTTEJWZjkzRzlSNFY0X3NRRnJ4NHVQT2NEVG1mM3dYUWdFZ3ZjZlZBOUZjU2JRbVRPS1JS?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
    "t": "How Sales AI Can Capture Value From In-Person Meetings",
    "s": "",
    "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOGRFNkxQWUkyZXJnZUdWOHQ1dm1YT2UwZXJTbFJYUVk1NHZPOGdxZWMzZTEtMEpPVXFnNlJtREF0enVQSjFsa0FDVDF0RWpUUmM3SVdsVGtnS205OHNReGhRRFVsY3lkeHlYUGoyNjU2YTA4dTl0dzFjWE9DUnc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Can Salesforce Win the AI Front Door Inside Teams?",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EZkduWUhVaHAzaVJwc1k5UXVGT3IzaWJMZWx0ZF85Vm1aQXFCcXRtbVcwcEY1VXpxUjdlVGdrY3lKdXVvQ2VuaEgzd1YtR2lWQ1pkVTJ0ejFZTHpWdWprWDlXSm9YbVViYnMwUjVaV0FKU1l0cUc2cA?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -1543,186 +1750,70 @@
    ]
   },
   {
-   "d": "2026-10-31",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "AI Security and Customer Data Risks Feature in Big Tech Results",
+   "d": "2026-11-11",
+   "src": "CSP Daily News",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Seven & i's 2030 plan centers on core objective: Elevated customer experience",
    "s": "",
-   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: results. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzNveW4yTDctYkVTNS1QZ1dJelR0R2ZPWlRCOE1xY0dPejAxSDBMT1lKNExjclA4T0QyTXdSWmZnNTJFYWhjUjFld01BVVhqWkNjR0dJYUhyejlRRkFob0I0Zkw0SGt4Sk45UlhDX0FkT2lTY3FHTHZSbWV5U05CR3hfelZJM0k4cG9j?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkxHMHpzNklUWE1hLS1Xd1EtUzlUQ3BUTlVBQ0czMXVBUFJtV0pjSzRHOVRzYkFWVDJneWc1dEhhamVsRHNUODQ5ejFwZlA3SGVaOFp2S1hkdG1xeXBUcmxXY0JPTVBjQ3pwdE1RWmRLZWdNTlROSHp1dDZGUlB1elpuQ2VMc1J1NGVIWXF2WDZqb0hBY1E1QWRHSkQtX2ZtWnBMTmRSM24wT2dPNEE?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "results",
-    "cx"
+    "customer experience"
    ]
   },
   {
-   "d": "2026-10-31",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Service Management This Week: The Bills Come In, What's Changing?",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ0lCdlJjQ29SckRyOWRrUGNGaXNvdTlFWXZoQmhoOWNHcnRfWXd2LXRHc2hGOXExVnlIaVctSk1SLVo0UlBoOUdqNlhIN2t3NUVKRFN5MThsZEY5R2E1bG4yU3QzQThVckZMUG84OGpnVE1k?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "cao",
-   "t": "Insights Curry Launches AI Ecosystem to Turn Consumer Research Into Everyday Business Decisions",
-   "s": "New AI products help teams reuse past research, gather feedback through AI-led chats and turn business goals into automated workflows",
-   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://customerthink.com/insights-curry-launches-ai-ecosystem-to-turn-consumer-research-into-everyday-business-decisions/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research",
-    "feedback"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Stellantis Selects Amperity to Power Trusted Customer Context and Personalized Experiences",
-   "s": "Amperity will enable Stellantis to recognize customers across brands, households and vehicles to deliver relevant experiences in the moments that matter",
-   "w": "Case study Service Marketing. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://customerthink.com/stellantis-selects-amperity-to-power-trusted-customer-context-and-personalized-experiences/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": []
-  },
-  {
-   "d": "2026-10-30",
+   "d": "2026-11-11",
    "src": "CMSWire",
-   "hang": "Chuyên trang",
-   "g": "case",
+   "hang": "Tổng hợp",
+   "g": "tin",
    "imp": "vua",
-   "t": "What Are Contact Centers Actually Doing With AI?",
-   "s": "2026 earnings reports from CX vendors show customers buying AI one narrow job at a time, starting with voice self-service and call analytics. Continue reading...",
-   "w": "Case study Service Marketing. Liên quan tới cx, self-service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.cmswire.com/contact-center/what-are-contact-centers-actually-doing-with-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "self-service"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Can AI Make Shopping Easier Without Taking Control?",
+   "t": "Just 4% of Customer Service Leaders Hit Their Expected Automation Returns",
    "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kaTJXaFBVb1lIa2NSb18wMmhnRjc3dVJJNmJZdFF4Z3FfcHRLZlZKUWNXRFJxVnNaUUFRNGxoUXhqSUtrMDd3OERyTGlsYjBsZjZyQ1RweGFxRE5iQ3BjY0E5N015Y0swNHhpTmtwV2dlM00zU2dtanpR?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2hIVWpDSGo2ZnY1MUpLWTM3UlpOVDdwUV9LMkxLNEZwVzVJNDNXcGVMR1JmVHU1bUVZdi1VQTRSX3NVdmFlZlRTYXNlNllzanhrVmRuYURSLXN2Q3Q0eHM2eUoyWWp2akstZHRYYmJQczQ0eTJsc1pHQ2NGUnFTdldCU2M4VlZ3bEN5NncwQ0VmbEN0LWVLRGFpZmk2T18xT1pickFKaTQ3V2xDa1pfYTZULTltdzVp?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "AI Recommendations Could Be Losing You Customers",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zdjhmLWRaU3VoMVFVU2VHZ0xzcFRJZDA0OFZUenM1MEpVTVN1aDl5RXprMldBQjFvOW5pZmQyOVpqVWZtdlVfXzBXTTExMnVCQTVhazF0a2NkeHdmaGlHUnkycFN1SzBVb2ZsQjZLZFJEdE9tSzRR?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-10-30",
-   "src": "CX Today",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "AI Behind Critical Moments: How Automation and Humans Work Together",
-   "s": "",
-   "w": "Case study Service Marketing. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVB4NGx4d1FjUEc1YWt2ZVlsOE5raFJITEJGWmQwRW5pQUlhWEx0cDRZTlVfN3lyeWVZV3JaTlNyR1hWVVBsMURwVGhublVKOGh6d3FKRGdhSkUtc1BiRVF5MWFXeFRUd3VsWGxobmhpeHBUZDA5UUhFZWF0R0NBQm1xVjVEWGlsNVRpX1h1SEJhR1o2NDdUaVJ0Sm1wdjNHa2VjZzJ2NHQtUQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
+    "customer service",
     "automation"
    ]
   },
   {
-   "d": "2026-10-30",
-   "src": "UX Collective",
-   "hang": "Thiết kế dịch vụ",
-   "g": "case",
-   "imp": "cao",
-   "t": "The people using AI should set its strategy",
-   "s": "A researcher checks a generated synthesis against her own interview notes while a stack of vendor contracts sits unopened at the edge of her desk. Practitioners know what good output looks like and should own the final call, with operations handling the plumbing. Picture a researcher who drops 12 interview transcripts into a synthesis tool and gets a tidy theme and quote. She ran six of those interviews, so she kn…",
-   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research, study, survey. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+   "d": "2026-11-11",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Retailers hired fewer holiday staff this year. How will that impact in-store CX?",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWZ5UVZNVE9FNjVCcWxUeEFrNVo3a1pQM1NXTFpEWXZyUEs3bVladGpzWDBCMnNEM2xSODdueXRXMjB5ckhydkJfcmNXU0huSWNyX2x2cjdlTlZFU0pIWm5wRWJYcE1uajhRTlQ2M1c4V1lRRTNBOE94Ri1uYWVkLUI2S1JSTEttTHVVN0tXcEhiZm9ZaUtOSXZONVFsbVA1YkNrWHpZVkc2QTZEa0kxLU54RXFWbFE?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "research",
-    "study",
-    "survey",
-    "benchmark",
-    "roi",
-    "results",
-    "user experience",
-    "pricing"
+    "cx"
    ]
   },
   {
-   "d": "2026-10-29",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
-   "imp": "vua",
-   "t": "Airship Announces Next-Generation AI Capabilities to Deliver the Right Customer Experience in the Moment",
-   "s": "Introduces on-device decisioning AI and zero-copy data integrations with leading data warehouses to unite customer profile data with live context",
-   "w": "Case study Service Marketing. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://customerthink.com/airship-announces-next-generation-ai-capabilities-to-deliver-the-right-customer-experience-in-the-moment/",
+   "d": "2026-11-11",
+   "src": "StreetInsider",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Regula Wins 2026 CUSTOMER Experience Innovation Award for Making Identity Verification Faster and Easier for Users",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc1dHem9qaU5qeWMyTWQyejZYX1B5RzNXeXBKQmJUbm9BT3VKMXlobjgwVnh4YUVIVDlmLW9Eb3NsbXhiLWpaV2NnVVhTQmg5WlRTcWJtU2p0X2pIQWc2UDg2X2Vlb3R0NzJ4dlZENXl3RE83MC1Ka3ZtMmpqc3ZibThFLTNRUGp3b1piaE5xck4tb2VlVHRpa244aThzUDlvTzFjcTNYY3BmN0Fld2Yyak5qeGlGcjRwcHF6WVlPS0E3V2JXdml0S0JNQVR0cEY1eThxYlF5SDYzcUwtdlphN3pvOVRsNnVOZGxxb3NlZkNkYnhfRUd4T29lWlROTVlfRGc?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -1732,39 +1823,170 @@
    ]
   },
   {
-   "d": "2026-10-29",
-   "src": "CustomerThink",
-   "hang": "Chuyên trang",
-   "g": "case",
+   "d": "2026-11-11",
+   "src": "kpmg.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
    "imp": "cao",
-   "t": "More Than 1 in 3 Americans Have “Faked It” to Stay Competitive at Work, New Addison Group Research Finds",
-   "s": "93% of working and job-seeking Americans say building a career has gotten harder in the past five years",
-   "w": "Case study Service Marketing. Có tín hiệu bằng chứng: research. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://customerthink.com/more-than-1-in-3-americans-have-faked-it-to-stay-competitive-at-work-new-addison-group-research-finds/",
+   "t": "KPMG recognized as a Horizon 3 provider in the HFS Horizons report: Customer Experience Services, 2026",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: report. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXJxdVMxcjl2RXVJN1J5SE4yaHVpWl9DM1R2OUFJeXp4aVJTcUVEbTRkVGpCYV80enJ2bzFESjhvODJzN3FYS2VlNnNJVkN4S2k1VkV1TUc1d3lzWl96cjgtTk10MU9GX2xuOWdaUi16b1lubk1nTjhrdWpZbzR5WVhEZWFWOHhSYmFYNVNETmF1dUh4ZUd3a0VDMmhRRnNXWWpWSllFZkV2LUR3NWkwdDZvZWZBR2ZiOFVTTkNIMUQyaUJuSWtR?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "research"
+    "report",
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Airbnb reduces customer support cost per booking 17%",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer support, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWllZX1ZkVFg1VTlwMnk2YVl0MVFmTVloQ2ZTUHdlSXlWLXhwRXdHZFNxLUtNZmZrdFZMLUVIMUs3YWhaSGtVYWE3cEJfWUlxTVpTWmQ5YVJScWxZSm9oV2JtTVRONFZaNXJuS3RTcEtwVFd1UVdGelNOUmNoLW9sNXQwV0FiUThHMFkzZEJRaG41OG0zNjA5cmVkWmxINkItY1d4M3pB?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer support",
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "src": "Tribune Online",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Globacom unveils Glo Café 3.0, introduces AI assistant Gloria to enhance customer experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1F6Q1U1ZW5kVTFiQ1E4QWdTMWlJMnFaOF9fOGNscGxwME9jTi0xdVFWRXhQanFURUVwTUM1ZWY3Q0VCU1lvTGZua3FwS2FuUVRBN3J1T1hyTTUyWG5aYmFMR1ZzbkdPNTlMRi1RYjY4dGJ0bDZJNVlTbkJoTVRXaTVIMGZzb01IMmlTMkU3T0p6THlmcFRjbWVZQkZoZnFmLVUxbGxkVWp3Y2R3M0kyZFJNYV9KVGFUMG55dQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "src": "Thuonghieucongluan.com.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "HTX Vận tải ô tô Tân Phú: Phát huy sức mạnh hợp tác, nâng cao chất lượng dịch vụ vận tải",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDB4Z3BoRFFXQlhkS1pWY2hMb1VfNy1PMXZFVXZZamhheC16WDIyRG9ZaWhLM0p1dEVBS2JwV2tqRy1mTTlLQ3hsR255RmhXX2VoVGRNeWZwdjZFQXFXbzVFMHJ4SkVta0NmcEpfVzZ0Q0NUWWNFSU1jS1E2TEJobUtkX3p2Vk9TaTFpQnlxbHdxcHNuanJiSjJVdUc1V1B4V1NZa3dBbGdrbW1pdldBYk03alczQTNLNHlEX2JpbXZmTnFiVE1JWjIyQ1NTZw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
    ]
   },
   {
    "d": "2026-11-10",
-   "src": "VIA Metropolitan Transit",
+   "src": "Bain & Company",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "thap",
-   "t": "VIA unveils new technology for improved customer experience",
+   "t": "The Rebirth of Customer Success",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer success. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ybnVwVjNRVkkzZEtwbXNFbW50a01aUWFNY1VxdkhpREgyUmFjN2I3TGpFSVNVLTRRb2lJbkFxdWlRN2hlSmtuN2FKRjFhMDlnaGJYbTBWd1EwWkN0cUludDd2UUx6cGtuUXJBVlp6dw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer success"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Morningstar",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Orvera AI Named Highly Commended for CX Transformation of the Year at the CX Awards 2026",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVlhKQkZLOHk2WUNQSlUzZzZLMjgzZlFOdGtzSk9oLUNtNXlwMTVuQUJTZzk4VVBraXRrYVB0X3M1a3UyN09YU0FfU0lLLU5ISTJXMUFiUFBMZjNXVmxzNVZSUjVmUXpEUjkxZDFnWEJQVmZrLTZobVd5LTFqRGNKR0VVYnlOZHBWek4wSmZEV1Z3TzI3eHpiMlp3UmJoeW5ycFZYR0tNRGc3QWtOa0pnVkJfcmpYNWVFLS1qSHdOeWxvNmRaSHJiWUpkTjRsb2tEWTlZb2xsX0MzbC1nclRqNy1HYkI?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "VentureBeat",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Orvera AI Named a Major Contender in Everest Group's Conversational AI and AI Agents in Customer Experience Management (CXM) Products PEAK Matrix® Assessment 2026",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlBfZTYxamhHa2k0V3F3Vkkzby1VdE1DQ3JCV3NJVmFfd0FpUTJ2dnJRMHdONUk5TDVtV3c0UkMtSzlNMVc2ZmlxMkNueTlCNG4wWDF4bE01RmFhQ2x2Vmp3c2dybXJmZEFLSlROMkZVc2k3X1JCNjkxSHNiQzdVZGNvUFh5YU05ZVZnX0xFb09neGM?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPT19aRWFTYTZZaHZDOFRmTzdSTUxRaURRQm9SZmU3MlFoa2loNnRldEVOQUxXUVNuaFE3aXMzV2JmQ0REWUNzUnNqc1pkYmVhMGJyWnl6dDdRa3dMdTVvRmJmVEliNFRENWpRREdnb0ZWZ2IwNEIwa3NDSWlHUXVheldVYlB4UEhxS0FCcUdpU2JvYTFXMU85MnFhX1draDdJQ0daS2RWN2U2cXNGZ1hhOWdBaF8xb3Z2UE1mNU45Y0k0c1J3cE84UnJram9JOXVhcXBaVGMzQkg1RzlRc1VyUEpnX3pqeTRGX1JEbUw3OVF2RHpLalU0TGdpOUdoeGhLWk1IeUNBajZ6WTFiYlplNjhkMzBweGFtWnF3?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
     "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Automotive News",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "London dealerships turn customer experience into a growth engine",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckU0Yl9FSS1QalpPdjRSTVlKekUyVEU2dXptYjA4MTMxZTlQT0dNTkNsVkhEY2NsY3pZVEU5MWIySElZUzg3VVhyc2RST0Y5M1pmeV84ZnBZMnNJNXgzTV9fNXVlRUxyNkxJZlRqdl9tVUtzMzFnNlZ1YklqVHNvcmtTUElkdTNqY0E?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "growth"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Why delivery choice belongs in your CX strategy",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience, cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXlqTDc0MG12VTNMY0F6WTE1SnhNTTdrdWVWMlIyaWFYaWh4a1BQb0ZGc09YVzRQNWxaRWtXckQxMG1RcFR3U2ZjSWFaWnoyODBhUllCZkszd1VuRlVqRDZJUFd0cXdsQnlqV1BwaThKTmtCMVdXWVRtNEFETlpBZV9nbmsxc3Zma2E4V1FKaUdBM0FSTUtRaHlCZw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "cx",
+    "retail"
    ]
   },
   {
@@ -1783,6 +2005,64 @@
    "khongPT": false,
    "khoa": [
     "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Costco reports double-digit October sales growth",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXdORGFfeVFPZTBlMWhJdmNMajN2WExQMFVuc1g1MmZvR0FQQkVETm5CcWdGV3RjXzBIRGs2cDBtZE96el9JcEtfcDdJd0tsaE9fXzFxNUQwSnlBZW9Xc2FHbTR1UV9WMW45ZXRjdU8teDI0Yk1IcDBVWDVuMWNHdDBnLXI4LXpzMVBXOWNLS252T2tJZS12X0FpOA?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail",
+    "growth"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "CX Dive",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "Want real AI results in CX? Make someone accountable — and give them real authority",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: results. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FndmJMMWtKZXhOV3JkNEZLZXVPZlZEUGJJUl95NklsZ09lUTdObjBjWk1FYmJuLV8zQkttQkZ6TUV5QTZ3Q0FkRFVZdVRPRkZ5NHJvWFN1RHktelU5LVdMMmhXS3ZrdVFOSjExMy1oSzZQY2lsVVVRZXgzVlhXbjJGMXY5NmUxZFY0YU5NT0QxamFxY2FuRWs3dEpwQUJPRmpjUzcwWGdEZHRkRWM4?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "results",
+    "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Vanna White spins up appearance at North Carolina Walmart",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGZaMXZFSWhzTjVaOVFHMFQ4ZGJYSjNMcktXUlROTDluSlhkNVFYMVVqb0RIRTkxbVZjODdYZ3JmbktDNUVKTFBmNzF2aVZPTGVYR3h3WXQxQWhIdzlEQlJnRm9JY2x5RUlKTGFyUWdWUDl0b0FubUJSR1NnMzRuYWhxSXBWcUFCRDJValE1MkpTTVdJaXZzWGZ6RVFjeHZ1Z2ZldElESQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
    ]
   },
   {
@@ -1826,6 +2106,136 @@
   },
   {
    "d": "2026-11-10",
+   "src": "EIN News",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "MetrixLab global survey: restroom cleanliness can make or break the customer experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: survey. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZGUxdWo5Rm0xQzhwUFZmNUd6VVVwSHJoc29KS3NOeUtwcXRzdXVLdHNCTDM4RHI5R0dEdlA0S2tYWlMzSDRTUHJKRzltQjJCdVJKdlJENUhUcE5qWnJXbHlHd3hSelExblZxUnl5UEJXWGMtWFNZakw1MEJXMUFnTEtIOVg4b1g1WVhBNm9RbC1xRTJSelUwZlpwQjNUUG1BLVkyX0EzbjZ2OVFKQnFia1pJdXZLcDZHTkRZTG5UaGJtSjF3d1hZ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "survey",
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Retail Customer Experience",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Walmart, Zipline teaming up to launch 300 additional drone delivery",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXhocUJtdU9XSmx4cGxTVU0yU21kSnktU1M5SnEwZTRhSVFETUtPQUlTLVJla1ZZSzZHcFF0eDlvVTF3TVQ4aUtjQVhiOWd1c0k3aVY0WThZRnpoVmt0WUI5WEZ0d09kemhqX0JyVnNoWC1paUdSUTQyT3pZQkJIR2M5Y3JUXzY4MWIxUkRJNEMtazJuSEhIOVNhRDdZTDQ5U0NfUG1RZUEyckFoRnVSb2V1RQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "retail"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "PR Newswire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "American Water Launches Enhanced Digital Experience Focused on Simplicity, Service and Customer Support",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer support. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGgxWjZ6cmlmX1AtWTg3SVQ0WU1jRWtjbUUyZzVTTDJONzFPTTBHeDJVdWltOVQzV1N4QkpCU3c2d19tX0hFWEJUbEt3c3I5clY3QjE1VzJkcXVpSktIalpQdUJMT0FxUGh5SXFTWFZEaWxlYkkyYWF6WkM5N1JZN2tlalhUVkJvcGFqcXYtX0k1aXh6VGFNNDZSRHMtT1M5TElGRFZvd0N1MjhSUnFJWDlQMHU3YWJxa1lMVmxLeFRabHZISFNwcjIxbmF4QWp0VWhCbUpLeWRNS1RELUlrTEpEaDlJMS1EVUZRNnRvUQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer support"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Pizza Marketplace",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Papa Johns offers free pizza in exchange for customer feedback",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer feedback. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEtid0xja2k0TllrY054aFhYak9meTNXOTJZTHBXTlFnZFZZUDJNZHNZeXNLTk1qUUZ4Y3llNlUtVW50OS1kWkhFbThvbE50THg5eEVKZWlsQkk2bS1XLVFzQjltQUJHNEVvWnJBa2I1R3dfNWd4N0F4ZkltdDRKcXZHam5fVmpxUDR5THZHVFZUTkZzcUFnNVJrdVpQRTJiMHB3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer feedback",
+    "feedback"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Pulse 2.0",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "SupportNinja: Aventus Acquisition Expands AI-Powered Customer Experience Services For Ecommerce Brands",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZ0a0lYVDBwUjdmVk84ZS1Kc2dPdUN4NkoxZGJSc2E2eHBTYk1SUWkzQTlXN3I5YjFIYXo1NERWTEpNVjlDN0R4NWt3TlJwN0h3R1NHTXI5d1V5SlBFNGVfS2ZtbFpYVHpRTG90VERTcE9yNE5oZlBSSzJQOGlnajEwQWhOb0xaZlc2YnFnRlh5blpwd0QxTk96eG1NS3RQOU5KWWt3bURNdm4yZWl1angzZFBfZVo2WkEwUEpB?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "ecommerce"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Pulse 2.0",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Dialpad: Ada Combination To Build Agentic AI Customer Experience Platform Serving Over 50,000 Companies",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWhmV3owTmJ4TnBOdUxRNmFFcGc1QWtDZFRYRVN6MWRwRVlZWnU4LXBvZHVXRzNfWWZDTDdqYXdHRmRaUUl6ZXhTRVZjeWl4bVIzcXhxUS1kb2xZbmNxXzNiVG41a2pmdEtHd2pIbEtNd0hLeFhYZXZ0NkRzZEI0NDVTTjFIbER0X1NocjQtYjdXM1I4OUE3VnJybC1DSE9zbWpua3BVQTJTSnBmTGw5TG1ZYXVad01PMXJBRV9B?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "TechCentral",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Traditional QA undermines modern customer experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa096cmNsMlVOcHVfRDFfanllZVdXc2l1SUxrSWwwam0zU3pyNmhOUzZiZjE2eTYtZzRBamJvS0JYMVdUNlNFSHktSzk5ci04bGZzMHdVNmVFcjk0N295N2RfSXk1bVRralUxTzhrX2NfNjRKZ2I4cDlmS2plTzgwQ0Fn?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
    "src": "The Peterborough Examiner",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -1844,21 +2254,111 @@
   },
   {
    "d": "2026-11-10",
-   "src": "The Manila Times",
+   "src": "TechCentral",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "DITO takes customer loyalty to ‘another levelz’ with revamped DITO Rewards",
+   "t": "Why AI-powered customer experience will decide South Africa’s festive retail winners",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkNOYnZXcml2ZDltTXVuZ09sckxhdHZuMjFXTHVpTDRRVFA3MTJPODJkMm0wTy15dGVZWmlVTEpSQ2o4a0w2aWd1c2FuS0JEbWxXcURjS2RaWGNrSnVzcVRfNmJ0T0pQM1hlVG5OUUdqd3N4MDlUZ0tzUjA3azJEUzNrM25RQ0JvOWI1MVh5STNmSGNiTlVCMkc1SmtaMlRISUtxVlR2dW1BcEFsOEpCNzhURTE1RVNpa3BrR3dqVnE3VkVELWlMMW83bmrSAdIBQVVfeXFMTU5EQjd1VkstOVlUZGdGWnQzTnU2ang2Y19VSGRGRlJGN3I4T2xLME93S0dFT0JROW9RWXpST1c4MDhfUmEzVEh6SGYwa296NnN3eW15WDl2WUlvU3VpWHNTZkY3R3FqWHo3SjFvNGFVdHRSZlEtUk5MMXg3cmExM1ZPZEV1OVpsTlVQTk9VY0FZbW5vRXI5Smo2aVJqRjhFbmFSY2JVLUFKWmJ1VmtUcWlSRjNONHhSTGxoTXpWaEVPZDlSZkhreXFZTFhsa3FXWG1n?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOG90VWxZbFMxZ00wSFVqVEtodm5zTEZTVFFkMENQRjBkckpJSFlmUF83QnRMNnpxdm5ZclFWNC1QVmhaaUlDckNkRE9JT2tnbXVvRmdnR25faGpPQkI4SEdjczJSUGZKbVdEVkRZRWpfckFUTzNiV3R6a181RncyeWpDZS1NTkZaRzJiMw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer loyalty",
-    "loyalty"
+    "customer experience",
+    "retail"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Vietnam.vn",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "VietinBank Premium announces 3 priority tiers, enhancing the customer experience.",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlBLbFFtbTVHTmFDTGNGODlWS184Q0NkNmFqVDN5enMxenh0bElibWdtNUtvRjNKeWRNa3YzbkF4eGJBNGhTLUxxWFpRdHhjaHBmSWVUVnpQYU14TGpsbC1FZlQxVGNKQ2dlNFNkWHVnZWs3b3czcGk5VEVoVVhUUlRvSW82YXZLeG5sQ3hraVJfR1dQOHV4cQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "BMO",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "BMO Wins Five OMNI Awards for AI Innovation Across Client Experience and Employee Enablement",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới client experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUJmX1JtNDJtTTNlRXluRU5NejNES0Z6cXNhUEFCSzZVYWxoWnVxZ2hrRHFWbGRQSkJ4UEJtYnFvMk95blZxZ2EteXJoaUJCU3BxRTNBOGpxam83WjdYMmU5OGs0S3l2SkIyTG1PbDlMd05KdGc2ZEdwM2VOMXVXZl9LcmZweG9oeHFWX0NtY0xBZE5DOG9BZ0dhcFIwRE1nM3Z0R0Utdi1DTktYT3hRUXFVUmdSOUZQRDlOUVRhUTVvT0hWNEd3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "client experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Vietnam.vn",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "VietinBank Premium announces 3 new priority customer tiers: Elevating customer experience, creating comprehensive partnership value.",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZU5XdFNNV2pJMG5Vd1hRbjZaTkZFR3dRZkZxVkhQN05IM3pfOXJjbmdERkxybzBBc1AtNTJLbUFEdElLSkVuWDh2RWZlN2dLNTdKNENvYktJWmNjTllHaFg3SjZxeTBBS1ZGUHQzWWNWT1ZxbkhfLTBmbnJRUkJqZnlyY19CZGQ5RlJBWGNrSHM1eTRzUnF1QzlwTEZ3dnlKSV9MSGprY2NQSHdXb3FtNm55VDMtX2xPZGRhejMxdjRqQzRGSkRqajMxdUxxS0dXajZwN0NEdGZ6cUhXUnc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Yahoo Finance",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Seedless Names Briordy Meyers Head of Legal Data Intelligence and Customer Success",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer success. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkpqN1B6N0VaSmd2VVBncHBOdEZrUkZXaUVYODdtWmdOM3RPdlJhbVN4VDRxM252STJYbGVubGwxaUswV0ZBLTJtNjFxSFVDVnhkQzk1Uk1lOUh4SUIzVFRvMEh5VThFYV9NaHdLUTZmVEF1V1ZjbGI0UlpRNG5CVVZsTlp2RVlqa1VWaC1xM2ZvYldRSXZaRDZONXNkNGM?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer success"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "afm.aero",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Intuos Appoints Pilar Blanco Rodríguez as Customer Success Manager",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer success. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUszQVpCRmpWcWF1c3A3bVM3MkI1blR2djFPZ1lQWnJKYkxOYVdjZmRWcVRXYy1hb1lkZFlEanlGZ1kySG90ZlZCS2c4dGdLU0RfcXZoQm5rbGZNWTZLOGt4OGppYWtGSmNLMVlObTQwVVNuVWhCQnRLY2hzTC1oUlhPNWVhaGx3Rm1R?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer success"
    ]
   },
   {
@@ -1896,6 +2396,25 @@
    "khongPT": false,
    "khoa": [
     "cx"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "marketscreener.com",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Lowe's Partners With Bilt to Expand Customer Loyalty Benefits",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3lpLS1QUjVfSkJIMy1qRGlnRWp5SVcwMmc2U2Z6QkIzV3BxNHRSYTZYV0E0ZmV0RElmS3huekVGTVd0MzdFYXlsdkJSSnVHTHUwRGNXUzhBRHVOUUdrUk1UV3R3TmluazRXLWk1a1FFanhSV0hFS21MV2N3bmVJMmJtczd1OWtoU3U4NUZQRGwtdTRtaEFlX1RvNURZX2hGR2Y4bktQV0l5dlhJMkVLRnRaYm0?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty"
    ]
   },
   {
@@ -1955,6 +2474,61 @@
   },
   {
    "d": "2026-11-10",
+   "src": "LuatVietnam",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Từ 01/4/2027, doanh nghiệp data center, cloud phải tự công bố chất lượng dịch vụ",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOGJyRXpNU3BMeTFEN016NnFucm1BOFdfem5aSFFRajY2LXZlbmFuanFEcE1vLVFSajlublZMdVRESGNYdTFCOFJxOUtNWHJOaUtGS1JsaTNPRnJPY1hvN0dCMkhGU0hXTVZDN1djWjVsT0llYUFPaG5JdERFOXVZUGR5TWNKRXlHUEtCc0VqajdYY3JjdFRrTzRNMWE2bm96OXN0cVdjQkFhNnQyTmlhdmFwMktzNGRJVGU3REp0NnU2cWN2TmhPcHZ6SXBMQ1hZUTc3SDJGWDI?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Vietnam.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Nâng cao chất lượng dịch vụ du lịch",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQllSNHpONG1wWkV1aUFmTXhrcVc1SHhaZ3o4bk1iRnB6eHhIb0pCNEdJbjBJVG1Zc2R0eVl2RmN5T0Q5enExbkk4d1V1Q0ozeXNoSDEyUjZ2M3pvZWg0Rlhfby1nMFQtZVE?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "Tạp Chí Điện Tử Thiên Nhiên Và Môi Trường",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Nâng cao chất lượng dịch vụ du lịch từ chuyển đổi số",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3dqWm1FalU0LVIyR0JtdS1Zb05vTzNBWnR6NDNnTkJoZGlaR3Y3cy1vcVF1REtvSmxleVBubmppMWg0YXNoMzhveTRsa1M4cGU0U1FJUVZNOXpaemFFcEdyZDNVRDZFYng1V2xaYVczbUI5SEl0WGRoSUxwOEdSYllpZmF1VmRtVE4zUy1xR0xPQQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chất lượng dịch vụ",
+    "chuyển đổi số"
+   ]
+  },
+  {
+   "d": "2026-11-10",
    "src": "Thuonghieucongluan.com.vn",
    "hang": "Việt Nam",
    "g": "tin",
@@ -1973,21 +2547,39 @@
   },
   {
    "d": "2026-11-10",
-   "src": "thiennhienmoitruong.vn",
-   "hang": "Việt Nam",
+   "src": "VIA Metropolitan Transit",
+   "hang": "Tổng hợp",
    "g": "tin",
-   "imp": "vua",
-   "t": "Nâng cao chất lượng dịch vụ du lịch từ chuyển đổi số",
+   "imp": "thap",
+   "t": "VIA unveils new technology for improved customer experience",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3dqWm1FalU0LVIyR0JtdS1Zb05vTzNBWnR6NDNnTkJoZGlaR3Y3cy1vcVF1REtvSmxleVBubmppMWg0YXNoMzhveTRsa1M4cGU0U1FJUVZNOXpaemFFcEdyZDNVRDZFYng1V2xaYVczbUI5SEl0WGRoSUxwOEdSYllpZmF1VmRtVE4zUy1xR0xPQQ?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlBfZTYxamhHa2k0V3F3Vkkzby1VdE1DQ3JCV3NJVmFfd0FpUTJ2dnJRMHdONUk5TDVtV3c0UkMtSzlNMVc2ZmlxMkNueTlCNG4wWDF4bE01RmFhQ2x2Vmp3c2dybXJmZEFLSlROMkZVc2k3X1JCNjkxSHNiQzdVZGNvUFh5YU05ZVZnX0xFb09neGM?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "chất lượng dịch vụ",
-    "chuyển đổi số"
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "src": "The Manila Times",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "DITO takes customer loyalty to ‘another levelz’ with revamped DITO Rewards",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkNOYnZXcml2ZDltTXVuZ09sckxhdHZuMjFXTHVpTDRRVFA3MTJPODJkMm0wTy15dGVZWmlVTEpSQ2o4a0w2aWd1c2FuS0JEbWxXcURjS2RaWGNrSnVzcVRfNmJ0T0pQM1hlVG5OUUdqd3N4MDlUZ0tzUjA3azJEUzNrM25RQ0JvOWI1MVh5STNmSGNiTlVCMkc1SmtaMlRISUtxVlR2dW1BcEFsOEpCNzhURTE1RVNpa3BrR3dqVnE3VkVELWlMMW83bmrSAdIBQVVfeXFMTU5EQjd1VkstOVlUZGdGWnQzTnU2ang2Y19VSGRGRlJGN3I4T2xLME93S0dFT0JROW9RWXpST1c4MDhfUmEzVEh6SGYwa296NnN3eW15WDl2WUlvU3VpWHNTZkY3R3FqWHo3SjFvNGFVdHRSZlEtUk5MMXg3cmExM1ZPZEV1OVpsTlVQTk9VY0FZbW5vRXI5Smo2aVJqRjhFbmFSY2JVLUFKWmJ1VmtUcWlSRjNONHhSTGxoTXpWaEVPZDlSZkhreXFZTFhsa3FXWG1n?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty"
    ]
   },
   {
@@ -2010,20 +2602,21 @@
   },
   {
    "d": "2026-11-09",
-   "src": "Morningstar",
+   "src": "Retail Customer Experience",
    "hang": "Tổng hợp",
    "g": "tin",
-   "imp": "thap",
-   "t": "Bob’s Discount Furniture Earns Dual Newsweek Honors for Customer Service and Online Shopping Experience",
+   "imp": "vua",
+   "t": "Florida grocer debuts hologram shopping experience",
    "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQenc3N0o3TjJLYm4wdkd6Wm1FVWhLVlUxbl8tNGRORVdYeUZ0S2VOTkZDX0RwMUJrdjR0eEpod0hYVnA0MURCZ0xNY3FTN1RvR2taRnNGOVljU3Q0M3c2aXlTN1JCY0Z0REZJM1JZWFh0QXl6bGVkZTVmQU5vOUJTdGpPVG1qaDdPM1k0MDE1REdIUExSem5mS1ZfUnRuRFN2Y2ZKS0I3cmpZVktlc1FvOU11ejBfUXlZdXRNVlRLVXBmMU5wMkNYS1pBOTVrckdlQzItM1FGSzhVR2NXUFpsQXM3a3lFRXo4ckVFWm1ZaURYeDBSdlc4?oc=5",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWp3Z0ZoR2RYMGljNnYxZElIS25yYzVPZ2paZ0RaLTZnTnpfWWUtOWdXZkRXek0zZVNOWE05UW83M0poRlRWajdTWURpR2tEVkU3RWxWVjE3TU94VFdOLXI2YV84NHR0MEotakRRaFpLMlBqV3JQeENPREM3dDQxdEhtcU44T0E2OEZjVTlNUTJHTXN0ZWtoRW9LNE9ldw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "customer service"
+    "customer experience",
+    "retail"
    ]
   },
   {
@@ -2043,6 +2636,156 @@
    "khoa": [
     "customer experience",
     "retail"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "Business Wire",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "cao",
+   "t": "NiCE and Metrigy Research Finds Growing Openness to AI as Trust Shapes Customer Experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: research. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnB0MGJBZDl2LXV6ZDk5NGlKMnBLdWt1SzNaMFZrcDBSUVcwTmR1TDE4UU9EdGJZeEh3dHBrX0lCUnpIc0hUWXJoMEVTYVJmNTN2YkJlN255eHpOLUN2b0ttUk1EcUxjeUVCcElVYTBBSFloU00yejU0SE9qazA4ZUhOYk9Ga1hUd1ZCSFZpVkltRjdzeFUtck9kZTd2akhWTnp2RjdMNHpjXy16QVd5b2JFNUNNMkFIcXduNmJZempQbUNmYzBtMWJGaXZpNG9yNEMwbU4yZFFDMl8xZlgwUg?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "research",
+    "customer experience",
+    "trust"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "Grocery Gazette",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "M&S appoints former Waitrose executive Alan Hoe as customer experience boss",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON293RVZtUjZ3RUZjdWxOaERVNW1ld04zV0N6ZE9namlUcmEyRFd2SlpBMDAtR2VqcW5IQ1lVbmo4eGxSS0FYQ2VmR1pKM2pxa1dzWUVxb2lxLXNBajBxWThONlUtaHRMY2kxWU0zR0VJSF9fcldlRHJhbU5teHUzdDYtcmlxTWx0QXBjckd6T3hFSTR5Sm5QU0RpU2pTQjBWYl9VbENGRGVMeW92VDljV3FQYUtUSWY5bkl3?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "NTT Data",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "From points to perks: transforming customer loyalty with new technology",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTy1lMThiWDctV0RncmVEZkc3NWtrajU1WWFGTVEtOWdXa0dYd0dWSkxHdDJVU1hLYVE3LXBVTWtKRFJvYVJaZ2VvM05BTTRKRF9lckdKNmtGb0ZnNFROVWRaRm4wVHdQVG85NmtYUERWbU0xSi00ZEg1dkpweDIzc1NtcHZtQ19KNnJjM2Nlczk3YUlaZWFrY09DZ0VXeXdRT2NvVXcxNkpJNWdsWFBXU1BkblI?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "Inside Retail Australia",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "What Cockatoo Comics can teach retailers about customer loyalty",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXVUOFNfOFB3NTEwWU5EVTAzTG9UMER4N0pHLWJwWDkzaVVkd1ptbmNEVUo1OFVtazBtMnNDYWV6bVRuc2tDTVIyRzRDN0VWSTlBUy1yNmpZREVsa1pNRW1meGNJcFYzcmJsVGJTRUhjcmJRT0J0MmpGb3FCOGZFT0xTOVktUXdBOWtxZnIyU1ZWbmY2NTFtMzgycUdJd3JtLXJCYm5ZRVM?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer loyalty",
+    "loyalty",
+    "retail"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "VTV.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Chubb Life Việt Nam nâng chuẩn không gian, nâng tầm trải nghiệm khách hàng",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOel9IWXRHVmNQenlDZWJNX2g5VEhmZDhKcUd4eFN3QzN5RTFmTThIa0RpeEl6SzFiajgyRmZKSVAzUzF0SkcxdUJKX1NidnZMbHpNNEV0bmRMV3RacUc0dUVlekhhaE5Iek1VWW0wcmt1d3ZkVXpkcnptSE1fQXlTck1WYUVkVkFPMWxNUnJzWTRlWWhjQmlSdW5SV19GQkppYUNTeWw3b1lZMWhnc2xjdw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "Công Nghệ Việt",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Visa thúc đẩy ứng dụng AI trong thanh toán và cá nhân hóa trải nghiệm khách hàng tại Việt Nam",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWNMR09CU2tHVjVVc2UtbEVPM2czLWxWU3hYYTRQWDQ2ekZQZkE1VG1mZTk3VTFZSzFMVzQzTTJMLWRJUHQ5eFV2dkFWOXZWRGFmUV9sT3hDR1FhM3A2eDhPSU9BVDlYWWpNLWcxQ05BZjFmQk0xM2JKR1JMbTBadlptb3BqRzlFbTkyUXhEaUo1YzE3MGxOOHBCLS1YSGgtUF9oeTNkWUVoZ3dnaEVNMTgzWHZSNjFwd1Nz?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng",
+    "công nghệ"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "24HMoney",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "“GPBank số hóa giao dịch tại quầy: Tinh gọn thủ tục, nâng tầm trải nghiệm khách hàng”",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjhHdzJVZ1plWWl0NzZYWVpQSjZzeUM3cl9kcklwemlyR21oMGx4TzZhakZLdkE4ak5VVHRWRk4zS0FNRG10Q2lyYnRoQ3Q5RWJYc2JrYlI3cEdERGZETk5iMnNnc0J5RHkyV3BVN1kwMkxBMGtaVTdqNWpET1hwMG1xMjdCbXZyckNNbU1sLTFOY3lsOUF1enNHMWkxbE8zdk4tdGl5TklVRmdCNzlHaG4zWUZNMjN1NnpoVDFsUko2Vi1zcElRVw?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng"
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "src": "Morningstar",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Bob’s Discount Furniture Earns Dual Newsweek Honors for Customer Service and Online Shopping Experience",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQenc3N0o3TjJLYm4wdkd6Wm1FVWhLVlUxbl8tNGRORVdYeUZ0S2VOTkZDX0RwMUJrdjR0eEpod0hYVnA0MURCZ0xNY3FTN1RvR2taRnNGOVljU3Q0M3c2aXlTN1JCY0Z0REZJM1JZWFh0QXl6bGVkZTVmQU5vOUJTdGpPVG1qaDdPM1k0MDE1REdIUExSem5mS1ZfUnRuRFN2Y2ZKS0I3cmpZVktlc1FvOU11ejBfUXlZdXRNVlRLVXBmMU5wMkNYS1pBOTVrckdlQzItM1FGSzhVR2NXUFpsQXM3a3lFRXo4ckVFWm1ZaURYeDBSdlc4?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service"
    ]
   },
   {
@@ -2081,45 +2824,6 @@
    "khoa": [
     "customer experience",
     "retail"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Florida grocer debuts hologram shopping experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWp3Z0ZoR2RYMGljNnYxZElIS25yYzVPZ2paZ0RaLTZnTnpfWWUtOWdXZkRXek0zZVNOWE05UW83M0poRlRWajdTWURpR2tEVkU3RWxWVjE3TU94VFdOLXI2YV84NHR0MEotakRRaFpLMlBqV3JQeENPREM3dDQxdEhtcU44T0E2OEZjVTlNUTJHTXN0ZWtoRW9LNE9ldw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "Business Wire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "cao",
-   "t": "NiCE and Metrigy Research Finds Growing Openness to AI as Trust Shapes Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: research. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnB0MGJBZDl2LXV6ZDk5NGlKMnBLdWt1SzNaMFZrcDBSUVcwTmR1TDE4UU9EdGJZeEh3dHBrX0lCUnpIc0hUWXJoMEVTYVJmNTN2YkJlN255eHpOLUN2b0ttUk1EcUxjeUVCcElVYTBBSFloU00yejU0SE9qazA4ZUhOYk9Ga1hUd1ZCSFZpVkltRjdzeFUtck9kZTd2akhWTnp2RjdMNHpjXy16QVd5b2JFNUNNMkFIcXduNmJZempQbUNmYzBtMWJGaXZpNG9yNEMwbU4yZFFDMl8xZlgwUg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research",
-    "customer experience",
-    "trust"
    ]
   },
   {
@@ -2234,24 +2938,6 @@
   },
   {
    "d": "2026-11-09",
-   "src": "Grocery Gazette",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "M&S appoints former Waitrose executive Alan Hoe as customer experience boss",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON293RVZtUjZ3RUZjdWxOaERVNW1ld04zV0N6ZE9namlUcmEyRFd2SlpBMDAtR2VqcW5IQ1lVbmo4eGxSS0FYQ2VmR1pKM2pxa1dzWUVxb2lxLXNBajBxWThONlUtaHRMY2kxWU0zR0VJSF9fcldlRHJhbU5teHUzdDYtcmlxTWx0QXBjckd6T3hFSTR5Sm5QU0RpU2pTQjBWYl9VbENGRGVMeW92VDljV3FQYUtUSWY5bkl3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-09",
    "src": "Business & Financial Times",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2266,25 +2952,6 @@
    "khongPT": false,
    "khoa": [
     "client experience"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "NTT Data",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "From points to perks: transforming customer loyalty with new technology",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTy1lMThiWDctV0RncmVEZkc3NWtrajU1WWFGTVEtOWdXa0dYd0dWSkxHdDJVU1hLYVE3LXBVTWtKRFJvYVJaZ2VvM05BTTRKRF9lckdKNmtGb0ZnNFROVWRaRm4wVHdQVG85NmtYUERWbU0xSi00ZEg1dkpweDIzc1NtcHZtQ19KNnJjM2Nlczk3YUlaZWFrY09DZ0VXeXdRT2NvVXcxNkpJNWdsWFBXU1BkblI?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer loyalty",
-    "loyalty"
    ]
   },
   {
@@ -2329,26 +2996,6 @@
   },
   {
    "d": "2026-11-09",
-   "src": "Inside Retail Australia",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "What Cockatoo Comics can teach retailers about customer loyalty",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXVUOFNfOFB3NTEwWU5EVTAzTG9UMER4N0pHLWJwWDkzaVVkd1ptbmNEVUo1OFVtazBtMnNDYWV6bVRuc2tDTVIyRzRDN0VWSTlBUy1yNmpZREVsa1pNRW1meGNJcFYzcmJsVGJTRUhjcmJRT0J0MmpGb3FCOGZFT0xTOVktUXdBOWtxZnIyU1ZWbmY2NTFtMzgycUdJd3JtLXJCYm5ZRVM?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer loyalty",
-    "loyalty",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-11-09",
    "src": "VnEconomy",
    "hang": "Việt Nam",
    "g": "tin",
@@ -2357,61 +3004,6 @@
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXdYYmg3d09JaEI3QjRmTFdFcThZd01pRzBsMy1Yd0JTc0pvZmhXSmNOdmt3cXhUMEliUURFX3lXUGJlUEZmS0MyRkt1bWZpZ2hFV2M0cmdLQzhrLVdRTEhsSFNkQ1BqQlhfZFJoVHhCR1dUU3JMNjBFR0w5S2FOdmV1VHhMeThmczBrT1ZkUQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "VTV.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Chubb Life Việt Nam nâng chuẩn không gian, nâng tầm trải nghiệm khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOel9IWXRHVmNQenlDZWJNX2g5VEhmZDhKcUd4eFN3QzN5RTFmTThIa0RpeEl6SzFiajgyRmZKSVAzUzF0SkcxdUJKX1NidnZMbHpNNEV0bmRMV3RacUc0dUVlekhhaE5Iek1VWW0wcmt1d3ZkVXpkcnptSE1fQXlTck1WYUVkVkFPMWxNUnJzWTRlWWhjQmlSdW5SV19GQkppYUNTeWw3b1lZMWhnc2xjdw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "Công Nghệ Việt",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Visa thúc đẩy ứng dụng AI trong thanh toán và cá nhân hóa trải nghiệm khách hàng tại Việt Nam",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWNMR09CU2tHVjVVc2UtbEVPM2czLWxWU3hYYTRQWDQ2ekZQZkE1VG1mZTk3VTFZSzFMVzQzTTJMLWRJUHQ5eFV2dkFWOXZWRGFmUV9sT3hDR1FhM3A2eDhPSU9BVDlYWWpNLWcxQ05BZjFmQk0xM2JKR1JMbTBadlptb3BqRzlFbTkyUXhEaUo1YzE3MGxOOHBCLS1YSGgtUF9oeTNkWUVoZ3dnaEVNMTgzWHZSNjFwd1Nz?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng",
-    "công nghệ"
-   ]
-  },
-  {
-   "d": "2026-11-09",
-   "src": "24HMoney",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "“GPBank số hóa giao dịch tại quầy: Tinh gọn thủ tục, nâng tầm trải nghiệm khách hàng”",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjhHdzJVZ1plWWl0NzZYWVpQSjZzeUM3cl9kcklwemlyR21oMGx4TzZhakZLdkE4ak5VVHRWRk4zS0FNRG10Q2lyYnRoQ3Q5RWJYc2JrYlI3cEdERGZETk5iMnNnc0J5RHkyV3BVN1kwMkxBMGtaVTdqNWpET1hwMG1xMjdCbXZyckNNbU1sLTFOY3lsOUF1enNHMWkxbE8zdk4tdGl5TklVRmdCNzlHaG4zWUZNMjN1NnpoVDFsUko2Vi1zcElRVw?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -2478,6 +3070,24 @@
   },
   {
    "d": "2026-11-08",
+   "src": "Bnews.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "AI mở ra phương thức mới trong lĩnh vực chăm sóc khách hàng",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chăm sóc khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTRNTmZOSF9ubHpWb0M4ZVYwMmNCeUN3bFFPOU1nWWxyYlBJVVFWOW1VQzVhbnBuWGFHWmJUaF9VOGlPanMxMTRMZjFNR0VUdGxwcVRIMmJhSm1hUkhlNDR3N1Q2M1FnSlZYSTZtODJkVDgxWkFoUUFiVFpTdnE3RmRaaW04RF9kdmlzcDgtR3hFUQ?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "chăm sóc khách hàng"
+   ]
+  },
+  {
+   "d": "2026-11-08",
    "src": "Arab News",
    "hang": "Tổng hợp",
    "g": "tin",
@@ -2493,24 +3103,6 @@
    "khoa": [
     "customer experience",
     "healthcare"
-   ]
-  },
-  {
-   "d": "2026-11-08",
-   "src": "Bnews.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "AI mở ra phương thức mới trong lĩnh vực chăm sóc khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chăm sóc khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTRNTmZOSF9ubHpWb0M4ZVYwMmNCeUN3bFFPOU1nWWxyYlBJVVFWOW1VQzVhbnBuWGFHWmJUaF9VOGlPanMxMTRMZjFNR0VUdGxwcVRIMmJhSm1hUkhlNDR3N1Q2M1FnSlZYSTZtODJkVDgxWkFoUUFiVFpTdnE3RmRaaW04RF9kdmlzcDgtR3hFUQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chăm sóc khách hàng"
    ]
   },
   {
@@ -2566,25 +3158,6 @@
    "khongPT": false,
    "khoa": [
     "chất lượng dịch vụ"
-   ]
-  },
-  {
-   "d": "2026-11-07",
-   "src": "وكالة الأنباء السعودية",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Saudi Healthcare Leaders Win Two Gold Awards for Customer Experience Leadership in London",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5DNTBZQk15bG90ZlZsNXMxcjZkNDdUSUhReVBCM2RMT0w0RDNZejJjU0RYdDVjZmdGNWtRcVdYcVRaaDEy?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "healthcare"
    ]
   },
   {
@@ -2654,6 +3227,25 @@
    "tl": "",
    "khongPT": false,
    "khoa": []
+  },
+  {
+   "d": "2026-11-07",
+   "src": "وكالة الأنباء السعودية",
+   "hang": "Tổng hợp",
+   "g": "tin",
+   "imp": "vua",
+   "t": "Saudi Healthcare Leaders Win Two Gold Awards for Customer Experience Leadership in London",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5DNTBZQk15bG90ZlZsNXMxcjZkNDdUSUhReVBCM2RMT0w0RDNZejJjU0RYdDVjZmdGNWtRcVdYcVRaaDEy?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer experience",
+    "healthcare"
+   ]
   },
   {
    "d": "2026-11-07",
@@ -2839,6 +3431,24 @@
    "khoa": [
     "user experience",
     "training"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "src": "Laodong.vn",
+   "hang": "Việt Nam",
+   "g": "tin",
+   "imp": "thap",
+   "t": "Techcombank thông báo về kế hoạch nâng cấp hệ thống phục vụ trải nghiệm khách hàng",
+   "s": "",
+   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzFZN2JXanFjUU9WRE5oMmZwbEh2YWhuRERoR2dnMUtiZHlNTmgzQmNtYmgyOGRlZXM2Wjloc01LUkxEVHZZR1ViVi02aTZOU21QUXZiNFItT1N2dThDMVhFVEFGOW1qcHlCV2xIb2pZRFRja0xBOHJCOTh3bTZ0ZXlBdmRCc3cxdmtCTFpweGc2TGlrcG1wOFNfSDIxWlF6RjFwVU9aSE1OTy14eHBPUGV5NC00SkZKbU5TanpRdkZiMzhBa20ydHl6N1o4U1ZEMWc?oc=5",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "trải nghiệm khách hàng"
    ]
   },
   {
@@ -3039,24 +3649,6 @@
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVy1NMTNZR29GX0dsZlV2ZHdOOFFldnNIRklSdlIwdTRRTi1JcW91SFYxZlRCd1FvSllneW1uSkhFWFR5SVZvdU95b2owSHEwRjIwcWdtaGtreHFOSGhwNFRJMFpyOUgwUTB4a3IyN3J5dzJWVXBZUnN2bkNLME1BSHdMRlgxVHhGalBEOHFJUmdMc0dkNWZGZHJnUm1wMC1pdGp2RTc0S3dzTU9SdXBN?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-06",
-   "src": "Laodong.vn",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Techcombank thông báo về kế hoạch nâng cấp hệ thống phục vụ trải nghiệm khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzFZN2JXanFjUU9WRE5oMmZwbEh2YWhuRERoR2dnMUtiZHlNTmgzQmNtYmgyOGRlZXM2Wjloc01LUkxEVHZZR1ViVi02aTZOU21QUXZiNFItT1N2dThDMVhFVEFGOW1qcHlCV2xIb2pZRFRja0xBOHJCOTh3bTZ0ZXlBdmRCc3cxdmtCTFpweGc2TGlrcG1wOFNfSDIxWlF6RjFwVU9aSE1OTy14eHBPUGV5NC00SkZKbU5TanpRdkZiMzhBa20ydHl6N1o4U1ZEMWc?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -3366,14 +3958,14 @@
   },
   {
    "d": "2026-11-05",
-   "src": "Business Traveller",
+   "src": "BusinessMirror",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "The Rise of Travel Maxxing: What Changing Travel Habits Mean for Customer Loyalty",
+   "t": "DITO takes customer loyalty to another LEVELZ with revamped DITO Rewards",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFExNU40czFVanlleGFIaVJTVjFtMG41ZUlPaDZ6LVhaTHA1bGhPdzZqLTJwaV9RaF96N21mU2M4WjZfRGoxN25VcGtPRTJjOXM2ZWl5N2pLRlVEM0xOaUxkOTJuNjRBalRPN1NDVEJ6T0dRTVFGZUpFdDNoV25wRzRtdFVGZlRRVTFNWlJsc2pxTlhTX3JZMlVOT2d0UWhzOS0wU29sUVRZalV3dlJ4YjdPbTMyak9PM3ByUE9vX1ctcTA?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDRTZjFxVTNsbUs4WVFsZzRJTHRNNW13c29jOGpDd2N1WHJsZERyRW80YmdFNXk2NXQ5cjRaSC1IZFE4NU5BRWhsNG14TExnTGRlVlc1clo4WkhQVjgzOXhQYU9tUzcwWTgtVktXcmFXZWxrVE5jRDh0c3pxLUY1aXM2aFpjOGhQZDZHWlN3OXJ6d0hFaFAyU0RZdjBhcDNLcjBOZnd1dEEyY3JOeU5RNjBGTWs?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -3385,14 +3977,14 @@
   },
   {
    "d": "2026-11-05",
-   "src": "BusinessMirror",
+   "src": "Business Traveller",
    "hang": "Tổng hợp",
    "g": "tin",
    "imp": "vua",
-   "t": "DITO takes customer loyalty to another LEVELZ with revamped DITO Rewards",
+   "t": "The Rise of Travel Maxxing: What Changing Travel Habits Mean for Customer Loyalty",
    "s": "",
    "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer loyalty. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDRTZjFxVTNsbUs4WVFsZzRJTHRNNW13c29jOGpDd2N1WHJsZERyRW80YmdFNXk2NXQ5cjRaSC1IZFE4NU5BRWhsNG14TExnTGRlVlc1clo4WkhQVjgzOXhQYU9tUzcwWTgtVktXcmFXZWxrVE5jRDh0c3pxLUY1aXM2aFpjOGhQZDZHWlN3OXJ6d0hFaFAyU0RZdjBhcDNLcjBOZnd1dEEyY3JOeU5RNjBGTWs?oc=5",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFExNU40czFVanlleGFIaVJTVjFtMG41ZUlPaDZ6LVhaTHA1bGhPdzZqLTJwaV9RaF96N21mU2M4WjZfRGoxN25VcGtPRTJjOXM2ZWl5N2pLRlVEM0xOaUxkOTJuNjRBalRPN1NDVEJ6T0dRTVFGZUpFdDNoV25wRzRtdFVGZlRRVTFNWlJsc2pxTlhTX3JZMlVOT2d0UWhzOS0wU29sUVRZalV3dlJ4YjdPbTMyak9PM3ByUE9vX1ctcTA?oc=5",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -3941,126 +4533,54 @@
    ]
   },
   {
-   "d": "2026-11-05",
-   "src": "LuatVietnam",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Doanh nghiệp viễn thông phải công khai kết quả kiểm tra chất lượng dịch vụ hằng quý trên website",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1BOSHdoRTBEN1NjVWtTc0hvQmNvQ010Y0lyMGZaaGlCTkRINkJ0VkZBTjdySUtVc191T3NfN2tKY3pIRWt6RG0yUnF4R1libHdRU1RhZTdOUlAyOG0yZ1VVcVo2Z3dNVW16WmZ6YWo2b3BtNnVBQnl1UDVZc21GUFdpanh1MnJLdDdpTHBFZlo5amptNTFKVF9DcGdnaWVVb25kU1E2cEdFZEJZZTNwNXNYc3pxNDJneFRqOVhtbWtoTTFkOUlfN0o3cVpkbjFSUGZjNHFMRzhHVFJ2aDlCeklORFF4WnFJRE84RmZWWGc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "Detroit Free Press",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Bright Pattern Featured on GSA UK's SourcingTV: AI, Data Sovereignty and the Future of Global Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmlUTnlnUi1EWVVORHBJUzV6QzBMU3ZjcTFZeU5CcUJxdll4ai1SX2FybHVDV3VTdnVianRYYVBPN2l5VDNrNXR3b1puYU9rNk9aRHVSS2dGYkhOMDl5WG9qSE9XZWphSzVuNkw3RWFpR1g5V3YwbWFjUU51azBnTzc4MkRVSEtySExCNkdMZUhmeFRfbmF0RXhUM3pmbWlsajRoT2NEMjBJOUZhZXl2TzU1OHRUUk9TY0VIN01yZHMzZUZXLUo2TmVLbzcwbkN2SXNjR1hPMENfR2lEc28xY29ybFJnMWxDcjZCQ3k0RVdMQQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "CMSWire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Ada and Dialpad Merge to Automate Customer Service",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUFLYmJDWXEySzVIOTNjaFUybGZBcllOcThSUjYxeHlRMHRYVE5UakZIQ01pSTFZUW9Id0U1OVdLZXREOTRzcTM0RktTMHozQ0dSeF9famg4dk5XSi0zMVM2bUNkaUdpYkVqZ1UyVExjZTRPMVAxM3lza1M1M0RDdzZiV0F2X2d4Y2pOYWZSZV9QYXBKZ0pF?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "The Courier-Journal",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Bright Pattern Featured on GSA UK's SourcingTV: AI, Data Sovereignty and the Future of Global Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbm9tbDJrLVBxLVkxVjYtdzI0aFRTSExfY2hRWFk3aDFSaXJxNmVuRDA3YThpVEkxMU1CbFVDUEU5NXBLSGRoSXM3amF1cE1Oc3U2cURNRzZ5UWJHQVNJRmFUWmNoTlJxZDFyUVp0MzkxRHo2TWNlNmVwRVBGdHlqelVmR1MxX2FzVGhxcDBXTnRDZFhnY0VlazN3Wm1wT2ZxQWZsQ1JyQ3hJU3ZNYlZOVGNxUXV0SDhweGxwejl1c0VOa3BJdnBLMTBwOUlySWppcV9fMHN6ZVVRdzhrckY3MG1yMnN0MW1kLUFCclR0UDliX090MU1HTTdNRnctZVE?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-05",
-   "src": "CX Dive",
-   "hang": "Tổng hợp",
-   "g": "tin",
+   "d": "2026-11-11",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "vua",
-   "t": "AT&T, reshoring and what’s next for US contact center operations",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx, contact center. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclk3RDBSVWJzMDhDanJ3blNsQ1VOZVRPYW9mQUV5azJiR3dVazBVdFdRVHVUYzYySXRLLXdIS013b2V2WldUcXZ3Q05oNXpqQ2VHY1NSU0FtTGs1NU1PQjRWMkJrR3dWVHN4V2NydjRQUVc4UVVSQVdMSXlOQkozakp2UnJBZ1Z4RXZtMTFzcHZ0RkxKTWswYmlkT0xXZl9LN1Y1UDhmR3NlTkN2RmN5WjUxZw?oc=5",
+   "t": "¿Estamos midiendo satisfacción o el cansancio que le estamos generando al cliente?",
+   "s": "He visto muchas empresas medir satisfacción, recomendación o calidad de atención, pero dejar por fuera una pregunta que a veces explica mucho mejor la experiencia: ¿cuánto esfuerzo tuvo que hacer el cliente para lograr lo que necesitaba? Ahí es donde CES, o Customer Effort Score, se vuelve interesante. No mide si el cliente quedó feliz en términos generales. Mide qué tan fácil o difícil fue completar una acción co…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới nps, csat, ces. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xsyp32/estamos_midiendo_satisfacción_o_el_cansancio_que/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
+    "nps",
+    "csat",
+    "ces",
     "cx",
-    "contact center",
-    "operations"
+    "onboarding",
+    "chatbot"
    ]
   },
   {
-   "d": "2026-11-05",
-   "src": "Chainwire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "ZeroXmHub Announces AI Initiative to Support Digital Operations and Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGpyUDZIa0RVM09MV1k3NXh0ckN6bElLQjFZRUNMZDltRC1sQThQeWhaam0xaU5KUG1ob0xJa3YzbVhjYXgtdGN3czN0b0M0cDVzTFB2ek5RYTJLdHhPbUhGTEFTWnFCem92ckRhdzEzS1BCNEhqUUJHd2syc2ZDV25vUDdXYVlCZDBjNmJRcWk1VnMzVkFiZ1BxeWd0MW5RLVV1X3dmV3dPT0daUXJFeXhrc2hyODZONEdWUE1R?oc=5",
+   "d": "2026-11-11",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Someone help me??!!",
+   "s": "submitted by /u/Fit-Scale-44 [link] [comments]",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xsyqop/someone_help_me/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "operations"
-   ]
+   "khoa": []
   },
   {
-   "d": "2026-11-05",
-   "src": "Australia",
-   "hang": "Tổng hợp",
-   "g": "tin",
+   "d": "2026-11-10",
+   "src": "Reddit · r/CustomerExperience",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "thap",
-   "t": "Adobe puts CX Enterprise Coworker inside AI assistants",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHIwczAta2VPZWRHWUFiYUdmS192ekFSN29MSWprUzZOeFNyX1FnN3A1NDFLZUxTTld4QUZmQzlVOEZ6OVhYNzBmWEhMYjFvN2UyUF9qQjdJUXkzdFJ4QnEwbEJmb3VTTHd4QjJWUkFwWkdObnRSM0JNSnNCQ3FfZXItV1E2VGcxNVNONFhtTmpLM2M?oc=5",
+   "t": "If your voice bot's containment rate looks great, how many minutes did customers burn before the late transfer?",
+   "s": "Salesforce has agreed to buy Cresta, the voice AI company whose agents already take calls for Marriott, Comcast and Alaska Airlines. The deal is expected to close in Salesforce's first quarter of fiscal 2028. The bit I keep thinking about isn't the deal though. It's a point one founder made about scoring voice AI bake offs. Containment tells you a call stayed with the bot. It doesn't tell you the customer spent se…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/customerexperience/comments/1xs23xg/if_your_voice_bots_containment_rate_looks_great/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
@@ -4070,467 +4590,24 @@
    ]
   },
   {
-   "d": "2026-11-05",
-   "src": "Báo Thanh Niên",
-   "hang": "Việt Nam",
-   "g": "tin",
+   "d": "2026-11-10",
+   "src": "Reddit · r/smallbusiness",
+   "hang": "Reddit",
+   "g": "thaoluan",
    "imp": "thap",
-   "t": "DOJI tăng cường hợp tác chuyên môn với GIA, nâng cao trải nghiệm khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWFvSDRtNDFfajBUWEtRb2swQmI3aUFIWElHVFNYR0Q3aHZVVmY0VTBUNFdnY1pPd21FVGZLbHE4QnhoWmhkamRSWEZvbUl0QUZJS29hYzdtNXVCVWRYWV9KWUZBS0loRUtwaDItM3puNzlxbzllZ3pMeFcxcWluV2NEUlRrbEphaGs4UTFCODZrN21BUG95OVRpenVxTUZTanNfdXRQNmtXb1I0Nm9XNUw2ZHlQVjRURWc?oc=5",
+   "t": "I outgrew my business, and I hate it. Should I sell it or push through?",
+   "s": "I’m 24. I started a competitive dance studio at 18 as a pre-professional dancer. Six years of 80-hour weeks later, the studio is great, but it’s the wrong vehicle for what I want. $500K a year in revenue, about $100K profit. My \"salary\" is the profit. Hundreds of dancers, churn under 3% a month. $1,500 to $3,000 a month in local ads, and we’re still growing fast for brick and mortar. 5 W-2 staff, 1 full time. A ma…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới churn. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/smallbusiness/comments/1xsaz3p/i_outgrew_my_business_and_i_hate_it_should_i_sell/",
    "diem": 0,
    "binhLuan": 0,
    "tl": "",
    "khongPT": false,
    "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "VenHub deploying autonomous store at Las Vegas apartment complex",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjIyMVVuSzBvUjlGSTdKX3dLV0YwVTRkR19HUktBYWUzRWJId2VWZ0tJYUw3dUloZ2lvRVNaU2taV3dQZHZiakhwLUY1LUdLVENWY2VrTlJDMGF5ZEdJLVlVUDBUVDAxOC1zNE5GMG1aNjZoaXBYWG9PeFNJVkhib1VzWTJBMjFCMkdqeEhhcWJ0Xzl4Mktpam1keFJia0QxdjdSNzNPNnRhTmZibEQ1Mg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Adobe Newsroom",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHZIUktRa3ZmeVJkS2gtSFY1RlF5NEdnb3dDMmxGSEhSTGhIcTdmcUxFMXF4eThWSm9pcnFQeXEwMDdGeUdQdVRtajI3ZmIteFFfWXZJT1Z0VFVUYUx2cURaUVdfMzFxbTB3OUkwS2RNQ3pNZUpsdHByN0pINlp4NXR2MnFmQmNLYXptendKakdFWGs4TkREcjJJWFpCVXBORVRz?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Kiripost",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Foodpanda Adopts Toku’s Customer Experience Platform for Cambodia, Laos",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmZlM3A3eXlWZXlEREt0M2wtQnNVb1pKUFlWWWdwRzBGYUxVMlpPay1RemNyTExIeWNtQXR0THp0cHVvRVhJR1NRaU9ILVh4bnNPd1diaEtvTi1pQTZGNnMxWV95NjJCa0k0NmswNlJJTTJnN1hoTUp2ZEl0QmhLaWlqNGpzU3ZTbGZtbzdBR21PZEpEOFE0WENHeWFtZnc?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Retail Week",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Ranking: 20 retailers which deliver an excellent customer experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMm1yeGREMzE3Y3RCb3JMdjJuMVgzdmhwSHdZQlNPXzFpalVZWU9URWZWZEtWVnBBLUt6N2ZYZ19qWWJzZ2RidDlPR05Tck5jcjV5MUFlbVdRR2EwX3RKOTNrRi1lZ0ZtMWt4OG5Db0J0eEtydkRoSVNHUHU5NjBlNnpRSWhJQmtiRHMyaUVlblRFSEVLaFVfbUMxSTJkbWZUdEZfdXFrUVBKMWx2c2V1c1pqNnRwT2hyR21WMw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Trung tâm Nội dung số và Truyền thông",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Đổi mới công nghệ, nâng cao chất lượng dịch vụ cấp nước",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0gzajQxQi05N0prZ0ZFd25OY0NER2RtSzEtTEh1MGhrM0xLdThaTkhBNGdkTFQzenhheVNLSG1xX1o5LXZTMS04SEhoSDdWSzZCRUE3blJwRkNHQmktLWNjQTNEZDJ5eV9iTXVOajY1cjg0TW1YTFJhM2VZZzBJOWd4NkI1Z29sOGR5d1JwMFh5SkphX0VGNExGbDZ6amNQeXE5VA?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ",
-    "công nghệ"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "citybiz",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Dialpad to Combine With Ada to Build AI-Powered Customer Experience Platform",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzYtUEE1MkpweXdtaG1XYnhaSGJ1XzNtUWl6OTg4c1d3by1xa05UMzl0QWVfTHRSRjRzYm51dWJMejAyWG5HbGRwYmJUVjJBTzhiQlRPMEY0ZmkzQmt3akhGVVlET3IzS1dmcFM1Q1JOVWNjTmFQY0JKUkgwdTNIYjc1b0RTTl9nUTNoSHlXR3V1VnQ3SnEyMEkyNkdIbDg2NmZHMWNJTWlURTBBb01HWFdzYm4wdw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "CMSWire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Holiday-Proof Your CX Operations Before Peak Customer Demand Hits",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2Q1eE5OWl9rOFhYY2REZVV1aUxXVVlUSXF6b29JQld5RGk2bXE5aVpyZzBzZmVQd2tEQXJrT3UtUjJ2TlFIbTlGZTloTUtYeUpfZnBzeDVKdDhsaTJQSGt3ZnFXYTl1MGppQU81RjVrWDhPWW1wY3Q0M2d6dW5hSG85N1FDWDgtbW8tSTQ4V1JMNXpIRlVDVFZGUVZLaDFST0VjVndNak55bldvcDl3?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "operations"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Mi-3.com.au.",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Salesforce to acquire AI customer experience platform Cresta",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUQ0LV92Mzh6eXE2bl85TEZkOE02UWk0R0dtMEFMM0R2SzVMU2g3QVp6ZlRKbUtQQTlwLTdXZXlham54bUI5b19fUFVjV2JpaGJGX3F3MWktLWhaV2xWR3lubW1VcXFOMUdCT3haNENSWG9jX0N1Mmc5SkFDTk9FbVRTUjZ5WDhpSnJfMXB2dXpHVjFHTWo4?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Business Wire",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSmd2OVpTSDRPY1A2MlEwZ1lvQUxaYjNtcDdNS0RiVzV0LWJDTEFKaGhNSU5fSW9lRFpYWExUSjJkbi1jY0czeTlhNC1IOFlfQVFMR3NMUzRNbER1S01ZSVNWNTdfQW9XaUE5ZWNoUE9abGVZcURzZ3kwbksyZldHeWMyZXhXTjRJdVVoeU4tR19vWFBMMGpZODNfNDdvdXNkZkl4QWdNcDV1NFlKTDA5THdhUHg5RUMtX3dabjFKZHZoekpXSkVsbVFuNzVWZG1TZThBSklSSmRpWUxyMTJ1RzlCRGhDSzlBd2tXVGtWMmZ1NnpGMXVyUTNNb29weHM?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Times of Eswatini",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Your brand is only as good as your customer experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVl9qb2hrLXl3RWxIMFRBbHFsTTBobjNFV1lJZnpuS2N2cVdWVk51ck5aQzNWbXM2Qnp3NmFTemZJUVZMTndjV3paRWtrYUZqaXJLaHp1WGFPTWhpYWk2a2FiTWpuUm0zS2VPYVljSm0yZHlnWHVDMkJSTVliQlNYNW0ycFM5c0xmOVhaOGZTQQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "brand"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Business Standard",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Revenue is an outcome of customer success",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer success. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLThMTWJ4YWN2WkxlN3RzUU1JUi1QMmRMU1U5U1Z2TXYtNmVsdF9SSGVyc284bFhKbVI0WDgxZWZRVkdOXzA3YVdIRU1LSWtTZnBUR2lmRmJsOUNsYnF2MzZ2MFR3NVFVd3lpODRaLThYbXF5VnQzdGNCTUJpVkN5OHpUOTlUZ1BXVnI1cFpfM2REdTVzLXBtaGxZbXlOenFKM3ZVeUM2Nm42Tk5Cemtj0gG0AUFVX3lxTE04NFRiOEhUVjNZZ1RyZ0NYN0tFTEpMb1g1SVNTN2NKVDNuaGVJZDZCS2EtVFBCZ0FPMU9iVjNPejB0WjRteG1zRzEzMWJvQzhoY2NCM3Z4aE01VVhXVmd1akF5b2lXVzBETngwN2txN1l4TjJzcWY1NHNiaHBBbEpLWlZqWkxPM0pIZHoyaFMxeVFHU0FwVzQ4UUhkUzI3bzJ4TWJjemRmOUcxSElsVDdBY3l1Nw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer success",
+    "churn",
+    "training",
+    "operations",
     "revenue"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "AI isn’t the only recommendation aspect in holiday shopping",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEVIMG5pVWFCMkR5M0VhbVpSeFV0V1BmWFlNeXpKZmR5SkhRX050SnFRREc2bEdvOFpNdkR3TmdWZ1BvN0JtMUowOXlfTm53S21ITGJSSjBhMVd1UTA0d2Y2S1dGTG84VWRUbU5BbVBMZ0FkSUZOWjNwMVlzQWFuaUJFaFFoMDI5R20tdGpQaTBxRlU1SjZCQU5kNVRDVTN3S0lObkh5MUk?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Retail Customer Experience",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Texas liquor retailer taps Magstar tech to streamline operations",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2t4T0lZbzJwa0FCd0Y0TE95MlFDMHB0TnFIYW1mUEJjMlQ3NUlDYWMxRXByWXg0SEtXR3VtcHB0NUJyTEV2ZXQwUndpQ0tPaV9aT2hjYmEtQ0VpcTB0VXVlZEY1dFowLTJtOEctcXdhYV9rUkdmOEdhTGxna0NYUDZBVUFMd2dhdEJSbE4yQzVhUHFkV3VsMGtZNGs5NWY1bVVyYVhmU3c1cGdHMU9jQQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "retail",
-    "operations"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Morningstar",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1JvVGhHYk5vZnJZUVg5cTFEYzVFTnhhS0N3eVFfaERCWlNNQ1RRWjlRRlhiQk52ZWdWaDg0Ri03MVg4Ukt3UGdaeHB2NW5yNG9XSTRfdGlheUtzZXhUamZwa0NzVWtNZG1xdFlxZnZ3SWVnTzhXSU1fUXAwc0JtR08xQWpTYmhIdENMbmVDd3FwVFRCZnVyVGI0OTVxTWRGRHBZVWtNQjZjNmxSQk5CWnFaekpDSHR1SHh0bXdyZWU0ZU1NOFNqQzA4MW5RUy1yUnRYMEZwTFNPRlhETXh5bVBWTnJxTkFfVG53dVpKdkNFckxrUTdiWWJQVUx6T3FDU3piVEtR?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "AiThority",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "EXL Recognized as a Leader and Star Performer in the Everest Group Customer Experience Management PEAK Matrix Assessment 2026",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSTdobW9nV1Y3aXZ6eEV0Nkc0V1BGVVQ0RWZMa1BUWUpiZEpZU1JSMnh3dF82RTRjNENHdnNrRzRULWVqd2xGRXFzakN1S2tHa19EcEZpWjZINFNINUJZS1JXWGVUOWh5a0hiWkM4SEk4ellacFBoZ2l6SGZ1eFVwaWJFblFYR1gyOHEtTmdfUHVkR04yQzg3VTlrQV85QXl3QzZqdmNYNzRiRkFZODdpbTFDeXI1VmZKcURvWlRYQkZLNUQ2ZDliMWJnYXBwNF9ielVIeHIzSmFjMEd2ZVAzRXN2LU5NdU42WThfNFg0ZFN4ODhwUUtnWQ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "quasa.io",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Decagon: Đánh giá các tác nhân AI biến CX thành trải nghiệm chăm sóc khách hàng tận tâm thực thụ",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới cx, chăm sóc khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamNYNXlDTTFSYzg3YzdnUkt5SEQxM0pOLU15YUV3Q0dkbTlRLXBZT2ZjQXZLNVlTNGRSYlpmOWx4X1pMdmpwMGZCWVNRTjh0REhvZDhXejFpemwySjhmU3FzTmtZVHgzUVcwOTVDa25jWXNYY2VwVHFMTzJZSmprbldxbFhfY1p6NFBqS2JWbnlQN2xuNnp3RUdqc3BLejh3d1hDSllZTENWd1Q3UWtLNGZtTTN5eF9GRlV3a3Zn?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "cx",
-    "chăm sóc khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "The Fast Mode",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "O2 Spain Expands Digital Services While Maintaining Simple Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFVUN0JWTVY1OUM3ZnVzdUYzZVNHS1dQNENYUDNyTWpjTVQ5Q3ExM2JFRWtvai10QlMwazhHSVBHanVwNFNwWmpfR1QtaHctNWUzODdpWnltSWNUNHlJRkVxem9pWnYxYTNwazIwakpHZXdRZmR1cWNmVHItc3Z5eG0tZjVwX2JxMnZzRjlZbWdhQ3N1bXk1LTl0VnI4aVFPWjIwOER6cThtRkJPUEd3N1VkYjhmeWtYOTIxb1RUUTNDQnpBeGJIUy1iMFVFZ1BzQTFrSjQ5ako?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "TradingView",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "vua",
-   "t": "Customer experience software maker NICE slightly beats Q3 revenue on AI growth, raises FY outlook",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ0M3MXJfd2dUaFFBQXhXMmNvYi1abGxPNVU4dmwtTU9yZWF2bmNHb3lldWc1RUx6dXNrLVl1QkNVN2NYb3I2UHFHT2pFVm44QjB2cWdYSk4xbmU2TGlhUDNhSzEtcXYwdExvREdyZHAtMUMxVlhkNmxOSDVUS1gyMFZEQzIxREZWaWxDb25rdkp4Z2hJeGRIZkpZV0t3d09TcGhaSGFkLVBuai1aSG1oQjNwMXY2TVBtam1Id2FMc1M1a2pQRWJlQmpWX3VaSzlqRlRpQjY0RDN0VkJtdERTVlNrSjVEZWxKUnd4akdndERibUpFVHMxeGRR?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience",
-    "revenue",
-    "growth"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "ET CIO",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "AI delivered over 50% improvements across core customer service KPIs for top-performing organizations: Repor..",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY0FxcEVpUmlkQllFdHI3aDVZTUw1Mmx2bW0tWU85cHVneGluT0Vpc01STXdtQ0ZNU09lNTFXa0R3UmE0dnNDYlNSWWMxTkpGZWhCZFduVlBuNHRTWG1RQVlNTXg2RG9NajRQSkRiSFFfNThMZkNwLWM5Uk1QRE5RY3d1c3VBNWpBOW5kd0JTbHZBVnRYSHBPUnpvOHhYeXpOdEVZYWpzaUdya3ZhRzh6NWN6MExZdTFjazZEMkdjTHY5QlNlMzEwTFF3MXFWc01EeTB6MFhQZGE3UmpVUFUxUUh2eVBuc0U4YkZWRWo3RnBJV1ljTUw0enMyQ0RkbnNQTmlKWUdnZTFTZ9IBjwJBVV95cUxPcFR4aTFXb3FQNnBwN2lKYmxRU0xvTFJBTWZCdkFuNXg0a1cwM0hJRko5TWtxVDBrelNtNTFPX081NU1maEVFSFN2V0c4S0k5Z0xyaFBPc2d2ajNhaGREMHQtblRXSHlhSkVGcDMzZXFnU0ExajVUdUZRVjdoRXdCSkNTYkx1di1XeC11bUZmTEloeEJySEhKdGUwbkJ6eTNuWlYtUVNuT3NQNTNXODZTMmNVY3Z4bkhuZkNBSGlBeGxOcWlUVE1oVXFmZ2tWT3hVbmJYZzUxZnFKQVVMcnJKNGE0Q0pDbmpwM0lNTHgtZVpvSWFCOHNmTmhweVRnY3hzZFNVN1VISVhNQlJnWTRF?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Vanguard News",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "HRDx sets sights on transforming customer experience through African talent, AI",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkVST0Y4cGdOc2lmNnl3ZmJLaFgwQTljZGR2SVl1eWVlcUN2SXN5UjFIa3N3LUxnQ2xUZ2l4SEQtM2xFOFlXU1hlajVGVkF2V2dVcXpya19idUhxa3ZScHJjQ015TzlFVFpaR3VNRlA2ZmlvTTJET0RwZXB6QzRzdi05U3NLS3RIbTFEUU9Dc0Fra3dhY3dZSGVmTnp5Ny1VSHIxT0VoVDJIM3JYWkt3d1JldUJVd9IBuwFBVV95cUxPYzNTdmwwWmRoY0FONHI0ZjdrZWNtZkY5Q1RVZ3I1ZTZyaXg4NXBWOHdoOVNYWGhlMGIyTjFJek96WENaNy1fZE9QSWUwbFkwTU5PQjRHTVRwN3ExcUg5cnhUbDh0ei16RFByUGl1QzJjOVFEQzNiZkNjaW9zOHh5T29NdFZQdG5HRzlYdWtsT2pUdHpMUTVCRGVNcVdWWkh0dzdpRFQteHczQkZLY2lZaUFMSS1ma2puVUdV?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Exchange4Media",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Bajaj Auto elevates Neeraj Sharma to Head of Customer Experience",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới customer experience. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGdDT19ZN0dZSjIyT3NlNkMzV0Ixd0gyTGd2YXk3ejNSWHV4cHBfcTZqU3NKX09xM00zdHh4Z1BWdlhYalh1RGRtSHBrZi1mTGRiUHM0X2tnU2hQdGMzdHg2R01kNzY5OVdnTVpXaTBxRkFUTkd3VGc3b1p6a0ZEdU5WRWdhUHJFVm9aaE1LMnpFZVoyZ3NUSVNWS3FjVy1hd1J2SHllWnpSU1pnaGpPU3hXYU1nV3FCaFhEUFMxaGRVdjBfMnlJ?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer experience"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "www.marketscreener.com",
-   "hang": "Tổng hợp",
-   "g": "tin",
-   "imp": "cao",
-   "t": "Free energy market, customer loyalty is built on relationships, not price: Mexedia on the analysis by its subsidiary Stantup",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Có tín hiệu bằng chứng: analysis. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX1NTQUhxdGxZTkFSaUMxUjRLdkZDMDBtcjVoYi0xMWNWMTZvdWZUbzZmTDh5QTEwN3daRjhEcVIxSnFyT1piOURUZDUwLVFQdmVPb2hyLWgtMUZWZmVKQTREQV9tU20zUFpnc2lTY1VPNEtlSW1wekNla0xpYmJ3d010UDF0bGJFSXJBc0NwLWxlcXhlLWZyelY4WUppM3VaSXRSWGFZczdELW9ncVN2S0h6RUZ3TDZ4V2xDUkpXYnhfaVNHOEhzeHhwSjRpVndqaHN5QjdyTm9HZm5uQ2Mxa0lLOWE?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "analysis",
-    "customer loyalty",
-    "loyalty"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Báo VietNamNet",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Chubb Life Việt Nam nâng cấp văn phòng, chú trọng trải nghiệm khách hàng",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới trải nghiệm khách hàng. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDNFeUZQYVV4a190TXhsWFFsX3ZwNkJzb1dIWnl5cjBsTUkwSEx6Q3ZGUFNxOWNyUzVjNkNPS2JMSGMwUnJ1X3Nmd3k2Qjc3UEZMU3pvT0FnSldNT3BfY19DZWZ3V2R3Z0JZSG1kdUZicks1d3Brc1V2Y3B4TS16cmVMWDlXUlVSNFBDalIwOEJJbXlrWTB0V2NWa3F3OVhuMWxjdzhaT21lZw?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "trải nghiệm khách hàng"
-   ]
-  },
-  {
-   "d": "2026-11-04",
-   "src": "Tạp chí Doanh nghiệp và Hội nhập",
-   "hang": "Việt Nam",
-   "g": "tin",
-   "imp": "thap",
-   "t": "Môi trường Long Phước nâng chất lượng dịch vụ trước áp lực phát triển xanh",
-   "s": "",
-   "w": "Tin ngành hoặc nghiên cứu mới. Liên quan tới chất lượng dịch vụ. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2FibVV1UUd2WjFaVzZZOE9mZXRMUHV5c0t5MUE2YTc1RXBxQ2JrZHhmcnUzaXBnckhCVUZqdnRqV1JaNThNa3FiVUlENWlWV05vYjRBRGxZcEVONTV1R2lQbVFyWDdPdWFXYnNhUHNRUlBmclE5NUNuRmt5SFBiaTAxRVdIcUVIblQxSjhUNFdKSXRzbWxhLUtNVmd5QkY3QlpFbngzWGVFMnlKYVZXQjIwbW9Dazg?oc=5",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "chất lượng dịch vụ"
    ]
   },
   {
@@ -4554,7 +4631,7 @@
    "src": "Reddit · r/CustomerSuccess",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "thap",
+   "imp": "vua",
    "t": "30/60/90 Day Customer Success Plan",
    "s": "Hey yall - I have a unique opportunity to stand up a customer support function for a tech startup local to my area. I’m being asked to create a 30/60/90 day plan to start implementing on day 1. For background, I’m their first CS hire. They have an existing client base with both a physical product purchase and software subscription costs. I don’t have a ton of info outside of that, so trying to paint broad strokes…",
    "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer success, customer support, retention. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -4595,7 +4672,7 @@
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
    "g": "thaoluan",
-   "imp": "vua",
+   "imp": "thap",
    "t": "Abysmal Customer Service",
    "s": "submitted by /u/anthonyjamesreinking [link] [comments]",
    "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
@@ -4628,6 +4705,24 @@
   },
   {
    "d": "2026-11-07",
+   "src": "Reddit · r/smallbusiness",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Google Ads is impossible",
+   "s": "I'm starting a new business and trying to get google ads to work. It has been the most mind numbering experience of perhaps my life. Campaigns, audiences, key words, conversions, audience segments, affinities, assets, ...it just goes on and on. I'm not stupid. I have a PhD in physics. I taught myself how to do computer-aided design. Google ads is much more complex than quantum mechanics. The difference is that lea…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/smallbusiness/comments/1xps31g/google_ads_is_impossible/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "customer service"
+   ]
+  },
+  {
+   "d": "2026-11-07",
    "src": "Reddit · r/CustomerExperience",
    "hang": "Reddit",
    "g": "thaoluan",
@@ -4649,24 +4744,6 @@
     "customer satisfaction",
     "cx",
     "chatbot"
-   ]
-  },
-  {
-   "d": "2026-11-07",
-   "src": "Reddit · r/smallbusiness",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Google Ads is impossible",
-   "s": "I'm starting a new business and trying to get google ads to work. It has been the most mind numbering experience of perhaps my life. Campaigns, audiences, key words, conversions, audience segments, affinities, assets, ...it just goes on and on. I'm not stupid. I have a PhD in physics. I taught myself how to do computer-aided design. Google ads is much more complex than quantum mechanics. The difference is that lea…",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới customer service. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/smallbusiness/comments/1xps31g/google_ads_is_impossible/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service"
    ]
   },
   {
@@ -4764,6 +4841,26 @@
     "customer success",
     "metrics",
     "process"
+   ]
+  },
+  {
+   "d": "2026-11-06",
+   "src": "Reddit · r/CustomerSuccess",
+   "hang": "Reddit",
+   "g": "thaoluan",
+   "imp": "thap",
+   "t": "Setting goals",
+   "s": "I’m about 6 mos into my role, which is like a hybrid between service, onboarding, account management and CSM. Basically we are CSMs in title, but our team fully owns accounts through the life cycle. We are a very small, lean team and the bar is very high for performance, with an emphasis on quality over quantity. My initial goals were quantity based, I wanted to be pulling my weight and taking on the same amount o…",
+   "w": "Thảo luận từ cộng đồng người làm nghề. Liên quan tới onboarding. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
+   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xpdh1l/setting_goals/",
+   "diem": 0,
+   "binhLuan": 0,
+   "tl": "",
+   "khongPT": false,
+   "khoa": [
+    "onboarding",
+    "healthcare",
+    "quality"
    ]
   },
   {
@@ -6136,105 +6233,6 @@
    "khongPT": false,
    "khoa": [],
    "y": "Khi nhân viên tổng đài bị khách mắng qua chat dù gọi điện thì ôn hòa, hãy quy định kênh text cũng cần biên bản hóa thỏa thuận ứng xử và ranh giới rõ ràng như khi gặp trực tiếp.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-22",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Do I accept a CS role with no experience 🫪🫪",
-   "s": "I’ve been a fashion merchandiser/buyer for my whole career but I am looking to pivot. I have a job offer for a Client Success Role at a small tech company and I’m so on the fence. I was interviewing for a different position and they told me that this could be a better fit for me. I think in one hand it could be a good experience but on the other hand I’ve never done this before. I’ve done a lot of research and eve…",
-   "w": "Thảo luận từ cộng đồng người làm nghề. Có tín hiệu bằng chứng: research. Bản dịch tiếng Việt sẽ có sau lần chạy phân tích tới.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xbta60/do_i_accept_a_cs_role_with_no_experience/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research"
-   ]
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Reddit · r/CustomerExperience",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "vua",
-   "t": "How do you keep everyone updated when prices change during a busy shift? I spent most of my time trying to tell agents and some still missed it.",
-   "s": "We had a full queue when the new prices went into effect midday. We don't have a way to huddle everyone together or pull people off the phones so I spent almost an hour walking around the floor between calls to let everyone know. I still missed two agents and both kept quoting the old prices for the rest of the day. One of those calls has now turned into a complaint. It's frustrating because I tried to get the upd…",
-   "w": "Khi đổi giá giữa ca làm việc đông khách, quản lý phải chạy khắp sàn báo từng agent, vẫn sót hai người khiến họ báo giá cũ và bị khách phàn nàn.",
-   "u": "https://www.reddit.com/r/customerexperience/comments/1xbhljd/how_do_you_keep_everyone_updated_when_prices/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "complaint"
-   ],
-   "y": "Hai agent báo sai giá là dấu hiệu quy trình cập nhật thông tin đang phụ thuộc vào con người thay vì hệ thống, nên dùng bảng tin nội bộ hoặc popup trên phần mềm CSKH để đồng bộ tức thời.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "vua",
-   "t": "Customer Success people using ChatGPT/Claude - do you save the workflows that actually work?",
-   "s": "Curious how people are handling this. If you find a prompt/workflow that works really well for things like customer emails, call summaries, QBR prep, escalations or account research - do you actually save it somewhere? Or do you mostly go back to old chats / recreate it the next time? Interested in what people actually do day to day, not which AI tool is best. submitted by /u/Humble-Market-158 [link] [comments]",
-   "w": "Bài thảo luận hỏi dân Customer Success có lưu lại các prompt/workflow dùng ChatGPT hiệu quả cho email, tóm tắt cuộc gọi, QBR hay không, hay mỗi lần đều làm lại từ đầu.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xb5q76/customer_success_people_using_chatgptclaude_do/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "research",
-    "customer success"
-   ],
-   "y": "Đã bao giờ bạn kiểm tra xem team CS đang mất bao nhiêu giờ mỗi tuần để dựng lại prompt cũ thay vì lưu thành thư viện dùng chung?",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Reddit · r/smallbusiness",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Warning to Small Business Owners: $4,000 in Unexpected Yelp Charges",
-   "s": "My 82-year-old father signed up for what he thought was a completely free Yelp business profile using my credit card. We later discovered Yelp quietly charged us nearly $4,000 over six months for advertising he never intended to purchase. When I canceled the service and requested a refund, Yelp made the process incredibly difficult: a. Stonewalling Customer Service: After multiple calls, both Billing and Customer…",
-   "w": "Một chủ doanh nghiệp lớn tuổi đăng ký hồ sơ Yelp tưởng miễn phí nhưng bị trừ gần 4.000 đô trong 6 tháng tiền quảng cáo, khi khiếu nại thì bị bộ phận chăm sóc khách hàng gây khó dễ.",
-   "u": "https://www.reddit.com/r/smallbusiness/comments/1xba36k/warning_to_small_business_owners_4000_in/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [
-    "customer service",
-    "customer success",
-    "process"
-   ],
-   "y": "Rà lại ngay mọi gói đăng ký miễn phí có liên kết thẻ thanh toán và đặt nhắc hạn kiểm tra sao kê hàng tháng để tránh bị trừ tiền âm thầm.",
-   "wa": 1
-  },
-  {
-   "d": "2026-10-21",
-   "src": "Reddit · r/CustomerSuccess",
-   "hang": "Reddit",
-   "g": "thaoluan",
-   "imp": "thap",
-   "t": "Rate your CS job on how busy you are from 1-10.",
-   "s": "If you can provide more detail, would be awesome. 1 is dead, 10 is you’re swamped every day. Cheers! submitted by /u/Silent-Surround-1659 [link] [comments]",
-   "w": "Một thảo luận cộng đồng xin mọi người tự chấm điểm độ bận rộn công việc CS từ 1 đến 10, kèm chi tiết cụ thể nếu có thể.",
-   "u": "https://www.reddit.com/r/CustomerSuccess/comments/1xbqtix/rate_your_cs_job_on_how_busy_you_are_from_110/",
-   "diem": 0,
-   "binhLuan": 0,
-   "tl": "",
-   "khongPT": false,
-   "khoa": [],
-   "y": "Chỗ dễ nhầm là đo độ bận bằng số ticket, trong khi cần đo thời gian xử lý thực và mức độ phức tạp từng case để phân bổ nhân sự đúng.",
    "wa": 1
   }
  ]
